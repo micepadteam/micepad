@@ -9,7 +9,8 @@
       "Bash(swift:*)",
       "Bash(screencapture:*)",
       "Bash",
-      "WebFetch(domain:micepad.co)"
+      "WebFetch(domain:micepad.co)",
+      "WebFetch(domain:localhost)"
     ]
   }
 }
