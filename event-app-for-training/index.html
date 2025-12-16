@@ -1,103 +1,400 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Training & Workshop Event App | Micepad</title>
+  <title>Training &amp; Workshop Event App | Micepad</title>
   <meta name="description" content="Deliver engaging training sessions and workshops with Micepad. Track attendance, gather feedback, and measure learning outcomes.">
-  <meta name="keywords" content="training event app, workshop app, corporate training app, learning event app, seminar app">
-  <link rel="canonical" href="https://micepad.co/event-app-for-training/">
-  <link rel="icon" href="/uploads/2023/07/cropped-micepad-favicon.png">
-  <link rel="stylesheet" href="/css/styles.css">
+
+  <link rel="canonical" href="../index.htmlevent-app-for-training/">
+
+  <!-- Open Graph -->
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Training &amp; Workshop Event App | Micepad">
+  <meta property="og:description" content="Deliver engaging training sessions and workshops with Micepad. Track attendance, gather feedback, and measure learning outcomes.">
+  <meta property="og:url" content="../index.htmlevent-app-for-training/">
+  <meta property="og:site_name" content="Micepad">
+  <meta property="og:image" content="../index.htmlimg/og-image.jpg">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Training &amp; Workshop Event App | Micepad">
+  <meta name="twitter:description" content="Deliver engaging training sessions and workshops with Micepad. Track attendance, gather feedback, and measure learning outcomes.">
+  <meta name="twitter:image" content="../index.htmlimg/og-image.jpg">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Work+Sans:wght@600&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
   <style>
-    .landing-hero { padding: 80px 20px; text-align: center; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); }
-    .landing-hero h1 { font-size: 2.5rem; margin-bottom: 1rem; color: #070707; }
-    .landing-hero p { font-size: 1.25rem; color: #6E7A84; max-width: 600px; margin: 0 auto 2rem; }
-    .btn-primary { display: inline-block; padding: 16px 32px; background: #155EEF; color: white; border-radius: 8px; text-decoration: none; font-weight: 600; }
-    .btn-primary:hover { background: #0d4fc7; }
-    .benefits { padding: 60px 20px; max-width: 1200px; margin: 0 auto; }
-    .benefits h2 { text-align: center; margin-bottom: 40px; }
-    .benefits-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
-    .benefit-card { padding: 30px; background: #fff; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-    .benefit-card h3 { margin-bottom: 10px; color: #070707; }
-    .benefit-card p { color: #6E7A84; }
-    .faq { padding: 60px 20px; background: #f8f9fa; }
-    .faq h2 { text-align: center; margin-bottom: 40px; }
-    .faq-list { max-width: 800px; margin: 0 auto; }
-    .faq-item { margin-bottom: 20px; padding: 20px; background: white; border-radius: 8px; }
-    .faq-item h4 { margin-bottom: 10px; color: #070707; }
-    .faq-item p { color: #6E7A84; margin: 0; }
-    .cta-section { padding: 80px 20px; text-align: center; background: #155EEF; color: white; }
-    .cta-section h2 { margin-bottom: 1rem; }
-    .cta-section p { margin-bottom: 2rem; opacity: 0.9; }
-    .cta-section .btn-primary { background: white; color: #155EEF; }
+    *,*::before,*::after{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;font-family:"Inter",system-ui,sans-serif;line-height:1.6;color:#333;background:#fff}
+    img{max-width:100%;height:auto;display:block}
+    a{color:inherit;text-decoration:none}
+    h1,h2,h3,h4,h5,h6,p{margin:0}
+    .site-header{position:sticky;top:0;z-index:1000;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.1)}
+    .header-wrapper{max-width:1200px;margin:0 auto;padding:0 20px}
+    .nav-container{display:flex;align-items:center;justify-content:space-between;height:70px}
+    .site-branding .logo{height:40px;width:auto}
+    .nav-menu{display:flex;align-items:center}
+    .main-menu{display:flex;list-style:none;margin:0;padding:0;gap:30px}
+    .menu-item a{color:#333;font-weight:500;font-size:15px;transition:color .2s}
+    .menu-item a:hover{color:#155EEF}
+    .menu-item.has-submenu{position:relative}
+    .submenu{display:none;position:absolute;top:100%;left:0;background:#fff;min-width:220px;box-shadow:0 4px 20px rgba(0,0,0,.15);border-radius:8px;padding:10px 0;list-style:none}
+    .menu-item.has-submenu:hover .submenu{display:block}
+    .submenu li a{display:block;padding:10px 20px}
+    .submenu li a:hover{background:#f5f5f5}
+    .header-cta .btn{padding:12px 24px}
+    .mobile-menu-toggle{display:none}
+    .btn{display:inline-block;padding:14px 28px;border-radius:8px;font-weight:600;transition:all .2s;cursor:pointer;border:none;font-size:16px}
+    .btn-primary{background:#155EEF;color:#fff}
+    .btn-primary:hover{background:#0d4fc7}
+    .btn-lg{padding:18px 36px;font-size:18px}
+    .container{max-width:1200px;margin:0 auto;padding:0 20px}
+    .landing-hero{padding:80px 0;background:linear-gradient(135deg,#f5f7fa 0%,#e4e8ec 100%)}
+    .landing-hero .container{display:flex;align-items:center;gap:60px}
+    .hero-content{flex:1}
+    .hero-eyebrow{color:#155EEF;font-weight:600;font-size:14px;text-transform:uppercase;letter-spacing:1px;margin-bottom:16px}
+    .hero-title{font-size:48px;font-weight:700;color:#070707;line-height:1.2;margin-bottom:20px;font-family:"Work Sans",sans-serif}
+    .hero-description{font-size:20px;color:#6E7A84;line-height:1.6;margin-bottom:32px}
+    .hero-image{flex:1}
+    .hero-image img{border-radius:12px;box-shadow:0 20px 40px rgba(0,0,0,.15)}
+    .features-section,.faq-section{padding:80px 0}
+    .section-header{text-align:center;max-width:700px;margin:0 auto 60px}
+    .section-header h2,.faq-section h2{font-size:36px;font-weight:600;color:#070707;margin-bottom:16px;font-family:"Work Sans",sans-serif;text-align:center}
+    .section-header p{font-size:18px;color:#6E7A84}
+    .features-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:30px}
+    .feature-card{padding:30px;background:#fff;border-radius:12px;box-shadow:0 2px 10px rgba(0,0,0,.08)}
+    .feature-card h3{font-size:20px;font-weight:600;color:#070707;margin-bottom:12px}
+    .feature-card p{color:#6E7A84}
+    .faq-list{max-width:800px;margin:40px auto 0}
+    .faq-item{margin-bottom:16px;padding:20px;background:#f8f9fa;border-radius:8px}
+    .faq-item summary{font-weight:600;cursor:pointer;color:#070707}
+    .faq-answer{margin-top:12px;color:#6E7A84}
+    .cta-section{padding:80px 0;background:#155EEF;color:#fff;text-align:center}
+    .cta-section h2{color:#fff;margin-bottom:16px;font-size:36px}
+    .cta-section p{opacity:.9;margin-bottom:32px;font-size:18px}
+    .cta-section .btn-primary{background:#fff;color:#155EEF}
+    .site-footer{padding:60px 0 30px;background:#070707;color:rgba(255,255,255,.7)}
+    .footer-wrapper{max-width:1200px;margin:0 auto;padding:0 20px}
+    .footer-main{display:grid;grid-template-columns:2fr repeat(4,1fr);gap:40px;margin-bottom:40px}
+    .footer-col ul{list-style:none;padding:0;margin:0}
+    .footer-col li{margin-bottom:12px}
+    .footer-col a:hover{color:#fff}
+    .footer-col h4{color:#fff;font-size:14px;font-weight:600;margin-bottom:16px;text-transform:uppercase;letter-spacing:1px}
+    .footer-logo{height:40px;margin-bottom:16px}
+    .footer-brand p{font-size:14px;margin-bottom:16px}
+    .footer-social{display:flex;gap:12px}
+    .footer-social a{font-size:20px}
+    .footer-bottom{border-top:1px solid rgba(255,255,255,.1);padding-top:30px;display:flex;justify-content:space-between;font-size:14px}
+    .footer-legal a{margin-left:20px}
+    @media(max-width:768px){
+      .nav-menu,.header-cta{display:none}
+      .mobile-menu-toggle{display:block;background:none;border:none;padding:10px;cursor:pointer}
+      .mobile-menu-toggle .bar{display:block;width:24px;height:2px;background:#333;margin:5px 0}
+      .landing-hero .container{flex-direction:column;text-align:center}
+      .hero-title{font-size:32px}
+      .footer-main{grid-template-columns:1fr 1fr;text-align:center}
+      .footer-brand{grid-column:1/-1}
+      .footer-bottom{flex-direction:column;gap:16px;text-align:center}
+    }
   </style>
+
+
+<!-- Landing Page Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Training &amp; Workshop Event App",
+  "description": "Deliver engaging training sessions and workshops with Micepad. Track attendance, gather feedback, and measure learning outcomes.",
+  "url": "../index.htmlevent-app-for-training/",
+  "mainEntity": {
+    "@type": "SoftwareApplication",
+    "name": "Micepad Event App for Training &amp; Workshops",
+    "applicationCategory": "Event Management Software",
+    "operatingSystem": "Web, iOS, Android"
+  }
+}
+</script>
 </head>
-<body>
-  <header style="padding: 20px; border-bottom: 1px solid #eee;">
-    <div style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center;">
-      <a href="/"><img src="/uploads/2021/05/Micepad-logo@2x.png" alt="Micepad" height="40"></a>
-      <nav>
-        <a href="/products/" style="margin-right: 20px; color: #333;">Products</a>
-        <a href="/solutions/" style="margin-right: 20px; color: #333;">Solutions</a>
-        <a href="/contact-us/" class="btn-primary" style="padding: 10px 20px; font-size: 14px;">Get Started</a>
+<body class="landing-page landing-event-app-for-training">
+
+  <!-- Header -->
+  <header id="site-header" class="site-header">
+    <div class="header-wrapper">
+      <nav class="nav-container">
+        <!-- Logo -->
+        <div class="site-branding">
+          <a href="/" rel="home">
+            <img src="/img/logo/micepad-logo.png" alt="Micepad" class="logo">
+          </a>
+        </div>
+
+        <!-- Main Navigation -->
+        <div class="nav-menu">
+          <ul class="main-menu">
+            <li class="menu-item has-submenu">
+              <a href="/products.html">Products</a>
+              <ul class="submenu">
+                <li><a href="/products/online-event-registration-software.html">Online Event Registration</a></li>
+                <li><a href="/products/check-in-app.html">Check-In App</a></li>
+                <li><a href="/products/mobile-event-app.html">Mobile Event App</a></li>
+                <li><a href="/products/virtual-event-platform.html">Virtual Event Platform</a></li>
+              </ul>
+            </li>
+            <li class="menu-item has-submenu">
+              <a href="#">Solutions</a>
+              <ul class="submenu">
+                <li><a href="/solutions/hybrid-events.html">Hybrid Events</a></li>
+                <li><a href="/solutions/conferences-and-summits.html">Conferences &amp; Summits</a></li>
+                <li><a href="/solutions/tradeshows-expos.html">Tradeshows &amp; Expos</a></li>
+                <li><a href="/solutions/employee-engagement.html">Employee Engagement</a></li>
+                <li><a href="/solutions/training-workshops.html">Training &amp; Workshops</a></li>
+                <li><a href="/solutions/community-meetups.html">Community Meetups</a></li>
+              </ul>
+            </li>
+            <li class="menu-item">
+              <a href="/customers.html">Customers</a>
+            </li>
+            <li class="menu-item has-submenu">
+              <a href="#">Resources</a>
+              <ul class="submenu">
+                <li><a href="/blog.html">Blog</a></li>
+                <li><a href="https://help.micepad.co/">Help Center</a></li>
+              </ul>
+            </li>
+            <li class="menu-item">
+              <a href="https://app.micepad.co/admin2/auth/login">Log In</a>
+            </li>
+          </ul>
+        </div>
+
+        <!-- CTA Button -->
+        <div class="header-cta">
+          <a href="/contact-us.html" class="btn btn-primary">Request Demo</a>
+        </div>
+
+        <!-- Mobile Menu Toggle -->
+        <button type="button" class="mobile-menu-toggle" aria-label="Toggle menu">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </button>
       </nav>
     </div>
   </header>
 
+  <!-- Main Content -->
+  <main id="content" class="site-content">
+<div class="landing-page landing-event-app-for-training">
+
+  <!-- Hero Section -->
   <section class="landing-hero">
-    <h1>Event App for Training & Workshops</h1>
-    <p>Make training sessions interactive and track learning outcomes</p>
-    <a href="/contact-us/?industry=training" class="btn-primary">See Training Features</a>
-  </section>
-
-  <section class="benefits">
-    <h2>Why Choose Micepad?</h2>
-    <div class="benefits-grid">
-      
-      <div class="benefit-card">
-        <h3>Attendance Tracking</h3>
-        <p>Automatic check-in and session attendance for compliance.</p>
+    <div class="container">
+      <div class="hero-content">
+        <p class="hero-eyebrow">Event Management Software</p>
+        <h1 class="hero-title">Event App for Training &amp; Workshops</h1>
+        <p class="hero-description">Make training sessions interactive and track learning outcomes</p>
+        <div class="hero-cta">
+          <a href="/contact-us.html" class="btn btn-primary btn-lg">Request Demo</a>
+        </div>
       </div>
-      <div class="benefit-card">
-        <h3>Interactive Learning</h3>
-        <p>Quizzes, polls, and Q&A keep participants engaged.</p>
-      </div>
-      <div class="benefit-card">
-        <h3>Feedback Collection</h3>
-        <p>Post-session surveys to measure training effectiveness.</p>
-      </div>
-      <div class="benefit-card">
-        <h3>Certificate Generation</h3>
-        <p>Auto-generate completion certificates for attendees.</p>
+      <div class="hero-image">
+        <img src="/img/hero/training.jpg" alt="Event App for Training &amp; Workshops">
       </div>
     </div>
   </section>
 
-  
-  <section class="faq">
-    <h2>Frequently Asked Questions</h2>
-    <div class="faq-list">
-      
-      <div class="faq-item">
-        <h4>Can I track who attended which sessions?</h4>
-        <p>Yes, detailed attendance reports show exactly who attended each training session.</p>
+  <!-- Trust Badges / Logos -->
+
+  <!-- Pain Points / Problem Section -->
+
+  <!-- Solution / Features Section -->
+  <section class="features-section">
+    <div class="container">
+      <div class="section-header">
+        <h2>How Micepad Helps Training &amp; Workshops Events</h2>
+        <p>Discover powerful tools designed for training &amp; workshops event professionals.</p>
       </div>
-      <div class="faq-item">
-        <h4>Do you support hybrid training?</h4>
-        <p>Yes, Micepad supports in-person, virtual, and hybrid training formats.</p>
+      <div class="features-grid">
+        <div class="feature-card">
+          <div class="feature-content">
+            <h3>Attendance Tracking</h3>
+            <p>Automatic check-in and session attendance for compliance.</p>
+            <ul class="feature-benefits">
+            </ul>
+          </div>
+        </div>
+        <div class="feature-card">
+          <div class="feature-content">
+            <h3>Interactive Learning</h3>
+            <p>Quizzes, polls, and Q&amp;A keep participants engaged.</p>
+            <ul class="feature-benefits">
+            </ul>
+          </div>
+        </div>
+        <div class="feature-card">
+          <div class="feature-content">
+            <h3>Feedback Collection</h3>
+            <p>Post-session surveys to measure training effectiveness.</p>
+            <ul class="feature-benefits">
+            </ul>
+          </div>
+        </div>
+        <div class="feature-card">
+          <div class="feature-content">
+            <h3>Certificate Generation</h3>
+            <p>Auto-generate completion certificates for attendees.</p>
+            <ul class="feature-benefits">
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
   </section>
 
-  <section class="cta-section">
-    <h2>Ready to Transform Your Events?</h2>
-    <p>Join thousands of event organizers who trust Micepad</p>
-    <a href="/contact-us/" class="btn-primary">Get a Free Demo</a>
+  <!-- Use Cases Section -->
+
+  <!-- Testimonial Section -->
+
+  <!-- Stats Section -->
+
+  <!-- FAQ Section -->
+  <section class="faq-section">
+    <div class="container">
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item">
+          <summary class="faq-question">Can I track who attended which sessions?</summary>
+          <div class="faq-answer">Yes, detailed attendance reports show exactly who attended each training session.</div>
+        </details>
+        <details class="faq-item">
+          <summary class="faq-question">Do you support hybrid training?</summary>
+          <div class="faq-answer">Yes, Micepad supports in-person, virtual, and hybrid training formats.</div>
+        </details>
+      </div>
+    </div>
   </section>
 
-  <footer style="padding: 40px 20px; background: #070707; color: #999; text-align: center;">
-    <p>&copy; 2025 Micepad. All rights reserved.</p>
+  <!-- Related Solutions -->
+  <section class="related-section">
+    <div class="container">
+      <h2>Explore More Solutions</h2>
+      <div class="related-grid">
+        <a href="/event-app-for-corporate-events/" class="related-card">
+          <h3>Event App for corporate events</h3>
+          <p></p>
+          <span class="link-arrow">&rarr;</span>
+        </a>
+        <a href="/event-app-for-education/" class="related-card">
+          <h3>Event App for education</h3>
+          <p></p>
+          <span class="link-arrow">&rarr;</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA Section -->
+  <section class="final-cta-section">
+    <div class="container">
+      <h2>Ready to Transform Your Training &amp; Workshops Events?</h2>
+      <p>See how Micepad can help you create exceptional event experiences.</p>
+      <div class="cta-buttons">
+        <a href="/contact-us.html" class="btn btn-primary btn-lg">Request Demo</a>
+        <a href="/pricing.html" class="btn btn-outline btn-lg">View Pricing</a>
+      </div>
+    </div>
+  </section>
+
+</div>
+  </main>
+
+  <!-- Footer -->
+  <footer id="site-footer" class="site-footer">
+    <div class="footer-wrapper">
+      <div class="footer-main">
+        <!-- Company Info -->
+        <div class="footer-col footer-brand">
+          <img src="/img/logo/micepad-logo-white.png" alt="Micepad" class="footer-logo">
+          <p>Your complete event management software</p>
+          <div class="social-links">
+            <a href="https://www.facebook.com/micepadapp" aria-label="Facebook">
+              <svg viewBox="0 0 448 512" width="24" height="24"><path fill="currentColor" d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"/></svg>
+            </a>
+            <a href="https://www.linkedin.com/company/micepad/" aria-label="LinkedIn">
+              <svg viewBox="0 0 448 512" width="24" height="24"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+            </a>
+            <a href="https://www.youtube.com/channel/UCtA-60MpA7WKqrQ7NYSRb0w" aria-label="YouTube">
+              <svg viewBox="0 0 576 512" width="24" height="24"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Products -->
+        <div class="footer-col">
+          <h5>Products</h5>
+          <ul>
+            <li><a href="/products/online-event-registration-software.html">Online Registration</a></li>
+            <li><a href="/products/check-in-app.html">Check-in &amp; Badging</a></li>
+            <li><a href="/products/mobile-event-app.html">Mobile Event App</a></li>
+            <li><a href="/products/virtual-event-platform.html">Virtual Event Platform</a></li>
+          </ul>
+        </div>
+
+        <!-- Solutions -->
+        <div class="footer-col">
+          <h5>Solutions</h5>
+          <ul>
+            <li><a href="/solutions/hybrid-events.html">Hybrid Events</a></li>
+            <li><a href="/solutions/conferences-and-summits.html">Conferences &amp; Summits</a></li>
+            <li><a href="/solutions/tradeshows-expos.html">Tradeshows &amp; Expos</a></li>
+            <li><a href="/solutions/employee-engagement.html">Employee Engagement</a></li>
+            <li><a href="/solutions/training-workshops.html">Training &amp; Workshops</a></li>
+            <li><a href="/solutions/community-meetups.html">Community Meetups</a></li>
+          </ul>
+        </div>
+
+        <!-- Resources -->
+        <div class="footer-col">
+          <h5>Resources</h5>
+          <ul>
+            <li><a href="/blog.html">Blog</a></li>
+            <li><a href="https://help.micepad.co/">Help Center</a></li>
+          </ul>
+        </div>
+
+        <!-- Company -->
+        <div class="footer-col">
+          <h5>Company</h5>
+          <ul>
+            <li><a href="/about-us.html">About Us</a></li>
+            <li><a href="/contact-us.html">Contact Us</a></li>
+            <li><a href="/pricing.html">Pricing</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Footer Bottom -->
+      <div class="footer-bottom">
+        <div class="footer-legal">
+          <p>&copy; 2025 Micepad. All rights reserved.</p>
+          <ul class="legal-links">
+            <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="/terms-conditions.html">Terms &amp; Conditions</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </footer>
+
+  <!-- Scripts -->
+  <script src="/js/main.js"></script>
 </body>
 </html>
