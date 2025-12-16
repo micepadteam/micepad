@@ -137,11 +137,7 @@ function build() {
     process.exit(1);
   }
 
-  // Create landings output directory
-  const landingsDir = path.join(DIST_DIR, 'landings');
-  if (!fs.existsSync(landingsDir)) {
-    fs.mkdirSync(landingsDir, { recursive: true });
-  }
+  // Landing pages go directly to dist/event-app-for-{slug}/
 
   // Load and process each landing page data file
   const landingsDataDir = path.join(DATA_DIR, 'landings');
@@ -158,11 +154,11 @@ function build() {
     const html = generateLandingHTML(landing, site);
 
     // Write to file
-    const outputDir = path.join(landingsDir, landing.slug);
+    const outputDir = path.join(DIST_DIR, landing.slug);
     fs.mkdirSync(outputDir, { recursive: true });
     fs.writeFileSync(path.join(outputDir, 'index.html'), html);
 
-    console.log(`  ✓ /landings/${landing.slug}/`);
+    console.log(`  ✓ /${landing.slug}/`);
     count++;
   }
 
