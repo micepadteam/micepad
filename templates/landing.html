@@ -1,0 +1,60 @@
+{{!-- pSEO landing page template --}}
+{{#> base}}
+  {{#*inline "content"}}
+  <section class="landing-hero">
+    <div class="container">
+      <h1>{{ headline }}</h1>
+      <p class="lead">{{ subheadline }}</p>
+      <a href="{{ ctaUrl }}" class="btn btn-primary">{{ ctaText }}</a>
+    </div>
+    {{#if heroImage}}
+    <img src="{{ heroImage }}" alt="{{ headline }}" class="hero-image">
+    {{/if}}
+  </section>
+
+  {{#if features}}
+  <section class="features">
+    <div class="container">
+      <h2>{{ featuresTitle }}</h2>
+      <div class="features-grid">
+        {{#each features}}
+        <div class="feature-card">
+          {{#if icon}}<img src="{{ icon }}" alt="">{{/if}}
+          <h3>{{ title }}</h3>
+          <p>{{ description }}</p>
+        </div>
+        {{/each}}
+      </div>
+    </div>
+  </section>
+  {{/if}}
+
+  {{#if testimonials}}
+  <section class="testimonials">
+    <div class="container">
+      <h2>Trusted by Leading Organizations</h2>
+      <div class="testimonials-grid">
+        {{#each testimonials}}
+        <blockquote class="testimonial">
+          <p>{{ quote }}</p>
+          <cite>
+            {{#if avatar}}<img src="{{ avatar }}" alt="{{ name }}">{{/if}}
+            <span>{{ name }}</span>
+            <span>{{ role }}, {{ company }}</span>
+          </cite>
+        </blockquote>
+        {{/each}}
+      </div>
+    </div>
+  </section>
+  {{/if}}
+
+  <section class="cta-section">
+    <div class="container">
+      <h2>{{ ctaSectionTitle }}</h2>
+      <p>{{ ctaSectionText }}</p>
+      <a href="{{ ctaUrl }}" class="btn btn-primary">{{ ctaText }}</a>
+    </div>
+  </section>
+  {{/inline}}
+{{/base}}

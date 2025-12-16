@@ -1,0 +1,31 @@
+{{!-- Blog article template --}}
+{{#> base}}
+  {{#*inline "content"}}
+  <article class="blog-post">
+    <header class="post-header">
+      <nav class="breadcrumb">
+        <a href="/">Home</a> &gt; <a href="/blog">Blog</a> &gt; <span>{{ title }}</span>
+      </nav>
+      <h1>{{ title }}</h1>
+      <div class="post-meta">
+        <time datetime="{{ date }}">{{ dateFormatted }}</time>
+        <span class="author">{{ author }}</span>
+        {{#if category}}<span class="category">{{ category }}</span>{{/if}}
+      </div>
+      {{#if featuredImage}}
+      <img src="{{ featuredImage }}" alt="{{ title }}" class="featured-image">
+      {{/if}}
+    </header>
+    <div class="post-content">
+      {{{ body }}}
+    </div>
+    {{#if tags}}
+    <footer class="post-footer">
+      <div class="tags">
+        {{#each tags}}<a href="/blog/tag/{{ this }}">{{ this }}</a>{{/each}}
+      </div>
+    </footer>
+    {{/if}}
+  </article>
+  {{/inline}}
+{{/base}}
