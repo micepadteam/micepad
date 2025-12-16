@@ -1,0 +1,72 @@
+{
+  "slug": "event-app-for-tradeshows",
+  "locale": "en",
+
+  "seo": {
+    "title": "Tradeshow & Expo Event App | Micepad",
+    "description": "Maximize exhibitor ROI and attendee engagement at tradeshows with Micepad. Interactive floor maps, lead capture, and exhibitor profiles.",
+    "keywords": ["tradeshow app", "expo app", "exhibition app", "trade show event app", "exhibitor lead capture"]
+  },
+
+  "hero": {
+    "headline": "Event App for Tradeshows & Expos",
+    "subheadline": "Connect exhibitors with qualified leads through interactive floor maps and lead capture",
+    "cta": {
+      "label": "Book a Demo",
+      "url": "/contact-us/?industry=tradeshows"
+    },
+    "image": "/img/hero/tradeshows.jpg"
+  },
+
+  "benefits": [
+    {
+      "title": "Interactive Floor Maps",
+      "description": "Help attendees navigate and find exhibitors with searchable maps.",
+      "icon": "map"
+    },
+    {
+      "title": "Lead Capture",
+      "description": "Exhibitors scan badges and capture leads directly in the app.",
+      "icon": "leads"
+    },
+    {
+      "title": "Exhibitor Profiles",
+      "description": "Showcase exhibitors with products, videos, and contact info.",
+      "icon": "profile"
+    },
+    {
+      "title": "Meeting Scheduler",
+      "description": "Attendees book meetings with exhibitors in advance.",
+      "icon": "calendar"
+    }
+  ],
+
+  "testimonial": {
+    "quote": "",
+    "author": "",
+    "company": "Euroasia",
+    "logo": "/img/testimonials/euroasia-logo.png"
+  },
+
+  "features": [
+    "mobile-event-app",
+    "check-in-app",
+    "online-event-registration-software"
+  ],
+
+  "faq": [
+    {
+      "question": "Can exhibitors access their leads in real-time?",
+      "answer": "Yes, exhibitors get instant access to scanned leads with notes and export options."
+    },
+    {
+      "question": "Do you support indoor wayfinding?",
+      "answer": "Yes, our interactive maps support booth locations, amenities, and turn-by-turn navigation."
+    }
+  ],
+
+  "relatedLandings": [
+    "event-app-for-conferences",
+    "event-app-for-corporate-events"
+  ]
+}

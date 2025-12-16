@@ -1,0 +1,66 @@
+{
+  "_comment": "Template for pSEO landing pages. Copy this file and customize for each industry/use case.",
+
+  "slug": "event-app-for-{industry}",
+  "locale": "en",
+
+  "seo": {
+    "title": "Event App for {Industry} | Micepad",
+    "description": "Discover how Micepad's event app helps {industry} professionals create engaging events. Features include registration, check-in, networking, and analytics.",
+    "keywords": ["{industry} event app", "{industry} conference app", "event management {industry}"]
+  },
+
+  "hero": {
+    "headline": "Event App for {Industry}",
+    "subheadline": "Transform your {industry} events with powerful engagement tools",
+    "cta": {
+      "label": "Get a Demo",
+      "url": "/contact-us/?industry={industry}"
+    },
+    "image": "/img/hero/{industry}.jpg"
+  },
+
+  "benefits": [
+    {
+      "title": "Streamlined Registration",
+      "description": "Make it easy for {industry} professionals to register and manage their event attendance.",
+      "icon": "registration"
+    },
+    {
+      "title": "Networking Features",
+      "description": "Connect attendees with relevant peers and exhibitors in the {industry} space.",
+      "icon": "networking"
+    },
+    {
+      "title": "Real-time Analytics",
+      "description": "Track engagement and measure ROI for your {industry} events.",
+      "icon": "analytics"
+    }
+  ],
+
+  "testimonial": {
+    "quote": "",
+    "author": "",
+    "company": "",
+    "logo": ""
+  },
+
+  "features": [
+    "mobile-event-app",
+    "check-in-app",
+    "online-event-registration-software"
+  ],
+
+  "faq": [
+    {
+      "question": "How does Micepad help {industry} events?",
+      "answer": "Micepad provides a complete event management solution tailored for {industry} conferences and meetings."
+    },
+    {
+      "question": "Can I customize the app for my {industry} event?",
+      "answer": "Yes, Micepad offers full white-label customization to match your brand."
+    }
+  ],
+
+  "relatedLandings": []
+}

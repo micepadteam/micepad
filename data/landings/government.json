@@ -1,0 +1,72 @@
+{
+  "slug": "event-app-for-government",
+  "locale": "en",
+
+  "seo": {
+    "title": "Government Event App | Public Sector Events | Micepad",
+    "description": "Event management for government agencies and public sector organizations. Town halls, civic events, and public meetings made easy.",
+    "keywords": ["government event app", "public sector event app", "civic event app", "town hall app", "government meeting app"]
+  },
+
+  "hero": {
+    "headline": "Event App for Government",
+    "subheadline": "Engage citizens and staff at public sector events",
+    "cta": {
+      "label": "Get Government Pricing",
+      "url": "/contact-us/?industry=government"
+    },
+    "image": "/img/hero/government.jpg"
+  },
+
+  "benefits": [
+    {
+      "title": "Citizen Engagement",
+      "description": "Make public meetings accessible and interactive.",
+      "icon": "engagement"
+    },
+    {
+      "title": "Accessibility",
+      "description": "WCAG compliant for inclusive public events.",
+      "icon": "accessibility"
+    },
+    {
+      "title": "Data Sovereignty",
+      "description": "Flexible hosting options to meet government data requirements.",
+      "icon": "security"
+    },
+    {
+      "title": "Budget Compliance",
+      "description": "Transparent pricing suitable for public procurement.",
+      "icon": "pricing"
+    }
+  ],
+
+  "testimonial": {
+    "quote": "",
+    "author": "",
+    "company": "Ministry of Education",
+    "logo": "/img/testimonials/moe-logo.png"
+  },
+
+  "features": [
+    "mobile-event-app",
+    "check-in-app",
+    "online-event-registration-software"
+  ],
+
+  "faq": [
+    {
+      "question": "Can Micepad meet government security requirements?",
+      "answer": "Yes, we offer flexible deployment options and can meet specific government compliance needs."
+    },
+    {
+      "question": "Do you support public procurement processes?",
+      "answer": "Yes, we regularly work with government agencies and can provide required documentation."
+    }
+  ],
+
+  "relatedLandings": [
+    "event-app-for-education",
+    "event-app-for-corporate-events"
+  ]
+}

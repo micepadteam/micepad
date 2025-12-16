@@ -1,0 +1,76 @@
+{
+  "slug": "event-app-for-healthcare",
+  "locale": "en",
+
+  "seo": {
+    "title": "Event App for Healthcare Conferences | Micepad",
+    "description": "Micepad's healthcare event app helps medical conferences, pharma summits, and healthcare organizations create compliant, engaging events with registration, CME tracking, and networking.",
+    "keywords": ["healthcare event app", "medical conference app", "pharma event management", "CME tracking"]
+  },
+
+  "hero": {
+    "headline": "Event App for Healthcare",
+    "subheadline": "HIPAA-aware event management for medical conferences and healthcare summits",
+    "cta": {
+      "label": "Request Healthcare Demo",
+      "url": "/contact-us/?industry=healthcare"
+    },
+    "image": "/img/hero/healthcare.jpg"
+  },
+
+  "benefits": [
+    {
+      "title": "CME Credit Tracking",
+      "description": "Automatically track continuing medical education credits for attendee certification.",
+      "icon": "certificate"
+    },
+    {
+      "title": "Secure Data Handling",
+      "description": "Enterprise-grade security with data protection suitable for healthcare organizations.",
+      "icon": "security"
+    },
+    {
+      "title": "HCP Networking",
+      "description": "Connect healthcare professionals with exhibitors and peers through smart matchmaking.",
+      "icon": "networking"
+    },
+    {
+      "title": "Session Management",
+      "description": "Handle complex multi-track medical conferences with ease.",
+      "icon": "calendar"
+    }
+  ],
+
+  "testimonial": {
+    "quote": "Micepad transformed how we run our annual medical summit. The CME tracking alone saved us countless hours.",
+    "author": "Dr. Sarah Chen",
+    "company": "Asia Pacific Medical Association",
+    "logo": "/img/testimonials/apma-logo.png"
+  },
+
+  "features": [
+    "mobile-event-app",
+    "check-in-app",
+    "online-event-registration-software"
+  ],
+
+  "faq": [
+    {
+      "question": "Does Micepad support CME credit tracking?",
+      "answer": "Yes, Micepad can track session attendance and generate reports for continuing medical education credits."
+    },
+    {
+      "question": "Is Micepad suitable for pharmaceutical events?",
+      "answer": "Absolutely. We support pharma industry compliance requirements and have experience with medical conferences of all sizes."
+    },
+    {
+      "question": "Can attendees access speaker presentations?",
+      "answer": "Yes, the app supports document sharing, presentation downloads, and on-demand video for sessions."
+    }
+  ],
+
+  "relatedLandings": [
+    "event-app-for-pharma",
+    "event-app-for-biotech"
+  ]
+}

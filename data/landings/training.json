@@ -1,0 +1,72 @@
+{
+  "slug": "event-app-for-training",
+  "locale": "en",
+
+  "seo": {
+    "title": "Training & Workshop Event App | Micepad",
+    "description": "Deliver engaging training sessions and workshops with Micepad. Track attendance, gather feedback, and measure learning outcomes.",
+    "keywords": ["training event app", "workshop app", "corporate training app", "learning event app", "seminar app"]
+  },
+
+  "hero": {
+    "headline": "Event App for Training & Workshops",
+    "subheadline": "Make training sessions interactive and track learning outcomes",
+    "cta": {
+      "label": "See Training Features",
+      "url": "/contact-us/?industry=training"
+    },
+    "image": "/img/hero/training.jpg"
+  },
+
+  "benefits": [
+    {
+      "title": "Attendance Tracking",
+      "description": "Automatic check-in and session attendance for compliance.",
+      "icon": "checkin"
+    },
+    {
+      "title": "Interactive Learning",
+      "description": "Quizzes, polls, and Q&A keep participants engaged.",
+      "icon": "engagement"
+    },
+    {
+      "title": "Feedback Collection",
+      "description": "Post-session surveys to measure training effectiveness.",
+      "icon": "feedback"
+    },
+    {
+      "title": "Certificate Generation",
+      "description": "Auto-generate completion certificates for attendees.",
+      "icon": "certificate"
+    }
+  ],
+
+  "testimonial": {
+    "quote": "",
+    "author": "",
+    "company": "",
+    "logo": ""
+  },
+
+  "features": [
+    "mobile-event-app",
+    "check-in-app",
+    "virtual-event-platform"
+  ],
+
+  "faq": [
+    {
+      "question": "Can I track who attended which sessions?",
+      "answer": "Yes, detailed attendance reports show exactly who attended each training session."
+    },
+    {
+      "question": "Do you support hybrid training?",
+      "answer": "Yes, Micepad supports in-person, virtual, and hybrid training formats."
+    }
+  ],
+
+  "relatedLandings": [
+    "event-app-for-corporate-events",
+    "event-app-for-education"
+  ]
+}

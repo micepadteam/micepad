@@ -1,0 +1,72 @@
+{
+  "slug": "event-app-for-education",
+  "locale": "en",
+
+  "seo": {
+    "title": "Education Event App | Universities & Academic Conferences | Micepad",
+    "description": "Micepad helps universities and academic institutions run orientation, graduation, and research conferences with ease.",
+    "keywords": ["education event app", "university event app", "academic conference app", "graduation app", "orientation app"]
+  },
+
+  "hero": {
+    "headline": "Event App for Education",
+    "subheadline": "From orientation to graduation - engage students at every campus event",
+    "cta": {
+      "label": "Get Education Pricing",
+      "url": "/contact-us/?industry=education"
+    },
+    "image": "/img/hero/education.jpg"
+  },
+
+  "benefits": [
+    {
+      "title": "Student Engagement",
+      "description": "Interactive features students already expect from mobile apps.",
+      "icon": "engagement"
+    },
+    {
+      "title": "Budget Friendly",
+      "description": "Special pricing for educational institutions and non-profits.",
+      "icon": "pricing"
+    },
+    {
+      "title": "Easy Setup",
+      "description": "Staff can manage events without technical expertise.",
+      "icon": "setup"
+    },
+    {
+      "title": "Multi-Event Support",
+      "description": "One platform for orientation, seminars, conferences, and graduation.",
+      "icon": "calendar"
+    }
+  ],
+
+  "testimonial": {
+    "quote": "",
+    "author": "",
+    "company": "Ministry of Education",
+    "logo": "/img/testimonials/moe-logo.png"
+  },
+
+  "features": [
+    "mobile-event-app",
+    "check-in-app",
+    "online-event-registration-software"
+  ],
+
+  "faq": [
+    {
+      "question": "Do you offer education discounts?",
+      "answer": "Yes, we offer special pricing for universities, schools, and academic institutions."
+    },
+    {
+      "question": "Can students access without downloading an app?",
+      "answer": "Yes, Micepad works in web browsers - no app download required."
+    }
+  ],
+
+  "relatedLandings": [
+    "event-app-for-conferences",
+    "event-app-for-training"
+  ]
+}

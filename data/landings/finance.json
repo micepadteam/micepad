@@ -1,0 +1,72 @@
+{
+  "slug": "event-app-for-finance",
+  "locale": "en",
+
+  "seo": {
+    "title": "Finance & Banking Event App | Micepad",
+    "description": "Secure event management for financial services. Micepad powers banking summits, investor days, and fintech conferences. Trusted by Experian.",
+    "keywords": ["finance event app", "banking conference app", "fintech event app", "investor day app", "financial services events"]
+  },
+
+  "hero": {
+    "headline": "Event App for Finance & Banking",
+    "subheadline": "Secure, compliant event management for financial services",
+    "cta": {
+      "label": "Request Finance Demo",
+      "url": "/contact-us/?industry=finance"
+    },
+    "image": "/img/hero/finance.jpg"
+  },
+
+  "benefits": [
+    {
+      "title": "Enterprise Security",
+      "description": "Bank-grade security and data protection for sensitive events.",
+      "icon": "security"
+    },
+    {
+      "title": "Investor Relations",
+      "description": "Perfect for AGMs, investor days, and shareholder meetings.",
+      "icon": "investors"
+    },
+    {
+      "title": "Compliance Ready",
+      "description": "Audit trails and access controls for regulated industries.",
+      "icon": "compliance"
+    },
+    {
+      "title": "Global Scale",
+      "description": "Multi-language support for international banking events.",
+      "icon": "global"
+    }
+  ],
+
+  "testimonial": {
+    "quote": "",
+    "author": "",
+    "company": "Experian",
+    "logo": "/img/testimonials/experian-logo.png"
+  },
+
+  "features": [
+    "mobile-event-app",
+    "check-in-app",
+    "virtual-event-platform"
+  ],
+
+  "faq": [
+    {
+      "question": "Is Micepad secure enough for financial events?",
+      "answer": "Yes, we use enterprise-grade encryption and are trusted by major financial institutions including Experian."
+    },
+    {
+      "question": "Can we restrict access to certain content?",
+      "answer": "Yes, role-based access controls let you limit content visibility by attendee type."
+    }
+  ],
+
+  "relatedLandings": [
+    "event-app-for-corporate-events",
+    "event-app-for-conferences"
+  ]
+}

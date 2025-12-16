@@ -1,0 +1,72 @@
+{
+  "slug": "event-app-for-corporate-events",
+  "locale": "en",
+
+  "seo": {
+    "title": "Corporate Event App | Internal Meetings & Town Halls | Micepad",
+    "description": "Streamline corporate events with Micepad's enterprise event app. Perfect for town halls, sales kickoffs, and internal meetings. Trusted by WeWork and leading enterprises.",
+    "keywords": ["corporate event app", "internal meeting app", "town hall app", "sales kickoff app", "enterprise event management"]
+  },
+
+  "hero": {
+    "headline": "Event App for Corporate Events",
+    "subheadline": "Engage employees at town halls, sales kickoffs, and company meetings",
+    "cta": {
+      "label": "Request Demo",
+      "url": "/contact-us/?industry=corporate"
+    },
+    "image": "/img/hero/corporate.jpg"
+  },
+
+  "benefits": [
+    {
+      "title": "Employee Engagement",
+      "description": "Live polls, Q&A, and interactive features keep your team engaged.",
+      "icon": "engagement"
+    },
+    {
+      "title": "Brand Customization",
+      "description": "White-label the app with your company branding and colors.",
+      "icon": "branding"
+    },
+    {
+      "title": "Secure & Private",
+      "description": "Enterprise-grade security for confidential internal communications.",
+      "icon": "security"
+    },
+    {
+      "title": "Analytics Dashboard",
+      "description": "Measure attendance and engagement across all company events.",
+      "icon": "analytics"
+    }
+  ],
+
+  "testimonial": {
+    "quote": "",
+    "author": "",
+    "company": "WeWork",
+    "logo": "/img/testimonials/wework-logo.png"
+  },
+
+  "features": [
+    "mobile-event-app",
+    "check-in-app",
+    "virtual-event-platform"
+  ],
+
+  "faq": [
+    {
+      "question": "Can employees access the app on any device?",
+      "answer": "Yes, Micepad works on iOS, Android, and web browsers."
+    },
+    {
+      "question": "How do I manage multiple corporate events?",
+      "answer": "Our dashboard lets you manage all company events from one place with role-based access."
+    }
+  ],
+
+  "relatedLandings": [
+    "event-app-for-conferences",
+    "event-app-for-training"
+  ]
+}

@@ -5,7 +5,10 @@
       "Bash(python3 -m http.server:*)",
       "Bash(git -C /Users/nguyenvu/projects/micepad-static log --oneline)",
       "Bash(find:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(swift:*)",
+      "Bash(screencapture:*)",
+      "Bash"
     ]
   }
 }

@@ -1,0 +1,85 @@
+{
+  "name": "Micepad",
+  "tagline": "Enterprise Event App and Event Management Software",
+  "url": "https://micepad.co",
+  "defaultLocale": "en",
+  "locales": ["en", "hk", "tw"],
+
+  "branding": {
+    "colors": {
+      "primary": "#155EEF",
+      "secondary": "#2D79F4",
+      "accent": "#ECF3FF",
+      "headline": "#070707",
+      "body": "#6E7A84",
+      "dark": "#070707",
+      "light": "#EFF7FE",
+      "white": "#FFFFFF"
+    },
+    "fonts": {
+      "heading": "Work Sans",
+      "body": "Inter"
+    }
+  },
+
+  "navigation": {
+    "main": [
+      { "label": "Products", "url": "/products/" },
+      { "label": "Solutions", "url": "/solutions/" },
+      { "label": "Customers", "url": "/customers/" },
+      { "label": "Blog", "url": "/blog/" },
+      { "label": "About Us", "url": "/about-us/" }
+    ],
+    "cta": {
+      "label": "Get Started",
+      "url": "/contact-us/"
+    }
+  },
+
+  "products": [
+    {
+      "slug": "mobile-event-app",
+      "name": "Mobile Event App",
+      "description": "Engage attendees with a customizable mobile app"
+    },
+    {
+      "slug": "check-in-app",
+      "name": "Check-in App",
+      "description": "Fast and reliable event check-in solution"
+    },
+    {
+      "slug": "online-event-registration-software",
+      "name": "Online Event Registration",
+      "description": "Streamlined registration and ticketing"
+    },
+    {
+      "slug": "virtual-event-platform",
+      "name": "Virtual Event Platform",
+      "description": "Host engaging virtual and hybrid events"
+    }
+  ],
+
+  "solutions": [
+    { "slug": "conferences-and-summits", "name": "Conferences & Summits" },
+    { "slug": "tradeshows-expos", "name": "Tradeshows & Expos" },
+    { "slug": "training-workshops", "name": "Training & Workshops" },
+    { "slug": "community-meetups", "name": "Community Meetups" },
+    { "slug": "hybrid-events", "name": "Hybrid Events" },
+    { "slug": "employee-engagement", "name": "Employee Engagement" }
+  ],
+
+  "social": {
+    "linkedin": "https://linkedin.com/company/micepad",
+    "facebook": "https://facebook.com/micepad",
+    "twitter": "https://twitter.com/micepad"
+  },
+
+  "seo": {
+    "titleSuffix": " | Micepad",
+    "defaultDescription": "Micepad is an enterprise event app and event management software that helps organizers create engaging experiences for conferences, tradeshows, and corporate events."
+  },
+
+  "analytics": {
+    "gtmId": ""
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "event-app-for-conferences",
+  "locale": "en",
+
+  "seo": {
+    "title": "Conference Event App | Summits & Conventions | Micepad",
+    "description": "Power your conferences with Micepad's event app. Agenda management, speaker profiles, networking, and live engagement for events of any size.",
+    "keywords": ["conference app", "summit app", "convention app", "event app for conferences", "conference management software"]
+  },
+
+  "hero": {
+    "headline": "Event App for Conferences",
+    "subheadline": "Everything attendees need in one app - agenda, speakers, networking, and more",
+    "cta": {
+      "label": "See It In Action",
+      "url": "/contact-us/?industry=conferences"
+    },
+    "image": "/img/hero/conferences.jpg"
+  },
+
+  "benefits": [
+    {
+      "title": "Dynamic Agenda",
+      "description": "Multi-track schedules with personalized session bookmarking.",
+      "icon": "calendar"
+    },
+    {
+      "title": "Speaker Profiles",
+      "description": "Showcase speakers with bios, social links, and session details.",
+      "icon": "speaker"
+    },
+    {
+      "title": "Attendee Networking",
+      "description": "In-app messaging and meeting scheduling between attendees.",
+      "icon": "networking"
+    },
+    {
+      "title": "Live Engagement",
+      "description": "Polls, Q&A, and live reactions during sessions.",
+      "icon": "engagement"
+    }
+  ],
+
+  "testimonial": {
+    "quote": "",
+    "author": "",
+    "company": "",
+    "logo": ""
+  },
+
+  "features": [
+    "mobile-event-app",
+    "check-in-app",
+    "online-event-registration-software"
+  ],
+
+  "faq": [
+    {
+      "question": "How many attendees can the app support?",
+      "answer": "Micepad scales from 50 to 50,000+ attendees with no performance issues."
+    },
+    {
+      "question": "Can attendees build their own schedule?",
+      "answer": "Yes, attendees can bookmark sessions and get reminders before they start."
+    }
+  ],
+
+  "relatedLandings": [
+    "event-app-for-corporate-events",
+    "event-app-for-tradeshows"
+  ]
+}
