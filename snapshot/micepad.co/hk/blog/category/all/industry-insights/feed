@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Industry Insights &#8211; Micepad Hong Kong</title>
+	<atom:link href="https://micepad.co/hk/blog/category/all/industry-insights/feed" rel="self" type="application/rss+xml" />
+	<link>https://micepad.co/hk</link>
+	<description>Enterprise Event Management Software and Event App</description>
+	<lastBuildDate>Thu, 07 Dec 2023 06:22:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.4</generator>
+
+<image>
+	<url>https://micepad.co/hk/wp-content/uploads/sites/4/2023/07/cropped-micepad-favicon-32x32.png</url>
+	<title>Industry Insights &#8211; Micepad Hong Kong</title>
+	<link>https://micepad.co/hk</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Event Check-In Apps: A Game Changer for Hong Kong Organizers</title>
+		<link>https://micepad.co/hk/blog/event-check-in-apps-a-game-changer-for-hong-kong-organizers</link>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Thu, 07 Dec 2023 06:02:33 +0000</pubDate>
+				<category><![CDATA[Industry Insights]]></category>
+		<guid isPermaLink="false">https://micepad.co/hk/?p=6056</guid>
+
+					<description><![CDATA[Discover the ultimate guide to streamlining event check-ins in Hong Kong. Dive into the power of check-in apps, QR codes, and guest [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Discover the ultimate guide to streamlining event check-ins in Hong Kong. Dive into the power of check-in apps, QR codes, and guest tracking.</p>
+
+
+
+<h4 class="wp-block-heading">Introduction</h4>
+
+
+
+<p>In Hong Kong, a leading MICE destination in Asia, hosting timely and efficient events is crucial. Event organizers constantly innovate to enhance the attendee experience, especially during check-in. A smooth process sets a positive tone, while delays can tarnish an event&#8217;s reputation (<a href="https://news.abs-cbn.com/life/07/26/21/thousands-of-hk-anime-and-comics-enthusiasts-queue-for-hours-amid-delays-at-annual-expo" target="_blank" rel="noopener">https://news.abs-cbn.com/life/07/26/21/thousands-of-hk-anime-and-comics-enthusiasts-queue-for-hours-amid-delays-at-annual-expo</a>).</p>
+
+
+
+<p>As Hong Kong gears up with ambitious plans to revitalize its MICE sector (<a href="https://research.hktdc.com/en/article/MTI1ODk2NTA4OQ" target="_blank" rel="noopener">https://research.hktdc.com/en/article/MTI1ODk2NTA4OQ</a>), the significance of integrating efficient tools like check-in apps becomes increasingly evident given Hong Kong&#8217;s fast-paced culture. Attendees expect quick check-ins, short waiting times, and seamless event organization. Meeting these standards is not just professional—it&#8217;s essential for event success.</p>
+
+
+
+<h4 class="wp-block-heading">The Basics of Event Check-In</h4>
+
+
+
+<p>Event check-in is all about confirming attendees, giving out badges or tickets, and facilitating entry.<br>Here are three reasons why event check-in matters for Hong Kong organizers:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Efficient Management and Data Collection:</strong> Tracks attendance for logistical decisions and provides valuable data for future event planning.</li>
+
+
+
+<li><strong>Professionalism and Brand Image: </strong>Offers a positive first impression, reflecting the event&#8217;s quality and enhancing the organizer&#8217;s reputation.</li>
+
+
+
+<li><strong>Security and Safety:</strong> Ensures only authorized attendees access the event, safeguarding against potential threats and disruptions.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Limitations of Traditional Check-in Methods</h4>
+
+
+
+<p>Traditional check-in methods, like using paper lists or Excel, can cause delays and mistakes which affect the guest experience.<br>As the event landscape evolves, new technologies offer faster and more accurate check-in solutions.</p>
+
+
+
+<h4 class="wp-block-heading">Revolutionizing Event Check-ins with Technology</h4>
+
+
+
+<p>By leveraging tools like QR codes or RFID tags, you can transform your event check-in experience.<br>Here are seven reasons why using technology for check-in is beneficial:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Efficiency:</strong> Check-in can be done quickly and accurately, saving time for both organizers and attendees.</li>
+
+
+
+<li><strong>Flexibility and Customization:</strong> Tailor the app&#8217;s features to various event types, be it conferences, seminars, or social gatherings.</li>
+
+
+
+<li><strong>Reduced Human Input: </strong>Automation significantly reduces errors and eliminates the need for manual data entry.</li>
+
+
+
+<li><strong>Automated Self-service: </strong>With kiosks or mobile apps, attendees can check in at their convenience while reducing queues and waiting time.</li>
+
+
+
+<li><strong>Real-Time Data Collection and Tracking:</strong> Gather insights about attendees, from preferences to attendance patterns, aiding in future event planning and targeted marketing strategies.</li>
+
+
+
+<li><strong>Enhanced Attendee Experience: </strong>Using technology for check-in can create a seamless and modern experience for attendees, making them feel valued and part of a cutting-edge event.</li>
+
+
+
+<li><strong>Enhanced Security:</strong> Features like QR code scanning and badge printing bolster event security, ensuring only authorized attendees gain access.</li>
+
+
+
+<li><strong>Eco-Friendly Paperless System: </strong>Say goodbye to wasteful printed guest lists and floor plans and embrace a more sustainable event environment.</li>
+
+
+
+<li><strong>Uninterrupted Offline Functionality:</strong> No internet? No problem. Most check-in apps can remain functional, ensuring a smooth process regardless of connectivity issues.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Tracking Guests at Your Event: A Step-by-Step Guide</h4>
+
+
+
+<p>Managing and tracking guests from the point of invitation to their arrival at your event is essential for seamless planning and execution.</p>
+
+
+
+<p>Here are three key steps to help you track your event attendees effectively:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Invitation:</strong> When sending out invitations, collect essential information such as names, contact details, and special requests or preferences. This initial data collection sets the foundation for a well-organized guest list.<br>(<em><strong>Additional tip:</strong> Send an email to attendees before the event with check-in details</em>)</li>
+
+
+
+<li><strong>Registration and RSVP: </strong>Use event management platforms or dedicated apps to facilitate online registration and RSVP (<a href="https://micepad.co/blog/announcing-micepads-newest-rsvp-feature">https://micepad.co/blog/announcing-micepads-newest-rsvp-feature</a>). This not only ensures a smooth registration process but also helps in predicting the turnout.</li>
+
+
+
+<li><strong>Arrival and Check-In:</strong> Implement a robust check-in system at the venue entrance. Employ technologies like QR codes, self-registration kiosks, and instant badge printing to speed up check-in and maintain an accurate record of guest attendance.<br>(<em><strong>Additional tip:</strong> Have a backup plan for offline check-ins</em>.)</li>
+</ul>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="報到系統 Check-in System" width="1000" height="563" src="https://www.youtube.com/embed/nrvIqpjwkcY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">A step-by-step guide on creating QR codes for event attendance</h4>
+
+
+
+<p>You can easily create QR codes for event attendance by following these step-by-step instructions.</p>
+
+
+
+<ol class="wp-block-list">
+<li>choose a QR code generator tool or app—many online options, such as QR Code Monkey or QR Stuff.</li>
+
+
+
+<li>select the type of QR code you want to create. For event attendance, choose the option that allows attendees to check in.</li>
+
+
+
+<li>Then, provide the necessary information, such as the event name, date, time, and location.</li>
+
+
+
+<li>Customize the design and color scheme to match your event branding.</li>
+
+
+
+<li>Finally, generate the QR code and save it in a format that can be easily shared or printed.</li>
+</ol>
+
+
+
+<p>While the steps above are great, Micepad goes a step further by automating the entire creation process, cutting down on valuable time. Creation of QR codes are automatically created during the following scenarios:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Upon successful registration by the attendee, unique QR codes are generated and included in the confirmation email.</li>
+
+
+
+<li>If doing a mass import, upon successful import, unique QR codes are automatically generated and can be included in the follow up emails that are sent.</li>
+</ol>
+
+
+
+<p>To use the QR code, your guests only need to present their codes at the scanner or kiosks. Remember to test QR codes to ensure it works properly before using it at your event.</p>
+
+
+
+<h4 class="wp-block-heading">Choosing the Right App for Your Event</h4>
+
+
+
+<p>A check-in app has numerous benefits, but choosing the right one is key. When evaluating options, prioritize ease of use, customization capabilities, and integration potential.</p>
+
+
+
+<p><strong><em>Also read</em></strong><em>: How Check-In Rates Influence Event Success: Can You Beat Micepad’s 4-Second Record? (<a href="https://micepad.co/blog/how-check-in-rates-influence-event-success-can-you-beat-micepads-4-second-record)">https://micepad.co/blog/how-check-in-rates-influence-event-success-can-you-beat-micepads-4-second-record)</a></em></p>
+
+
+
+<h4 class="wp-block-heading">Conclusion</h4>
+
+
+
+<p>To streamline check-in processes and ensure a smoother event experience, embrace technology. By leveraging the power of technology, you can simplify and expedite the check-in process, leaving your attendees impressed and satisfied.&nbsp;</p>
+
+
+
+<p>Ready to enhance your event check-in process with the best event check-in app in Hong Kong? Explore Micepad Hong Kong’s comprehensive solutions today and discover how our mobile app for events can transform your attendee experience! Contact us at <a href="mailto:enquiry@micepad.co" data-type="mailto" data-id="mailto:enquiry@micepad.co">enquiry@micepad.co </a>and let us assist you.</p>
+
+
+
+<h4 class="wp-block-heading">Frequently Asked Questions</h4>
+
+
+
+<h5 class="wp-block-heading">How is the MICE sector performing in Hong Kong?</h5>
+
+
+
+<p>The MICE (Meetings, Incentives, Conferences, and Exhibitions) industry in Hong Kong has traditionally been robust due to the city&#8217;s strategic location, advanced infrastructure, and role as a global business hub. With world-class venues like the Hong Kong Convention and Exhibition Centre, the city attracts numerous international events.</p>
+
+
+
+<h5 class="wp-block-heading">How can I make my check-in process easier?</h5>
+
+
+
+<p>To simplify your check-in process, consider implementing online or mobile check-in options, using QR codes for quick scanning, offering self-service kiosks, and ensuring clear signage and instructions for attendees. Training staff to assist and answer questions can further streamline the process.</p>
+
+
+
+<h5 class="wp-block-heading">How can I manage unregistered guests?</h5>
+
+
+
+<p>To manage unregistered guests, set up a dedicated on-site registration desk, utilize a digital system to quickly input their details, and have extra event materials and resources (badges, event schedules, gift bags, etc.) on hand. Ensure staff are trained to handle walk-ins efficiently and politely.</p>
+
+
+
+<h4 class="wp-block-heading"><br></h4>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Live Streaming And Its Advantages</title>
+		<link>https://micepad.co/hk/blog/live-streaming-and-its-advantages</link>
+					<comments>https://micepad.co/hk/blog/live-streaming-and-its-advantages#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 02:05:00 +0000</pubDate>
+				<category><![CDATA[Industry Insights]]></category>
+		<category><![CDATA[live streaming]]></category>
+		<category><![CDATA[video conference]]></category>
+		<guid isPermaLink="false">https://micepad.co/hk/?p=1530</guid>
+
+					<description><![CDATA[Live streaming is a presentation format which involves  simultaneously recording and broadcasting media in real time. Popular platforms such as Facebook Live [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1530" class="elementor elementor-1530" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-b53b1bd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b53b1bd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0fec23e" data-id="0fec23e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-b374ff4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b374ff4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a0c1ff3" data-id="a0c1ff3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-65ff44e elementor-widget elementor-widget-image" data-id="65ff44e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="1000" height="666" src="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/LNCG_M77_09-scaled-1-1024x682.jpeg" class="attachment-large size-large wp-image-1550" alt="LNCG M77 09 scaled 1" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/LNCG_M77_09-scaled-1-1024x682.jpeg 1024w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/LNCG_M77_09-scaled-1-300x200.jpeg 300w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/LNCG_M77_09-scaled-1-768x512.jpeg 768w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/LNCG_M77_09-scaled-1-1536x1024.jpeg 1536w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/LNCG_M77_09-scaled-1.jpeg 2000w" sizes="(max-width: 1000px) 100vw, 1000px" title="Live Streaming And Its Advantages 3">															</div>
+				</div>
+				<div class="elementor-element elementor-element-70e3456 elementor-widget elementor-widget-text-editor" data-id="70e3456" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><p dir="ltr">Live streaming is a presentation format which involves  simultaneously recording and broadcasting media in real time. Popular platforms such as Facebook Live and Youtube Live can provide you with these live streaming capability.</p><p dir="ltr">Guests are able to dial in remotely through their computer and watch the speaker being broadcasted live. Live streaming services will normally come with a Q&amp;A feature, where guests are able to type out the questions to ask the speaker. Guests do not participate as a host nor a presenter in this capacity. Live streaming is also excellent for it&#8217;s sound and video quality, with most streaming services being streamed in 720p HD resolution. </p><p dir="ltr">The advantage about live streaming is that it can cater to an unlimited number of audience. With live streaming, you will be sure that your audience outreach is not capped at any limit. </p></div><div class="thrv_wrapper thrv_text_element"> </div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-c4ee37a elementor-widget elementor-widget-heading" data-id="c4ee37a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Live Streaming Disadvantages
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-dd30722 elementor-widget elementor-widget-text-editor" data-id="dd30722" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><p dir="ltr"><strong>Capturing Audience Engagement: </strong>Due to the nature of live streaming, communication in this aspect will not be at it&#8217;s peak. Guests responses and reactions are not captured by the speaker. Audience interaction tools such as Q&amp;A and poll will only have to be submitted manually to the speaker. Either in advance or when the event is happening. </p></div><div class="thrv_wrapper thrv_text_element"><p data-css="tve-u-171e9631003"><strong>Timing: </strong>One of the biggest disadvantages of live streaming can be knowing when to begin the stream. This can be especially difficult if you&#8217;re a multinational corporation business with customers in different time zones. </p></div><div class="thrv_wrapper thrv_text_element"><p><strong>Little chance to revive videos: </strong>Facebook Live seems to be one of the few options where live video is saved. However, if you’re using Periscope, your<strong> </strong>live video won&#8217;t be archived. Periscope’s streams are deleted after 24 hours.  This is helpful if you’re posting something that isn’t too serious and doesn’t need to be saved online for archival purpose. However, if you do want people to come back and watch your video later, live streaming on Facebook and Youtube is still the better option. </p></div><div class="thrv_wrapper thrv_text_element"><p><strong>Latency: </strong>With a latency lag of up to 30 seconds, this lag of transmission remain fairly noticeable during sessions that involve polling, especially in between critical periods  such as the announcement of the commencement of the poll, while waiting for guests to put in their last polling vote and when poll results are announced by speaker.</p></div><div class="thrv_wrapper thrv_text_element"><p><strong>Bandwidth requirement:  </strong>With a requirement of huge bandwidth for the transmission of video and audio data in real time. Do conduct early checks with your appointed AV crew about bandwidth details for the live streaming process to be smooth. </p></div><div class="thrv_wrapper thrv_text_element"> </div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-37d08bc elementor-widget elementor-widget-heading" data-id="37d08bc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Video Conferencing 
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3a4e0ba elementor-widget elementor-widget-image" data-id="3a4e0ba" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1000" height="666" src="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/OnlineVideoMeetingByBarsrsind-scaled-1-1024x682.jpeg" class="attachment-large size-large wp-image-1551" alt="OnlineVideoMeetingByBarsrsind scaled 1" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/OnlineVideoMeetingByBarsrsind-scaled-1-1024x682.jpeg 1024w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/OnlineVideoMeetingByBarsrsind-scaled-1-300x200.jpeg 300w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/OnlineVideoMeetingByBarsrsind-scaled-1-768x512.jpeg 768w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/OnlineVideoMeetingByBarsrsind-scaled-1-1536x1024.jpeg 1536w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/OnlineVideoMeetingByBarsrsind-scaled-1.jpeg 2000w" sizes="(max-width: 1000px) 100vw, 1000px" title="Live Streaming And Its Advantages 4">															</div>
+				</div>
+				<div class="elementor-element elementor-element-c9684b8 elementor-widget elementor-widget-text-editor" data-id="c9684b8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Video Conferencing is a tool for speakers to present their topics to the attendees of the event, with the ability to create a space for discussion. This separates itself from live streaming as video conferencing allows people to ask questions, as oppose to posting them on a discussion board. Video conferencing also refers  itself to conducting a video conference or video teleconference in which two or more sets of hardware and software interact while simultaneously transmitting and receiving video and audio signals from two or more geographic locations.</p><p>Video conferencing may also involve sharing documents, various presentation materials, whiteboards, flip charts and similar group presentation visual aids.  Use video conferencing if you’re hosting smaller meetings internally, with external stakeholders or meetings where a smaller group is collaborating and sharing screens.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-bc40189 elementor-widget elementor-widget-heading" data-id="bc40189" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Video Conferencing Advantages
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-520eaab elementor-widget elementor-widget-text-editor" data-id="520eaab" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><p><strong>Collaborative Work and Document Sharing: </strong>Participants can use video conferencing to communicate with one another and utilise other collaboration tools such as whiteboard, text exchange, file sharing, media sharing, screen sharing, electronic voting and conference recording.</p></div><div class="thrv_wrapper thrv_text_element"><p><strong>Enhanced Mode of Communication: </strong>With the ability to communicate through collaborative tools, this gives an added advantage of better clarity of the idea being conveyed.</p></div><div class="thrv_wrapper thrv_text_element"><p data-css="tve-u-171e7ed1073">Meeting <strong>Efficiency and Productivity: </strong>By eliminating time and district barriers, meetings can be hosted anytime, anywhere with anyone. In this way, meetings are  more effective and with rich collaboration tools, decisions can be made faster.</p></div><div class="thrv_wrapper thrv_text_element"> </div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2188fb6 elementor-widget elementor-widget-heading" data-id="2188fb6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Video Conferencing Disadvantages
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3327e53 elementor-widget elementor-widget-text-editor" data-id="3327e53" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><div class="thrv_wrapper thrv_text_element"><p><strong>The Absence of Personal Interaction: </strong>Nothing would replace a personal interaction like a handshake.  A video conference may prove insufficient to achieve building business relationships.</p></div><div class="thrv_wrapper thrv_text_element"><p><strong>Technical Problems: </strong>Working with hardwares is always associated with technical problems like network connection issues and software issues. It will be detrimental if these problems occur at the crucial moments. </p></div><div class="thrv_wrapper thrv_text_element"><p><strong>Lag in Response: </strong>Even though participants can be from across the globe, there are some difficulties faced due to this long distance. A slight delay between responses that come from one side to the other side of the world is very common. Anticipate this to happen when a video conference that involves global participation. </p></div><div class="thrv_wrapper thrv_text_element"> </div></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-fa20a1d elementor-widget elementor-widget-heading" data-id="fa20a1d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Which is Better For You?
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d4e4882 elementor-widget elementor-widget-text-editor" data-id="d4e4882" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><div class="thrv_wrapper thrv_text_element"><div id="tve_flt" class="tve_flt tcb-style-wrap"><div id="tve_editor" class="tve_shortcode_editor"><div class="thrv_wrapper thrv_text_element"><p>While live streaming commands a wider audience outreach, video conferencing works for smaller group interactions. Especially for one-on-one meetings, a video conference tool allows both parties to interact. In this type of virtual meeting solution, you can discuss in live time while seeing the other person’s face. Even for small groups, video conference works better than live streaming.</p><p>Live streaming can be good for your brand in building awareness. It is no doubt that live streaming can help you stand out of the crowd and can show your customers that your brand is open for innovative and up-to-date solutions. However, video conferencing works for one on one meetings where 2-way interaction is required. Plus, you can handle more sensitive information in a closed setting as opposed to live streaming. </p><p>Determine the purpose of hosting a meeting, the crowd size of it, the mode of communication and environment carefully before using the above comparison points to decide if live streaming or video conferencing is viable to attain your meeting agenda. </p></div></div></div><div class="ssf fpss"><div class="ssf-i"><div class="ss"> </div></div></div></div></div>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/hk/blog/live-streaming-and-its-advantages/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>7 Statistics That Tell You To Get Your Event App Running Today</title>
+		<link>https://micepad.co/hk/blog/7-statistics-that-tell-you-to-get-your-event-app-running-today</link>
+					<comments>https://micepad.co/hk/blog/7-statistics-that-tell-you-to-get-your-event-app-running-today#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Sat, 22 Feb 2020 05:18:00 +0000</pubDate>
+				<category><![CDATA[Industry Insights]]></category>
+		<category><![CDATA[Event apps]]></category>
+		<category><![CDATA[Event Technology]]></category>
+		<guid isPermaLink="false">https://micepad.co/hk/?p=1661</guid>
+
+					<description><![CDATA[It is one thing to always talk about why event management applications are the next best thing for event planners – but [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1661" class="elementor elementor-1661" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-abeb5a5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="abeb5a5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4b4d5a3" data-id="4b4d5a3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-ca69449 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ca69449" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5c3475c" data-id="5c3475c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-bfae3a5 elementor-widget elementor-widget-image" data-id="bfae3a5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1000" height="667" src="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/fotis-fotopoulos-790373-unsplash-1024x683-1.jpeg" class="attachment-large size-large wp-image-1668" alt="fotis fotopoulos 790373 unsplash 1024x683 1" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/fotis-fotopoulos-790373-unsplash-1024x683-1.jpeg 1024w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/fotis-fotopoulos-790373-unsplash-1024x683-1-300x200.jpeg 300w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/fotis-fotopoulos-790373-unsplash-1024x683-1-768x512.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" title="7 Statistics That Tell You To Get Your Event App Running Today 6">															</div>
+				</div>
+				<div class="elementor-element elementor-element-333469a elementor-widget elementor-widget-text-editor" data-id="333469a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><p dir="ltr">It is one thing to always talk about why event management applications are the next best thing for event planners – but are there hard facts and numbers to back it up? </p><p dir="ltr">That is a valid question to ask especially for new planners in the business – or those who would like to branch into the event apps scene. Rather than just pour out a lot of personal sentiments as to why these event apps are great, we let the stats take the stage today.</p></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-51f663b elementor-widget elementor-widget-heading" data-id="51f663b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Stat #1 – User Base
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0a7f790 elementor-widget elementor-widget-text-editor" data-id="0a7f790" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><div class="thrv_wrapper thrv_text_element"><p dir="ltr">The year 2020 is almost upon us, and event planners are looking to make a maximum impact then too. As the new decade turns, though, we are also expecting to have <a href="https://techcrunch.com/2015/06/02/6-1b-smartphone-users-globally-by-2020-overtaking-basic-fixed-phone-subscriptions/" target="_blank" rel="noopener"><span style="color: #63c339;">no less than 6.1 billion users of mobile units</span></a> from all around the world.</p><p dir="ltr">That is just a few billions shy of the global population, so we can almost say that just about the whole world is on mobile.</p><p dir="ltr">Now that you know your audience is on mobile, why would you not try to reach them with, say, applications?</p></div></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a20e26e elementor-widget elementor-widget-heading" data-id="a20e26e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Stat #2 – Usage Stats
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ef4013b elementor-widget elementor-widget-text-editor" data-id="ef4013b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><p dir="ltr">We could state how <a href="https://www.bankmycell.com/blog/smartphone-addiction/" target="_blank" rel="noopener"><span style="color: #63c339;">the average mobile user looks at their phone 47 times</span></a> over a full day. Being an average figure, the numbers can climb way higher than that too. However, that does not fully serve the purpose of event planners.</p><p dir="ltr">What does, though, is the fact that <a href="https://www.spingo.com/blog/post/event-industry-stats-every-event-prof-needs-to-know" target="_blank" rel="noopener"><span style="color: #63c339;">60% of smartphone users</span></a> are whipping out their devices at social gatherings and using it. This means that if you had an app for that social gathering, you will also be getting a fraction of all that digital attention whenever they take their eyes off the main event.</p></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3fb0a72 elementor-widget elementor-widget-heading" data-id="3fb0a72" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Stat #3 – Return on Investment
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-20d9fd9 elementor-widget elementor-widget-text-editor" data-id="20d9fd9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p dir="ltr">One of the biggest drivers of any business is the ROI that comes with it. In short, a business strategy with a poor ROI is best dumped in favor of another.</p><p dir="ltr">It is, thus, interesting to note that an impressive <a href="https://blog.bizzabo.com/event-apps-guide" target="_blank" rel="noopener"><span style="color: #63c339;">91% of event planners</span></a> have recorded ROI in the positive lane when they chose to use event planning software and applications. It would only make sense for you to take what works from those who have tried it and start the game with that too so that you always have a foot forward in the market out of the box.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-6377ba1 elementor-widget elementor-widget-heading" data-id="6377ba1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Stat #4 – Impressions
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f6b0c46 elementor-widget elementor-widget-text-editor" data-id="f6b0c46" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p dir="ltr">One of the key performance indicators of event success is in the kind of reach, coverage, and impressions it gains on and off the web. While we can discuss offline impressions another day, mobile event apps make it possible to get <a href="https://blog.printsome.com/event-app-engagement/" target="_blank" rel="noopener"><span style="color: #63C339;">42% more engagement</a> than if they weren’t used at all.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-486f071 elementor-widget elementor-widget-heading" data-id="486f071" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Stat #5 – Adoption
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f47a281 elementor-widget elementor-widget-text-editor" data-id="f47a281" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p dir="ltr">Between the years 2018 and 2019, the event industry saw <a href="https://www.aventri.com/blog/50-mobile-app-stats-for-planners" target="_blank" rel="noopener"><span style="color: #63c339;">a 3% increase in the usage of event apps</span></a> for the running of events.</p><p dir="ltr">Trust us when we say 3% might sound like a small figure but, given the right base number, can be a lot. This also goes on to show that the adoption of this piece of technology to run events is on the rise, and you might as well get in on it or be left out when full adoption happens.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-60624db elementor-widget elementor-widget-heading" data-id="60624db" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Stat #6 – Ticketing
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ef0ccaf elementor-widget elementor-widget-text-editor" data-id="ef0ccaf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p dir="ltr">Bizzabo ran a research study which shows that <a href="https://medium.com/hubilo-officil-blog/the-evolution-of-event-ticketing-d3041d6419a9" target="_blank" rel="noopener"><span style="color: #63c339;">71% of event tickets are bought online</span></a>.</p><p dir="ltr">While that is a nice development, people are also getting wary of releasing their credit card details online for the fear of breaches. You can quell such fears when you have a dedicated app for that event from within which attendees can make ticket payments.</p><p dir="ltr">This, in turn, increases the attendance rate than if you were just using a generic platform to handle the ticket sales.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-e81af0c elementor-widget elementor-widget-heading" data-id="e81af0c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Stat #7 – Attendee Satisfaction
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5405d0a elementor-widget elementor-widget-text-editor" data-id="5405d0a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p dir="ltr">After all, said, the aim of the event is not only to pass across the items on the program for the day but ensure the attendees are well treated too. For that reason, it is soothing to note that about <a href="https://pages.guidebook.com/Survey-Report-2014-State-of-Event-Apps_Report-Download-LP.html" target="_blank" rel="noopener"><span style="color: #63C339;">88% of event-planning professionals</a> agree that event apps helped get a better satisfaction level out of attendees.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-888815d elementor-widget elementor-widget-heading" data-id="888815d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Conclusion
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-82b22a3 elementor-widget elementor-widget-text-editor" data-id="82b22a3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p dir="ltr">As we said, we will let the numbers do the talking.</p><p dir="ltr">From all you have seen, it is obvious that these <a href="https://micepad.co/hk/products/mobile-event-app" target="_blank" rel="noopener">event apps </a>are not given as much credit as they should be, that might be because those who are enjoying all the goodies it brings don’t want everyone to get in on it yet. </p><p dir="ltr">Now that you have seen the light in this piece of tech, what would you rather do?</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/hk/blog/7-statistics-that-tell-you-to-get-your-event-app-running-today/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>7 Tips Savvy Event Managers Use To Boost Audience Engagement</title>
+		<link>https://micepad.co/hk/blog/7-tips-savvy-event-managers-use-to-boost-audience-engagement</link>
+					<comments>https://micepad.co/hk/blog/7-tips-savvy-event-managers-use-to-boost-audience-engagement#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2020 05:28:00 +0000</pubDate>
+				<category><![CDATA[Industry Insights]]></category>
+		<category><![CDATA[Event management]]></category>
+		<category><![CDATA[Event Planning]]></category>
+		<guid isPermaLink="false">https://micepad.co/hk/?p=1685</guid>
+
+					<description><![CDATA[Even if we didn’t know any other thing about the event and event management industry, we are sure audience engagement is not [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1685" class="elementor elementor-1685" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-02b8d28 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="02b8d28" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c204c9" data-id="0c204c9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3d47923 elementor-widget elementor-widget-text-editor" data-id="3d47923" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><div class="thrv_wrapper thrv_text_element"><p dir="ltr">Even if we didn’t know any other thing about the event and event management industry, we are sure audience engagement is not something you leave to chance. It is one of the event planning moments which should be taken with as much seriousness as possible for the best results.</p><p dir="ltr">If you have not been taking a proactive approach to your audience engagement before now, you might have been losing out on a lot of conversion and potential positives. </p><p dir="ltr">That is not why we are here today, though. How about we talk about how you can drive the needed engagement instead?</p></div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-16ff9570c16"> </div></div>								</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3e1b150 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3e1b150" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-8f8a1aa" data-id="8f8a1aa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ab6a1a3 elementor-widget elementor-widget-image" data-id="ab6a1a3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="683" height="1024" src="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/A-Good-Speaker-683x1024.jpeg" class="attachment-large size-large wp-image-1693" alt="A Good Speaker" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/A-Good-Speaker-683x1024.jpeg 683w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/A-Good-Speaker-200x300.jpeg 200w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/A-Good-Speaker.jpeg 700w" sizes="(max-width: 683px) 100vw, 683px" title="7 Tips Savvy Event Managers Use To Boost Audience Engagement 14">															</div>
+				</div>
+				<div class="elementor-element elementor-element-19f6fb1 elementor-widget elementor-widget-heading" data-id="19f6fb1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">1. Invest in key speakers
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-17c9006 elementor-widget elementor-widget-text-editor" data-id="17c9006" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><div class="thrv_wrapper thrv_text_element"><p dir="ltr">The choice of key speaker you make for the event goes a long way to determine how engaged the acne will be too. </p><p dir="ltr">People will be more willing to listen to Jeff Bezos on business matters than they would listen to Lionel Messi. Even though both men are successful in their fields, charisma is not alone to woo a sophisticated audience.</p><p dir="ltr">Thus, make sure your key speaker is an authority figure who has some sort of celebrity status and knows what they are saying too.</p></div></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-38f16cd elementor-widget elementor-widget-image" data-id="38f16cd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="336" src="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Micepad-Live-Polling-Display.jpeg" class="attachment-large size-large wp-image-1692" alt="Micepad Live Polling Display" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Micepad-Live-Polling-Display.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Micepad-Live-Polling-Display-300x144.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="7 Tips Savvy Event Managers Use To Boost Audience Engagement 15">															</div>
+				</div>
+				<div class="elementor-element elementor-element-da9047a elementor-widget elementor-widget-heading" data-id="da9047a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">2. Hold live polls
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c1083c1 elementor-widget elementor-widget-text-editor" data-id="c1083c1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><div class="thrv_wrapper thrv_text_element"><p dir="ltr">Don’t wait for the event to be over before you stage live polls.</p><p dir="ltr">This is one of the reasons why we always recommend building an app for the event, allowing the audience to get engaged with the program this way. An alternative will be to develop a website for the event or create a poll on a social media platform that many of the attendees are on.</p><p dir="ltr">Polls are a great way to make the audience feel and know that you value the feedback you get from them, not just the content you throw their way. At the same time, polls can help you finetune the user experience right there within the event by leveraging the feedback you get.</p></div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-16ff969bc4e"> </div></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-82e2cfb elementor-widget elementor-widget-image" data-id="82e2cfb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="467" src="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Hashtag-NeverStress.jpeg" class="attachment-large size-large wp-image-1691" alt="Hashtag NeverStress" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Hashtag-NeverStress.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Hashtag-NeverStress-300x200.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="7 Tips Savvy Event Managers Use To Boost Audience Engagement 16">															</div>
+				</div>
+				<div class="elementor-element elementor-element-0fca842 elementor-widget elementor-widget-heading" data-id="0fca842" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">3. Create a hashtag
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e253745 elementor-widget elementor-widget-text-editor" data-id="e253745" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><p dir="ltr">Want to know why hashtags work so much?</p><p dir="ltr">It creates the feeling of exclusivity to those in the event as they can discuss on open social media awhile having some sort of clique that they belong to. Besides that, hashtags are also a great way for people to find each other on social media which could be the start of some effective networking. </p><p dir="ltr">That, and we have not mentioned how it allows just about everyone to get in on the conversation, share their ideas, tweet their opinions and put their mind out there.</p><p dir="ltr">In short, you have provided a platform for those who could not speak in the event hall to voice out their thoughts too.</p></div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-16ff96e473c"> </div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-83f4835 elementor-widget elementor-widget-image" data-id="83f4835" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="467" src="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Leaderboard-Module-for-Micepad-App.jpeg" class="attachment-large size-large wp-image-1690" alt="Leaderboard Module for Micepad App" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Leaderboard-Module-for-Micepad-App.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Leaderboard-Module-for-Micepad-App-300x200.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="7 Tips Savvy Event Managers Use To Boost Audience Engagement 17">															</div>
+				</div>
+				<div class="elementor-element elementor-element-e78a901 elementor-widget elementor-widget-heading" data-id="e78a901" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">4. Run contests
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8724ef0 elementor-widget elementor-widget-text-editor" data-id="8724ef0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><p dir="ltr">We have come to find out that no matter how small the prize is, people are willing to engage in a contest to win it. All you have to do is package the contest beautifully and present it in the right way, and you have already an audience for it.</p><p dir="ltr">This means you don’t have to put a hole in your pocket all because you’d like to engage the audience. Get something simple which your attendees will like – possibly in multiple units – and give it out at certain points of the event. </p><p dir="ltr">A great way to ensure everyone stays alert, don’t you agree?</p></div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-16ff974647d"> </div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-919f584 elementor-widget elementor-widget-image" data-id="919f584" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="800" height="800" src="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Micepad-Kickoff-Presentation-Highlights.jpeg" class="attachment-large size-large wp-image-1689" alt="Micepad Kickoff Presentation Highlights" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Micepad-Kickoff-Presentation-Highlights.jpeg 800w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Micepad-Kickoff-Presentation-Highlights-300x300.jpeg 300w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Micepad-Kickoff-Presentation-Highlights-150x150.jpeg 150w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Micepad-Kickoff-Presentation-Highlights-768x768.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" title="7 Tips Savvy Event Managers Use To Boost Audience Engagement 18">															</div>
+				</div>
+				<div class="elementor-element elementor-element-4332944 elementor-widget elementor-widget-heading" data-id="4332944" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">5. Share highlights
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-52630f2 elementor-widget elementor-widget-text-editor" data-id="52630f2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><p dir="ltr">Audience engagement does not just happen when the event is on, but when it is done too.</p><p dir="ltr">In this case, you can share moments and highlights from the event on social media and ask people to tag themselves. This makes it fun since everyone would want to go through your timeline to see where they were captured, or get mentioned by someone who recognizes them from the frame.</p><p dir="ltr">At the same time, you can give the option for interested attendees to download their highlights from an online cloud storage folder.</p></div><div class="thrv_wrapper tve_image_caption" data-css="tve-u-16ff9770836"> </div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-33b9236 elementor-widget elementor-widget-image" data-id="33b9236" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="467" src="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Day-3.5-Air-Hockey-with-Mario-Party-1.jpg" class="attachment-large size-large wp-image-1694" alt="Day 3.5 Air Hockey with Mario Party 1" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Day-3.5-Air-Hockey-with-Mario-Party-1.jpg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Day-3.5-Air-Hockey-with-Mario-Party-1-300x200.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" title="7 Tips Savvy Event Managers Use To Boost Audience Engagement 19">															</div>
+				</div>
+				<div class="elementor-element elementor-element-52f94a8 elementor-widget elementor-widget-heading" data-id="52f94a8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">6. Host an after party
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-87871f0 elementor-widget elementor-widget-text-editor" data-id="87871f0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p dir="ltr">Let’s face it:</p><p dir="ltr">Most events are serious, and even while people are trying to be social, they have to do so as formally as they can. Likewise, attendees restricted to certain codes of conduct and forms of approach. </p><p dir="ltr">Once the event proper is done, host an afterparty to allow every one to loosen up and have fun the right way. Those who are more comfortable in this setting will find it easier to network. Others will also have a more relaxed atmosphere to not only have fun but meet new people too. </p><p dir="ltr">That is not to mention the fact that the afterparty might be the single reason why many come to your event – especially if it&#8217;s a corporate one. After all, these executives have also been looking for an excuse to let off some steam for a while now.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7d6e191 elementor-widget elementor-widget-image" data-id="7d6e191" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="467" src="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Leveraging-Technology.jpeg" class="attachment-large size-large wp-image-1687" alt="Leveraging Technology" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Leveraging-Technology.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2021/06/Leveraging-Technology-300x200.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="7 Tips Savvy Event Managers Use To Boost Audience Engagement 20">															</div>
+				</div>
+				<div class="elementor-element elementor-element-8a991ab elementor-widget elementor-widget-heading" data-id="8a991ab" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">7. Leverage technology
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-088ed80 elementor-widget elementor-widget-text-editor" data-id="088ed80" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p dir="ltr">The amazing part of this is how technology can be used for just about any kind of event.</p><p dir="ltr">For some, you could implement exhibition booths for start-ups to showcase what they have on offer. Besides the engagement and fun that gives the audience, you can also make money off booths while offering the start-ups/ other exhibitors a solid platform.</p><p dir="ltr">At some other events, game rooms can also be set up to allow attendees to have fun during breaks. Here, immersive 3D technology, AR and VR can be put to good use. Depending on your audience and kind of event, research the forms of technology that will work wonders for you.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/hk/blog/7-tips-savvy-event-managers-use-to-boost-audience-engagement/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Event Digitization: What It Is, Current Prospects, And Outlook For The Future</title>
+		<link>https://micepad.co/hk/blog/event-digitization-what-it-is-current-prospects-and-outlook-for-the-future</link>
+					<comments>https://micepad.co/hk/blog/event-digitization-what-it-is-current-prospects-and-outlook-for-the-future#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2019 09:30:00 +0000</pubDate>
+				<category><![CDATA[Industry Insights]]></category>
+		<category><![CDATA[Event News]]></category>
+		<guid isPermaLink="false">https://micepad.co/hk/?p=2193</guid>
+
+					<description><![CDATA[The internet is a lot of things – especially as it gives way and rise to a host of other industries and [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2193" class="elementor elementor-2193" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-0a8bd87 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0a8bd87" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4c1569e" data-id="4c1569e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-92d76db elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="92d76db" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5a3b3d9" data-id="5a3b3d9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-320bbbf elementor-widget elementor-widget-text-editor" data-id="320bbbf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><p class="tve-droppable">The internet is a lot of things – especially as it gives way and rise to a host of other industries and niches.</p><p class="tve-droppable"> One of the concepts that has come about due to the age of the internet is digitization, and that is not lost on the event management industry either. In fact, it has been the underlying bedrock for some of the defining trends to have shaped this industry – and which will continue to make major impact into how its affairs are run.</p><h2 class="tve-droppable">What Is Digitization?</h2><p class="tve-droppable">In simple words, digitization refers to the introduction and leveraging of new forms of technology by an industry, brand, company or other bodies. Besides keeping up with the trends and staying within the range of standard, digitization also contributes immensely to the improvement of workflow while cutting costs at the same time.</p><p class="tve-droppable">With every passing day, event planners and organizers are putting in new digital measures to ensure the success of their events. The best part of it all is that these moves are not only fancied by the event organizers themselves, but appreciated by the event attendees too.</p><p class="tve-droppable"> That creates a situation of need meets fulfilment, even if the target audience didn’t know they had such needs in the first place.</p><h2 class="tve-droppable">How Digital Is the Events Industry?</h2><p class="tve-droppable">Almost every and all aspects of events have found a digital alternative to how things were being done. Traditional models are either being phased out or optimized into digital models to fit into the dynamism of the entire industry.</p><p class="tve-droppable">Some of the areas worthy of note are:</p></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-dd35896 elementor-widget elementor-widget-image" data-id="dd35896" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="700" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/11/Wall-of-Tickets.jpeg" class="attachment-large size-large wp-image-2200" alt="Wall of Tickets" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/11/Wall-of-Tickets.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/11/Wall-of-Tickets-300x300.jpeg 300w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/11/Wall-of-Tickets-150x150.jpeg 150w" sizes="(max-width: 700px) 100vw, 700px" title="Event Digitization: What It Is, Current Prospects, And Outlook For The Future 24">															</div>
+				</div>
+				<div class="elementor-element elementor-element-5a3d558 elementor-widget elementor-widget-text-editor" data-id="5a3d558" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="thrv_wrapper thrv_text_element"><div class="thrv_wrapper thrv_text_element"><h2 class="tve-droppable">1)Ticket Management</h2><p class="tve-droppable">Ticket sales create quite the bit of hassle on its own.</p><p class="tve-droppable">First, choosing the channel through which to sell tickets and account for the number of sales correctly can create concern. Likewise, registering attendees at the event and ensuring no one with a ticket is kept outside or vice versa becomes yet another <em>ceremony</em> of its own.</p><p class="tve-droppable">Facial recognition helps to keep all that away due to the uniqueness of the human profile which it brings to event management.</p><p class="tve-droppable">Admission into events is faster and more reliable since facial data is one to be trusted. On top of that, it becomes possible to identify each and everyone in the crowd at any given point in time. Perhaps the biggest win for facial recognition is the kind of security that it fosters, seeing as facial data can quickly be used to identify and remove threats before they materialize at all.</p></div></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-0b70dc2 elementor-widget elementor-widget-image" data-id="0b70dc2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="558" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/11/Advertisments.jpeg" class="attachment-large size-large wp-image-2199" alt="Advertisments" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/11/Advertisments.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/11/Advertisments-300x239.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="Event Digitization: What It Is, Current Prospects, And Outlook For The Future 25">															</div>
+				</div>
+				<div class="elementor-element elementor-element-cde9ad4 elementor-widget elementor-widget-text-editor" data-id="cde9ad4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2 class="tve-droppable">2)Advertisement</h2><p class="tve-droppable">Remember when we used to go through traditional models of advertisement (fliers, billboard and posters)? While they still work, they can never have the same kind of reach event organizers are looking for.</p><p class="tve-droppable">This is what social media steps in to address.</p><p class="tve-droppable">There are diverse subsets of people on social media. Of the billions who have found abode there, though, you will usually find out that your target audience is somewhere around the corner.</p><p class="tve-droppable">With the right message and content, they can always be reached. The best part is that social media promises a great ROI for event managers, so there is no reason not to try it at all.</p><h2 class="tve-droppable">3)Event Proceedings</h2><p class="tve-droppable">Gone are the days of physical program outlines.</p><p class="tve-droppable">These days, about the first thing that happens when a major event is going up is the development of a dedicated website. This website serves as the hub of resources for such programs. Thus, everything from the location and date to the order of events will most likely be found here.</p><p class="tve-droppable">Stepping that forward, savvy organizers have gone the way of event apps instead. Easily downloaded and installed, they provide the perfect companion for many events. From floor plans, exhibition booth layout to personalization (seat numbers, reminders for fav speakers, etc.), the attendee is treated to a great time.</p><p class="tve-droppable">For event organizers and sponsors, this is also a great way to get their ads and products out there. At the same time, it allows for a flexibility that paper doesn’t – the opportunity to change program outline as seen fit.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a98c260 elementor-widget elementor-widget-image" data-id="a98c260" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="466" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/11/Engaging-the-crowd.jpeg" class="attachment-large size-large wp-image-2198" alt="Engaging the crowd" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/11/Engaging-the-crowd.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/11/Engaging-the-crowd-300x200.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="Event Digitization: What It Is, Current Prospects, And Outlook For The Future 26">															</div>
+				</div>
+				<div class="elementor-element elementor-element-a695738 elementor-widget elementor-widget-text-editor" data-id="a695738" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2 class="tve-droppable">4) Audience Engagement</h2><p class="tve-droppable">The audience should always be made to feel like they are a part of the entire event from start to finish. That ensures they are always keen on what’s coming next, never miss the main takeaways and leave with a positive brand image at heart.</p><p class="tve-droppable">Digitization makes that even easier to achieve than before.</p><p class="tve-droppable">Got questions? No need to write them in a piece of paper to be passed to the speaker. These questions can be posted on social media with the right hashtag or handle mentioned, and the handler will get them through to the speaker.</p><p class="tve-droppable">Want to join in the online conversion? The hashtags are there – and they help you network with others at the event in the same vein.</p><p class="tve-droppable">All that, and we have not mentioned the impact of virtual and augmented reality, among others, in transforming the user experience immensely.</p><p> </p><h2 class="tve-droppable">The Future of Digitisation in the Events Industry</h2><p class="tve-droppable">While the past couple of years have started the upward swing towards digitization in the industry, there is more to come. Many of the technology being applied in the industry, as of now, are still in the emerging stage. With the turn of the decade, they are sure to mature, and we will have even more of these to look at.</p><p class="tve-droppable">When that happens, the event planning and management industry will get the kind of facelift that we have been looking towards.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/hk/blog/event-digitization-what-it-is-current-prospects-and-outlook-for-the-future/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Event Planning: Top 10 Biggest Concerns – And How To Address Them All</title>
+		<link>https://micepad.co/hk/blog/event-planning-top-10-biggest-concerns-and-how-to-address-them-all</link>
+					<comments>https://micepad.co/hk/blog/event-planning-top-10-biggest-concerns-and-how-to-address-them-all#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2019 10:59:00 +0000</pubDate>
+				<category><![CDATA[Industry Insights]]></category>
+		<category><![CDATA[Audience Engagement]]></category>
+		<category><![CDATA[Event management]]></category>
+		<category><![CDATA[Event Planning]]></category>
+		<guid isPermaLink="false">https://micepad.co/hk/?p=2247</guid>
+
+					<description><![CDATA[Event planning is a superpower on its own. For one, planning something in advance to the tiniest detail requires a great deal [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2247" class="elementor elementor-2247" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-e2602b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e2602b3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-faad1b6" data-id="faad1b6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7c9972e elementor-widget elementor-widget-text-editor" data-id="7c9972e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">Event planning is a superpower on its own. For one, planning something in advance to the tiniest detail requires a great deal of attention, precision and detailing. Like with every other superpower, though, there is always a kryptonite.</p>
+<p class="tve-droppable">Today, we talk about the top 10 problems event planners face – and how you can avoid them at your next event.</p>
+<h2 class="tve-droppable">1. Understaffing</h2>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e52672a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e52672a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-76d17cb" data-id="76d17cb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-dab1d81 elementor-widget elementor-widget-image" data-id="dab1d81" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="400" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Understaffed-at-Work.jpeg" class="attachment-large size-large wp-image-2255" alt="Understaffed at Work" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Understaffed-at-Work.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Understaffed-at-Work-300x171.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="Event Planning: Top 10 Biggest Concerns – And How To Address Them All 37">															</div>
+				</div>
+				<div class="elementor-element elementor-element-5e811b3 elementor-widget elementor-widget-text-editor" data-id="5e811b3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">No matter how long you have spent in the game, this is bound to happen from time to time.</p>
+<p class="tve-droppable">The biggest concern here is that you won’t usually know this is a problem till the D-day. At this point, it is too late to do anything. Even if you could do something, you might not be able to ensure the new help is in coherence with the others.</p>
+<p class="tve-droppable">Here, we recommend having a number of quality staff members on speed dial. They should be highly trained and ready to go. That way, you can always call them up at a moment’s notice if their help is ever needed.</p>
+<h2 class="tve-droppable">2. Overspending</h2>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c54a669 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c54a669" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9b478cf" data-id="9b478cf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e4e0637 elementor-widget elementor-widget-image" data-id="e4e0637" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="380" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Overspending.jpeg" class="attachment-large size-large wp-image-2256" alt="Overspending" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Overspending.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Overspending-300x163.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="Event Planning: Top 10 Biggest Concerns – And How To Address Them All 38">															</div>
+				</div>
+				<div class="elementor-element elementor-element-a18629b elementor-widget elementor-widget-text-editor" data-id="a18629b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">This is especially an issue with people just starting out in the business.</p>
+<p class="tve-droppable">If there is something the expert planners have always demonstrated, it is that you don’t have to break the bank to make a great event happen. In short, sometimes, less is more.</p>
+<p class="tve-droppable">Our top recommendation here is that you learn from experience. To fast-track the experience, though, there is nothing wrong in hiring a budgeting expert on your team. Preferably, go with one who has experience in event planning so that they can help improve your trade with their unique skill set.</p>
+<h2 class="tve-droppable">3. Networking</h2>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9c65d4c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9c65d4c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a5e8c2c" data-id="a5e8c2c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5a63dec elementor-widget elementor-widget-image" data-id="5a63dec" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="467" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Networking.jpeg" class="attachment-large size-large wp-image-2257" alt="Networking" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Networking.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Networking-300x200.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="Event Planning: Top 10 Biggest Concerns – And How To Address Them All 39">															</div>
+				</div>
+				<div class="elementor-element elementor-element-065cebf elementor-widget elementor-widget-text-editor" data-id="065cebf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">You might not know this, but many business people are probably coming to your event because of the networking opportunities that are available to them. This means they are not as keen on the interior decoration, choice of meals over different courses and such other eye candies that you must have planned.</p>
+<p class="tve-droppable">Of course, those add to the experience – but don’t lose sight of what’s important.</p>
+<p class="tve-droppable">Thus, work on the networking aspect of your event. Make sure attendees know what they get – and ensure what they get is quality too.</p>
+<h2 class="tve-droppable">4. Backup</h2>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-200d405 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="200d405" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-79bb636" data-id="79bb636" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8bcc8ba elementor-widget elementor-widget-image" data-id="8bcc8ba" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="466" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Backup-Plan.jpeg" class="attachment-large size-large wp-image-2258" alt="Backup Plan" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Backup-Plan.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Backup-Plan-300x200.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="Event Planning: Top 10 Biggest Concerns – And How To Address Them All 40">															</div>
+				</div>
+				<div class="elementor-element elementor-element-edf3fa3 elementor-widget elementor-widget-text-editor" data-id="edf3fa3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">Like we mentioned earlier, event planners are not time travelers, but they can almost plan the day to the minute. While that is great, it also helps to account for possible changes in circumstances which could change the plan.</p>
+<p class="tve-droppable">A great event is one that has been planned to the letter yet being flexible enough to accommodate changes.</p>
+<p class="tve-droppable">What happens when bad weather creeps up? Or, say, a keynote speaker doesn’t arrive on time?</p>
+<p class="tve-droppable">Worst case scenarios should be worked into every step of the event and accounted for. This way, even the most serious of glitches will be handled without panic.</p>
+<h2 class="tve-droppable">5. Lack of Experience</h2>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-09acfe8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="09acfe8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c1efb8d" data-id="c1efb8d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2ff9b7c elementor-widget elementor-widget-image" data-id="2ff9b7c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="370" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Lack-of-Experience-1.jpeg" class="attachment-large size-large wp-image-2259" alt="Lack of Experience 1" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Lack-of-Experience-1.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Lack-of-Experience-1-300x159.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="Event Planning: Top 10 Biggest Concerns – And How To Address Them All 41">															</div>
+				</div>
+				<div class="elementor-element elementor-element-383bb3a elementor-widget elementor-widget-text-editor" data-id="383bb3a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">Before we move on, you should know one thing:</p>
+<p class="tve-droppable">This is not a low blow to those starting out in the event planning game. In fact, it is quite the opposite.</p>
+<p class="tve-droppable">Like any other important field, event planning is as demanding as they come. It would help to have go-to mentors, work with someone who has been in the game for a while and learn all you can before you delve into event planning at all.</p>
+<h2 class="tve-droppable">6. Audience Engagement</h2>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9676436 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9676436" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aa7be9c" data-id="aa7be9c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a7073d3 elementor-widget elementor-widget-image" data-id="a7073d3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="469" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/No-Audience.jpeg" class="attachment-large size-large wp-image-2253" alt="No Audience" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/No-Audience.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/No-Audience-300x201.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="Event Planning: Top 10 Biggest Concerns – And How To Address Them All 42">															</div>
+				</div>
+				<div class="elementor-element elementor-element-f92e8de elementor-widget elementor-widget-text-editor" data-id="f92e8de" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">Besides networking opportunities, your audience does not want to come to that event and be bombarded with speeches and numerous talks. They also want to feel like they are part of the event, and that is where audience engagement comes in.</p>
+<p class="tve-droppable">This can be achieved in a lot of ways, from immersive 3D experiences to Virtual/ Augmented Reality tours, and such other innovative approaches.</p>
+<p class="tve-droppable">Believe us when we say they will go back home feeling better fulfilled than if they were just made to sit and absorb all the information being thrown their way.</p>
+<h2 class="tve-droppable">7. Local Laws</h2>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-01f1776 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="01f1776" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dc34893" data-id="dc34893" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0726dfb elementor-widget elementor-widget-image" data-id="0726dfb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="373" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/local-laws.jpeg" class="attachment-large size-large wp-image-2252" alt="local laws" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/local-laws.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/local-laws-300x160.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="Event Planning: Top 10 Biggest Concerns – And How To Address Them All 43">															</div>
+				</div>
+				<div class="elementor-element elementor-element-fa67484 elementor-widget elementor-widget-text-editor" data-id="fa67484" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">This is one that happens to the best of us.</p>
+<p class="tve-droppable">Every locale has different laws and regulations guiding event organization. Another reason why local laws are important is ensuring your event doesn’t clash with any other major local event which could derail your plans – or make it less pleasurable for the guests that would be showing up.</p>
+<p class="tve-droppable">To avoid getting into this pickle jar, discuss local laws with the venue managers since they are better familiar with that locale. Likewise, Google is your friend in checking calendars for possible events in that area.</p>
+<p class="tve-droppable">If you’ve got a union or association of event planners which you are a part of, reach out to someone in the region for better information.</p>
+<h2 class="tve-droppable">8. Large Crowd</h2>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f64a7bb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f64a7bb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2945842" data-id="2945842" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5525491 elementor-widget elementor-widget-image" data-id="5525491" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="394" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Large-Crowd.jpeg" class="attachment-large size-large wp-image-2251" alt="Large Crowd" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Large-Crowd.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Large-Crowd-300x169.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="Event Planning: Top 10 Biggest Concerns – And How To Address Them All 44">															</div>
+				</div>
+				<div class="elementor-element elementor-element-1dd8d6c elementor-widget elementor-widget-text-editor" data-id="1dd8d6c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">If there was a paradox in the world of event planning, this would be it.</p>
+<p class="tve-droppable">On the one hand, you are happy your event marketing tactics worked so well, you now have a crowd to cater to. On the other hand, you now have to worry about controlling the crowd. By control, we mean ensuring everyone gets properly seated, attended to by the waiters and so on.</p>
+<p class="tve-droppable">Most event planners we know will already have a planned list of attendees in mind. But then, last minute attendees are a thing too. So, ensure your plan creates room to adapt for a larger crowd if need be.</p>
+<p class="tve-droppable">Better to be on the safe than sorry side.</p>
+<h2 class="tve-droppable">9. The Little Things</h2>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-58d8628 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="58d8628" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3aade30" data-id="3aade30" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7ef55e3 elementor-widget elementor-widget-image" data-id="7ef55e3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="600" height="360" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Small-Things.jpeg" class="attachment-large size-large wp-image-2250" alt="Small Things" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Small-Things.jpeg 600w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/Small-Things-300x180.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" title="Event Planning: Top 10 Biggest Concerns – And How To Address Them All 45">															</div>
+				</div>
+				<div class="elementor-element elementor-element-e656a14 elementor-widget elementor-widget-text-editor" data-id="e656a14" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">Your attendees will see a well-lit hall, awesome podium. Great décor and an amazing ambience. This will usually be noted in the big things, but what they don’t know is that the smaller things count more.</p>
+<p class="tve-droppable">However, this is something you know all too well.</p>
+<p class="tve-droppable">An event manager should never leave the tiniest details to fate – from the soundtrack/ DJ playlist to grace the event to the kind of souvenirs attendees leave with. These contribute to the overall experience, and they will be sorely missed if you leave them out.</p>
+<h2 class="tve-droppable">10. Your Turn</h2>								</div>
+				</div>
+				<div class="elementor-element elementor-element-4cb0360 elementor-widget elementor-widget-image" data-id="4cb0360" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="768" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/You-Finger-Point.jpeg" class="attachment-large size-large wp-image-2249" alt="You Finger Point" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/You-Finger-Point.jpeg 700w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/10/You-Finger-Point-273x300.jpeg 273w" sizes="(max-width: 700px) 100vw, 700px" title="Event Planning: Top 10 Biggest Concerns – And How To Address Them All 46">															</div>
+				</div>
+				<div class="elementor-element elementor-element-addcbdf elementor-widget elementor-widget-text-editor" data-id="addcbdf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>What is one of your biggest concerns as an event manager? We would like to hear them in the comments. We will also appreciate if you can shed more light on how you have/are salvaging the situation.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/hk/blog/event-planning-top-10-biggest-concerns-and-how-to-address-them-all/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

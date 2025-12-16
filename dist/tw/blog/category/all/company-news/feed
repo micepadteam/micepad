@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Company News &#8211; Micepad TW</title>
+	<atom:link href="https://micepad.co/tw/blog/category/all/company-news/feed" rel="self" type="application/rss+xml" />
+	<link>https://micepad.co/tw</link>
+	<description>Enterprise Event App and Event Management Software</description>
+	<lastBuildDate>Tue, 10 Jan 2023 09:53:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.4</generator>
+
+<image>
+	<url>https://micepad.co/tw/wp-content/uploads/sites/5/2023/07/cropped-micepad-favicon-32x32.png</url>
+	<title>Company News &#8211; Micepad TW</title>
+	<link>https://micepad.co/tw</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Announcing: New Website Launch!</title>
+		<link>https://micepad.co/tw/blog/announcing-new-website-launch</link>
+					<comments>https://micepad.co/tw/blog/announcing-new-website-launch#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Tue, 12 Mar 2019 07:51:00 +0000</pubDate>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">https://micepad.co/tw/?p=2306</guid>
+
+					<description><![CDATA[If you&#8217;re new to Micepad, you may not have noticed this, however previous viewers will DEFINITELY have discovered a huge change. After [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2306" class="elementor elementor-2306" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-76f83ea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="76f83ea" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f9e0e86" data-id="f9e0e86" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9f8e5d5 elementor-widget elementor-widget-text-editor" data-id="9f8e5d5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable" data-css="tve-u-16971500b75">If you&#8217;re new to Micepad, you may not have noticed this, however previous viewers will DEFINITELY have discovered a huge change. After 3 months of hard work (and cross-country video calls), we&#8217;re super excited to finally unveil our new website!</p>
+<h3 class="tve-droppable">Why a Redesign?</h3>
+<p class="tve-droppable" data-css="tve-u-16971512830">Don&#8217;t worry &#8211; our tech team is still working hard to create the most intuitive and convenient event management and audience engagement platform. (In fact, we&#8217;re going to announce a v.8 pretty soon!) However, we felt that we needed to show our dedication to UI/UX in our website too!</p>
+<h2 class="tve-droppable">What&#8217;s Changed?</h2>
+<h3 class="tve-droppable">1. The Look.</h3>
+<p class="tve-droppable">Here&#8217;s a side-by-side comparison of our old and new site designs:</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0b7d94d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b7d94d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-758871d" data-id="758871d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8773f3f elementor-widget elementor-widget-image" data-id="8773f3f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="371" height="1024" src="https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-micepadapp-2019-03-12-17_41_08-371x1024.png" class="attachment-large size-large wp-image-2310" alt="screencapture micepadapp 2019 03 12 17 41 08" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-micepadapp-2019-03-12-17_41_08-371x1024.png 371w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-micepadapp-2019-03-12-17_41_08-109x300.png 109w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-micepadapp-2019-03-12-17_41_08-556x1536.png 556w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-micepadapp-2019-03-12-17_41_08.png 724w" sizes="(max-width: 371px) 100vw, 371px" title="Announcing: New Website Launch! 6">															</div>
+				</div>
+				<div class="elementor-element elementor-element-df5f0fe elementor-widget elementor-widget-image" data-id="df5f0fe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="414" height="1024" src="https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21-414x1024.png" class="attachment-large size-large wp-image-2309" alt="screencapture rsvp7 co 2019 03 12 17 41 21" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21-414x1024.png 414w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21-121x300.png 121w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21-768x1899.png 768w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21-621x1536.png 621w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21.png 809w" sizes="(max-width: 414px) 100vw, 414px" title="Announcing: New Website Launch! 7">															</div>
+				</div>
+				<div class="elementor-element elementor-element-b0e8108 elementor-widget elementor-widget-text-editor" data-id="b0e8108" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">As you can see, we’ve kept our brand colours of green and white, but changed up everything else. Our main focuses this time were on ease of navigation and site structure, however our fabulous designer took time to make everything look amazing too!</p>
+<p class="tve-droppable">We have new images, new icons and even new buttons! We’ve also changed our font from <em>Lato</em> to <em>Montserrat</em> to improve the readability of the site.</p>
+<h3 class="tve-droppable">2. The Navigation</h3>
+<p class="tve-droppable">Since Micepad’s inception, we’ve had 3 previous redesigns (the earliest was slightly over a year ago), and learnt much about online behaviour each time. We realised that we had been a little over-enthusiastic about providing as much information as possible to viewers.</p>
+<p class="tve-droppable">The menu bar was <em>extremely</em> cluttered.</p>
+<p class="tve-droppable">Clients were telling us about redundant pages <em>all the time</em>. Searching for information about our products was a great challenge and took a long time.</p>
+<p class="tve-droppable">After this update, we’ve condensed all useful information into single pages per product and use case under <strong>“Products” </strong>and <strong>“Solutions”.</strong> That reduced a whopping 23 pages to just 7 pages &#8211; less than a third of what we used to have!</p>
+<p class="tve-droppable">Additionally, we’ve also moved all <strong>“About” </strong>page links to the footer instead of the top menu bar. Similar to the old site, current clients can still access the Micepad admin panel through the <strong>“Login”</strong> link, while new clients can contact us through the <strong>“Get Started” </strong>button.</p>
+<p class="tve-droppable">We’ve also moved the Chinese translation button to the footer!</p>
+<h3 class="tve-droppable">3. The Contact Form(s) </h3>
+<p>We’ve improved on the design for our contact form, creating 2 in <strong class="tve-droppable">“Get Started” </strong>and <strong class="tve-droppable">“Contact Us” </strong>unlike previously:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-e6cf6a9 elementor-widget elementor-widget-image" data-id="e6cf6a9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="350" height="1024" src="https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-micepadapp-contact-us-2019-03-12-17_46_05-350x1024.png" class="attachment-large size-large wp-image-2316" alt="screencapture micepadapp contact us 2019 03 12 17 46 05" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-micepadapp-contact-us-2019-03-12-17_46_05-350x1024.png 350w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-micepadapp-contact-us-2019-03-12-17_46_05-103x300.png 103w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-micepadapp-contact-us-2019-03-12-17_46_05-525x1536.png 525w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-micepadapp-contact-us-2019-03-12-17_46_05.png 684w" sizes="(max-width: 350px) 100vw, 350px" title="Announcing: New Website Launch! 8">															</div>
+				</div>
+				<div class="elementor-element elementor-element-7bd2c6f elementor-widget elementor-widget-image" data-id="7bd2c6f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="950" src="https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12-1024x973.png" class="attachment-large size-large wp-image-2315" alt="screencapture rsvp7 co get started 2019 03 12 17 46 12" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12-1024x973.png 1024w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12-300x285.png 300w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12-768x730.png 768w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12-1536x1459.png 1536w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12.png 1920w" sizes="(max-width: 1000px) 100vw, 1000px" title="Announcing: New Website Launch! 9">															</div>
+				</div>
+				<div class="elementor-element elementor-element-e325cfe elementor-widget elementor-widget-image" data-id="e325cfe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="842" height="1024" src="https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-842x1024.png" class="attachment-large size-large wp-image-2314" alt="screencapture rsvp7 co contact us 2019 03 12 17 46 28" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-842x1024.png 842w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-247x300.png 247w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-768x934.png 768w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-1263x1536.png 1263w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-1684x2048.png 1684w, https://micepad.co/tw/wp-content/uploads/sites/5/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28.png 1920w" sizes="(max-width: 842px) 100vw, 842px" title="Announcing: New Website Launch! 10">															</div>
+				</div>
+				<div class="elementor-element elementor-element-c8c7b0c elementor-widget elementor-widget-text-editor" data-id="c8c7b0c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Those are the 3 main changes that we’ve implemented after 3 months, however there are also many other smaller changes that have been made. Have a quick scroll around and check us out!</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/tw/blog/announcing-new-website-launch/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2019 Kickoff Meeting in Kuala Lumpur</title>
+		<link>https://micepad.co/tw/blog/2019-kickoff-meeting-in-kuala-lumpur</link>
+					<comments>https://micepad.co/tw/blog/2019-kickoff-meeting-in-kuala-lumpur#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Tue, 08 Jan 2019 02:14:45 +0000</pubDate>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[micepad family]]></category>
+		<guid isPermaLink="false">https://micepad.co/tw/?p=2401</guid>
+
+					<description><![CDATA[As a company grows, it gets harder and harder to put a face to a name. When the teams that we work [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2401" class="elementor elementor-2401" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-38c896a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="38c896a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b84596a" data-id="b84596a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1375c16 elementor-widget elementor-widget-text-editor" data-id="1375c16" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>As a company grows, it gets harder and harder to put a face to a name. When the teams that we work in on a daily basis are no longer limited to a single office, it is too easy to become disconnected from your international members. For a startup, that’s a quick way for things to go awry.That’s why Micepad decided to fly in all our teams from Singapore, Taiwan and Philippines to the KL office in order to kickoff the new year! On the 2nd of January 2019, teams from all over Southeast Asia flew to Malaysia (home to most of our techies!) in order to meet each other and share our experiences over the previous year.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-99c75b2 elementor-widget elementor-widget-image" data-id="99c75b2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="750" src="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/20.jpeg" class="attachment-large size-large wp-image-2405" alt="20" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/20.jpeg 1024w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/20-300x225.jpeg 300w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/20-768x576.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" title="2019 Kickoff Meeting in Kuala Lumpur 18">															</div>
+				</div>
+				<div class="elementor-element elementor-element-2c08634 elementor-widget elementor-widget-text-editor" data-id="2c08634" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>As you can see, our KL Kickoff was extremely ‘productive’. Haha!But seriously – most of the time was spent discussing exactly how we could improve both our product and services in order to provide a better experience for our users. It was inspiring listening to everyone’s suggestions on how we could improve and reach out to a greater audience. We also introduced new members to the team, swelling our numbers from 20 to 30!This year’s kickoff took place over 3.5 days (with 1 free day for SHOPPING). We covered a host of topics including new iOS coding language, new approaches to our various international markets, app features which had been in high demand the previous year, and much, much more!</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-098d737 elementor-widget elementor-widget-image" data-id="098d737" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="750" src="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/21.jpeg" class="attachment-large size-large wp-image-2406" alt="21" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/21.jpeg 1024w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/21-300x225.jpeg 300w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/21-768x576.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" title="2019 Kickoff Meeting in Kuala Lumpur 19">															</div>
+				</div>
+				<div class="elementor-element elementor-element-0c663c5 elementor-widget elementor-widget-heading" data-id="0c663c5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Day 1 – Tech Sharing</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3cde927 elementor-widget elementor-widget-text-editor" data-id="3cde927" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>With only 3.5 days to review and plan out the new year, time was of the essence. For the Singapore team, we touched down in KL at roughly 10:30AM, with the other teams following not much later. Without even stopping by our hotel to freshen up or drop off our luggage, all of us immediately converged in the KL office (that has a superb view of the KL skyline) at Q Sentral to meet the new faces and start the tech sharing discussion. The discussions ranged from big data to machine learning to shifting our app coding language (to Swift). Some highlights of what we covered:1. The potential use of machine learning in marketing.2. How we can go deeper into UX design through cognitive psychology.3. Types of QA testing and our current QA schedule/processesBut enough geeking out on new tech! We also greeted new faces this year – with 2 fresh new hires having their first days at the kickoff meeting itself!</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-f274998 elementor-widget elementor-widget-image" data-id="f274998" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="750" src="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/22.jpeg" class="attachment-large size-large wp-image-2407" alt="22" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/22.jpeg 1024w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/22-300x225.jpeg 300w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/22-768x576.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" title="2019 Kickoff Meeting in Kuala Lumpur 20">															</div>
+				</div>
+				<div class="elementor-element elementor-element-fea9686 elementor-widget elementor-widget-heading" data-id="fea9686" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Day 2 – Case Studies &amp; Panel Discussion</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4dc35c8 elementor-widget elementor-widget-text-editor" data-id="4dc35c8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Day 2 of the KL Kickoff meeting was equally packed with activities. However, we felt that it was important to get out of the usual office environment and allow not just the visiting teams but the KL team to feel more at relaxed and get those creative juices flowing!With fast wifi, soft, squashy sofas and free flow coffee and tea, our various countries’ sales members settled down to share their successes, case studies and how their experiences could help us improve in the new year.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-b284780 elementor-widget elementor-widget-image" data-id="b284780" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="750" src="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/23.jpg" class="attachment-large size-large wp-image-2409" alt="23" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/23.jpg 1024w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/23-300x225.jpg 300w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/23-768x576.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" title="2019 Kickoff Meeting in Kuala Lumpur 21">															</div>
+				</div>
+				<div class="elementor-element elementor-element-1d1929c elementor-widget elementor-widget-image" data-id="1d1929c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="750" src="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/24.jpeg" class="attachment-large size-large wp-image-2411" alt="24" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/24.jpeg 1024w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/24-300x225.jpeg 300w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/24-768x576.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" title="2019 Kickoff Meeting in Kuala Lumpur 22">															</div>
+				</div>
+				<div class="elementor-element elementor-element-26cc471 elementor-widget elementor-widget-image" data-id="26cc471" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="768" height="1024" src="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/25.jpg" class="attachment-large size-large wp-image-2412" alt="25" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/25.jpg 768w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/25-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" title="2019 Kickoff Meeting in Kuala Lumpur 23">															</div>
+				</div>
+				<div class="elementor-element elementor-element-99c3854 elementor-widget elementor-widget-image" data-id="99c3854" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="750" src="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/26.jpg" class="attachment-large size-large wp-image-2413" alt="26" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/26.jpg 1024w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/26-300x225.jpg 300w, https://micepad.co/tw/wp-content/uploads/sites/5/2020/09/26-768x576.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" title="2019 Kickoff Meeting in Kuala Lumpur 24">															</div>
+				</div>
+				<div class="elementor-element elementor-element-406467f elementor-widget elementor-widget-heading" data-id="406467f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Day 3 – Planning &amp; Playtime!</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-823090b elementor-widget elementor-widget-text-editor" data-id="823090b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>The final day of the KL Kickoff was spent deciding on the focuses and challenges for the year. Each department discussed amongst themselves what parts of Micepad they felt needed to be worked on and what obstacles they would meet along the way. What about? Well, our blog will now be updating regularly, so keep your eyes open!And finally, we had a crazy afternoon of team bonding activities at MyBestBox, Malaysia’s largest variety show game hub!Psst, did you know that this event was entirely supported from start to end by our mobile app? Look out for our videos! <em>Don’t worry, we&#8217;ll upload all the #unglam photos too!</em></p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/tw/blog/2019-kickoff-meeting-in-kuala-lumpur/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Micepad: Supporting the MICE Industry with Holistic Event Technology</title>
+		<link>https://micepad.co/tw/blog/micepad-supporting-the-mice-industry-with-holistic-event-technology</link>
+					<comments>https://micepad.co/tw/blog/micepad-supporting-the-mice-industry-with-holistic-event-technology#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Mon, 24 Sep 2018 03:13:06 +0000</pubDate>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[Micepad Updates]]></category>
+		<category><![CDATA[Start-up]]></category>
+		<guid isPermaLink="false">https://micepad.co/tw/?p=2746</guid>
+
+					<description><![CDATA[Introduction As Micepad continues to assist businesses with a multi-functional event platform, it has been gaining a lot of attention as a breakthrough [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2746" class="elementor elementor-2746" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-a4093a7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a4093a7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f2f6b30" data-id="f2f6b30" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2955569 elementor-widget elementor-widget-text-editor" data-id="2955569" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span id="Introduction" class="ez-toc-section"><strong>Introduction</strong></span></p><p>As Micepad continues to assist businesses with a <a href="https://micepad.co/tw/"><span style="color: #63c339;">multi-functional event platform</span></a>, it has been gaining a lot of attention as a breakthrough in the event industry. As a matter of fact, Mr. Jie Hao Tan, Micepad’s Co-founder and CEO graced the spotlight once again during a recent interview at  Money FM 89.3.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-64d23b1 elementor-widget elementor-widget-image" data-id="64d23b1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="400" height="214" src="https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/fm89.3.jpeg" class="attachment-large size-large wp-image-3993" alt="fm89.3" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/fm89.3.jpeg 400w, https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/fm89.3-300x161.jpeg 300w" sizes="(max-width: 400px) 100vw, 400px" title="Micepad: Supporting the MICE Industry with Holistic Event Technology 32">															</div>
+				</div>
+				<div class="elementor-element elementor-element-8c232e6 elementor-widget elementor-widget-heading" data-id="8c232e6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Disrupting the MICE space with a seamless pre to post event experience</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8c77265 elementor-widget elementor-widget-text-editor" data-id="8c77265" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><a href="https://moneyfm893.sg/" target="_blank" rel="noopener"><span style="color: #63c339;">Money FM</span></a> is Singapore’s first business and personal finance station. Hosted by veteran radio personality Howie Lim, several businesses, industry experts  and business leaders primarily from the Small and Medium Enterprises (SME) sector have been invited in the said radio program to share their knowledge and experiences to avid listeners.</p><p><a href="https://omny.fm/shows/money-fm-893/disrupting-the-mice-space-with-a-seamless-pre-to-p" target="_blank" rel="noopener"><span style="color: #63c339;">Mr. Tan’s guesting, which aired last September 14</span></a>, centered on how Micepad came to life and how it has since become a catalyst for revolutionising the way events are executed. His radio guesting likewise underscores the growing adoption of technology in Singapore’s MICE (Meetings, Incentives, Conferences, and Exhibitions) space.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-b0e78f6 elementor-widget elementor-widget-heading" data-id="b0e78f6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Micepad’s Humble Beginnings</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7cfb1fb elementor-widget elementor-widget-image" data-id="7cfb1fb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="594" height="396" src="https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/box-ipad-floor-stand-rental.jpeg" class="attachment-large size-large wp-image-3995" alt="box ipad floor stand rental" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/box-ipad-floor-stand-rental.jpeg 594w, https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/box-ipad-floor-stand-rental-300x200.jpeg 300w" sizes="(max-width: 594px) 100vw, 594px" title="Micepad: Supporting the MICE Industry with Holistic Event Technology 33">															</div>
+				</div>
+				<div class="elementor-element elementor-element-32f7981 elementor-widget elementor-widget-text-editor" data-id="32f7981" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Quite frankly, Mr. Tan himself admitted that developing the Micepad app was not their original intention and goal. “<i>It was based on our first venture fresh out of school. We started this venture, <a class="vglnk" href="http://sgpad.com/" rel="nofollow noopener" target="_blank">sgpad.com</a> whereby we rent out iPads, other gadgets to businesses, and soon many event organizers were so keen renting iPad from us.</i>” He explains that the more interaction they had with their sgpad clients, the more they came to know and understand the struggles of managing events. That was when the idea for creating the Micepad app came to fruition.</p><p>When asked about the biggest challenges faced by event organizers, Mr. Jie Hao simply pointed how simple things, such as using excel spreadsheets, manually checking people on site as well as printing out everything on big sheets of paper are inefficient and not at all ideal. “<i>Things are going to be very, very messy.” </i> He emphasizes. There was also the dilemma involved in trying to use different event systems for check-ins and registrations. Due to the fact that all the event data, including registration data and feedback forms sit in different systems, the  tendency is all the accumulated information will not communicate well with each other.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-1595932 elementor-widget elementor-widget-heading" data-id="1595932" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">It’s not real-time. It’s all very paper-based.</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c02e2d5 elementor-widget elementor-widget-image" data-id="c02e2d5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="700" height="467" src="https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/Going-paperless.png" class="attachment-large size-large wp-image-3996" alt="Going paperless" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/Going-paperless.png 700w, https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/Going-paperless-300x200.png 300w" sizes="(max-width: 700px) 100vw, 700px" title="Micepad: Supporting the MICE Industry with Holistic Event Technology 34">															</div>
+				</div>
+				<div class="elementor-element elementor-element-ad24211 elementor-widget elementor-widget-text-editor" data-id="ad24211" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>“<i>At Micepad, we try to encourage them to go paperless first.”  </i>The idea is to provide the clients with all the equipment and requirements that they need for their event. This, minus the tedious processes that ate up a huge chunk of valuable time that could have been spread across other segments to maximize efficiency.</p><p>Howie then asked Mr. Tan to describe Micepad to the listeners.</p><p>“<i>The more important part is understanding your clients or your attendees on site; so we do a lot of engagement and interaction through polling, Q&amp;A, sharing photos, business matching.” </i>Surprisingly, people give a lot of their time and attention engaging to such data gathering methods. <i>“They love to share”, </i>Micepad Singapore’s CEO explains, “<i>They are not just attending, they like to participate. Also, people, they like to take a photo and share it to everyone in the group.”</i></p><p>People love to share, particularly on their social media profiles, and this is something that the Micepad team uses to the client’s advantage. Micepad banks on attendees’ high regard for engagement to eliminate the need to sift through several hashtags and social media platforms, allowing businesses and clients to pinpoint insights and relevant feedback from attendees.</p><p>The Micepad app’s features were a true dream come true for all event planners stressing out over making a single event as perfect as how they envisioned it to be. However, during its initial debut, integrating Micepad’s features into the event industry did not go that smoothly.</p><p>When it was first introduced, Micepad’s innovative platform was not welcomed as warmly by businesses and clients belonging in the MICE space.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-e85504a elementor-widget elementor-widget-heading" data-id="e85504a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">People are always hesitant to tech: How was Micepad able to deal with client apprehensions?</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-832b557 elementor-widget elementor-widget-image" data-id="832b557" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="667" src="https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/headway-537308-unsplash.jpeg" class="attachment-large size-large wp-image-3997" alt="headway 537308 unsplash" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/headway-537308-unsplash.jpeg 1024w, https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/headway-537308-unsplash-300x200.jpeg 300w, https://micepad.co/tw/wp-content/uploads/sites/5/2018/09/headway-537308-unsplash-768x512.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" title="Micepad: Supporting the MICE Industry with Holistic Event Technology 35">															</div>
+				</div>
+				<div class="elementor-element elementor-element-d383f92 elementor-widget elementor-widget-text-editor" data-id="d383f92" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Upselling was the go-to strategy of Mr. Tan during the days when they were starting to pitch Micepad to their customers.</p><p>While <a href="http://www.sgpad.com/" target="_blank" rel="noopener"><span style="color: #63c339;">renting out iPads through sgpad,</span></a> they introduced the Micepad app to various businesses and event planners as a way of initiating a working relationship. “<i>It’s a door-opener for us and we try to upsell. The more we talked to people, the more we hear[d of repeating] the same problems and then we dive straight in.”</i></p><p>The combined value proposition of Micepad together with sgpad helped Mr. Tan show clients that they can aid event planners and business owners by providing the tech, hardware, onsite support along with helping them set-up an onsite network.</p><p>Upon building up positive reception from the MICE space’s sectors, Micepad has been gaining remarkable success particularly in trade shows, pharmaceutical events, and even in the financial services industry. Mr. Tan also stressed how segregated of a sector the MICE space is. Meetings and conferences alone cater to audiences ranging from hundreds to thousands, and the requirements and goals behind making the event possible vary greatly, too. Not only that, measuring event success for meetings, incentives, conferences and exhibitions should not be clustered into a singular method.</p><p>“<i>Micepad simply helps them to streamline all of the workflow and automate all the repetitive stuff so that they get to what they need in the shortest time.”</i></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-8eaa5f6 elementor-widget elementor-widget-heading" data-id="8eaa5f6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Mr. Jie Hao Tan discloses the perks and demands that come with being part of the growing Micepad team</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-33d5dab elementor-widget elementor-widget-image" data-id="33d5dab" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="400" height="266" src="https://micepad.co/tw/wp-content/uploads/sites/5/2018/06/jiehao.jpeg" class="attachment-large size-large wp-image-3040" alt="jiehao" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2018/06/jiehao.jpeg 400w, https://micepad.co/tw/wp-content/uploads/sites/5/2018/06/jiehao-300x200.jpeg 300w" sizes="(max-width: 400px) 100vw, 400px" title="Micepad: Supporting the MICE Industry with Holistic Event Technology 36">															</div>
+				</div>
+				<div class="elementor-element elementor-element-4c4b3e2 elementor-widget elementor-widget-text-editor" data-id="4c4b3e2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>After Mr. Tan explained how Micepad functions mainly for different events, Howie’s next question was a solid one. “<i>What keeps you going?” </i>the renowned radio personality queried, in light of the busy nature of the MICE industry and all the small-end niches that comprise it.</p><p>Free participation is mainly the biggest reward of working for Micepad. “<i>I really, really like this job because I enjoy being in the events. We have been to so many events, listening to all the thought leaders speaking. It’s very fun and very good to be inside.” </i>But the real catch for Mr. Jie Hao is being able to provide real value to their clients. “<i>After they had a good event, they will never want to go back to paper.” </i>As Micepad continue to surpass client expectations, it has been common for existing customers to approach the Micepad team and book them for their next event that’s set to take place  roughly 6-12 months in the future.</p><p>Micepad’s continuous expansion both locally and internationally provided a more in-depth perspective on how event management and demands vary across various regions and cultures. Although the teams in Micepad’s main branch and in its <a href="https://micepad.co/tw/zh-tw/"><span style="color: #63c339;">Taiwan</span></a> arm face similar challenges, the local team stands out because it does things differently from the other branches. “<i>Very often we also have the same event, it’s just intended for a different audience. But, there’s a lot of different requirements from the different local teams.” </i>Mr. Jie Hao gave a sample scenario, wherein an event is being held for both the Singapore and Taiwan office. Although the objective for both events is the same, the local team’s coordination differs from that of their Taiwan counterpart. That being said, Micepad presents a holistic data because both the performance in Singapore and Taiwan are taken into consideration. He adds that the variety is a lot of fun. “<i>The way everyone do things is so different, we get to adapt and we try to make sure we found common ground and we try to make sure we present it in a digital way.</i></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-b53a64e elementor-widget elementor-widget-heading" data-id="b53a64e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">What’s next for the Micepad Team?</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8548eef elementor-widget elementor-widget-text-editor" data-id="8548eef" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><img decoding="async" src="https://micepad.co/tw/wp-content/uploads/2019/03/scott-warman-525554-unsplash-1024x683.jpg" alt="scott warman 525554 unsplash" title="Micepad: Supporting the MICE Industry with Holistic Event Technology 37"></p><p>In terms of how the SME space is as an industry and a population of potential clients, Mr. Jie Hao Tan describes it as the “<i>most friendly one that you can find in the world.” </i>He cited the big 1-day to 2-month difference in terms of how long it took for them to establish Micepad in Singapore and in Taiwan.</p><p>He further explicates, “<i>When you want go to other places, you realize the culture is so different- how they want to talk to clients, or partners… You probably need to have lunch with them or go for a drinking at night. In Singapore, things are so much more straightforward. Especially the clients that we work with are multinational professionals, so they see the value very, very quickly then if you are able to provide something that truly solves their problem, I think price can be negotiated. Whereas, in some other markets it’s really price-sensitive.”</i></p><p>A recent survey earlier this year showed that only about 14% of SMEs are thinking about internationalizing, a feat that the Micepad team was able to achieve in such a short amount of time. <i>“Every delegate is probably a potential client.”</i> The beauty of delegates attending events which Micepad helped organized is the possibility of gaining a referral to the delegate’s home country. For example, a delegate from Taiwan attends an event in Singapore. At the end of the event, they approach Micepad requesting to bring the same digital experience back in their country. This has happened several times with delegates from Taiwan and Hong Kong.</p><p><i>“We are operating in such a niche industry.”, </i>Mr. Jie Hao points out. <i>“So if we don’t go big, we can go home. The other competitors can just come in because Singapore is the easiest place to do business. The US and European companies will just come in and step into our turf and take away our business. Unless we put up a strong front and our value proposition leaves all the wrong impact, then we will not be able to survive in the longer term.”</i></p><p>From a 3-person tech team last year to a 15-person tech team this year, Micepad is surely in for drastic expansion plans ahead. As a matter of fact, the brand has already added more people in the sales team and the tech team and even branched out to different locations to serve more customers. Mr. Tan his team are also prepping for several leisure and business events to cater to.</p><p>At present, the entire team is now close to reaching 30 members. From their humble beginnings in Singapore, the Micepad team expanded to Taiwan three years ago and then to Hong Kong and Malaysia in the last 2 years.</p><p>“<i>I think we probably expanded too fast in terms of having local teams. Right now it’s really a time for us to  double down our efforts in the local market that we exist. ” </i>Mr Tan adds that they are seeing good potential in other locations such as Thailand and Malaysia, with all the international events taking place in those areas. The company is also actively looking for partners to help them in growing their existing team across multiple cities and countries in Asia.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-11b4e04 elementor-widget elementor-widget-heading" data-id="11b4e04" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Mr. Jie Hao Tan’s Tips for Small Businesses and Start-Up Companies</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b05e924 elementor-widget elementor-widget-text-editor" data-id="b05e924" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><img decoding="async" src="https://micepad.co/tw/wp-content/uploads/2019/03/rawpixel-668353-unsplash.jpg" alt="rawpixel 668353 unsplash" title="Micepad: Supporting the MICE Industry with Holistic Event Technology 38"></p><p>He first emphasizes on the importance of focusing on revenue. Without an ample amount of money to fund a venture, then there will be no source for paying rent, salary and all the vital expenses of running a company.</p><p>Finally, Mr. Tan clarifies that the Micepad team is not obsessed with the product itself. Rather, Micepad is obsessed with its clients.</p><p>“<i>We really listen very very clearly and deeply to what it is they want to achieve. From there we try to build a product that will truly solve their problem.”</i></p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/tw/blog/micepad-supporting-the-mice-industry-with-holistic-event-technology/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Interns @Micepad</title>
+		<link>https://micepad.co/tw/blog/interns-micepad</link>
+					<comments>https://micepad.co/tw/blog/interns-micepad#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Sun, 22 Apr 2018 13:25:33 +0000</pubDate>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[internship]]></category>
+		<guid isPermaLink="false">https://micepad.co/tw/?p=2952</guid>
+
+					<description><![CDATA[Ten weeks have passed in the blink of an eye and we are now bidding farewell to our interns from NTU and [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2952" class="elementor elementor-2952" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-992f7a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="992f7a2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cd49339" data-id="cd49339" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-27ffa35 elementor-widget elementor-widget-text-editor" data-id="27ffa35" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Ten weeks have passed in the blink of an eye and we are now bidding farewell to our interns from NTU and SMU. We hope that they have learned as much from us as we have from them 🙂</p><p>As a former Micepad intern, this brings back fond memories of the earlier years when we had just started up. Looking back, we really have made amazing progress over the <a href="https://micepad.co/tw/about-us/"><span style="color: #63c339;">past two years</span></a>.</p><p>As a company, Micepad strongly believes in nurturing future talents. Our interns are not photocopiers or coffee-makers (we use instant here!) but a real part of the team supporting events onsite, prepping event material and utilising our admin panel. They are fresh eyes and unique perspectives for not just our development team, but in sales and operations.</p><p>By involving them in work that is meaningful and has a direct contribution to what we do, we stand to gain so much more. We are proud to say that over the past ten weeks, we have seen many new ideas, new initiatives as well as improvements in our processes through their involvement.</p><p>If you feel that you have what it takes to be a Micepad Intern and are keen to join a fast-paced learning environment, join our internship program today! Write in to <a href="mailto:enquiry@micepad.co/tw"><span style="color: #63c339;">enquiry@micepad.co/tw</span></a> to enquire.</p><p>We currently offer internships for the following positions:</p><ul><li>Digital Marketing Executive</li><li>Event Executive</li><li>Sales &amp; Marketing Executive</li><li>iOS/Android Programmer</li><li>UI/UX Designer</li></ul><p> </p><p><em>Lack of confidence should never stand in the way of applying. We welcome students from all walks of life, backgrounds and schools. </em></p><p><em>(We don&#8217;t eat people lah!)</em></p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/tw/blog/interns-micepad/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Let Everyday Be Dress Down Friday</title>
+		<link>https://micepad.co/tw/blog/let-everyday-be-dress-down-friday</link>
+					<comments>https://micepad.co/tw/blog/let-everyday-be-dress-down-friday#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Wed, 18 Apr 2018 12:54:07 +0000</pubDate>
+				<category><![CDATA[Company News]]></category>
+		<guid isPermaLink="false">https://micepad.co/tw/?p=2130</guid>
+
+					<description><![CDATA[Much too often, what we wear is viewed as a reflection of our character, and to that end, a reflection of how [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2130" class="elementor elementor-2130" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-cfac354 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cfac354" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c43cca5" data-id="c43cca5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-352760d elementor-widget elementor-widget-text-editor" data-id="352760d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Much too often, what we wear is viewed as a reflection of our character, and to that end, a reflection of how other people perceive us. It is essentially <em>you</em>, defined by <em>your dress code</em>. Coming from a startup where ‘Casual’ is clearly stated as the company’s dress code, everyday is dress down Friday.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a6483ee elementor-widget elementor-widget-heading" data-id="a6483ee" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Say Goodbye to the Dress Down Friday Conundrum</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3d269b5 elementor-widget elementor-widget-text-editor" data-id="3d269b5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									You may be wondering why we advocate this when there is already one day in the week—Friday—to wear casual clothing. For some people, that one day of casual wear, instead of being a happy occasion, is fraught with perils. In a <a href="http://community.jobscentral.com.sg/node/2170" style="color: #63C339;" span target="_blank" rel="noopener">personal article</a>, this writer equates casual Friday to judgement day. She no longer cares to dress down on Friday because it is just too much work to figure out what is appropriate.								</div>
+				</div>
+				<div class="elementor-element elementor-element-eedfa0e elementor-widget elementor-widget-heading" data-id="eedfa0e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">But, wait. Everyday?</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f570fe4 elementor-widget elementor-widget-text-editor" data-id="f570fe4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Since having a single day of casual wear ends up causing the employees to get a dressing down instead, some companies have turned to make it an everyday affair. At Micepad, we have a casual dress code that allows us to wear anything we want so long as it is decent and presentable. We are not alone in that aspect. This phenomenon seems prevalent to startups, especially those in the IT sector. They either started the company with a casual dress code (like us) or have made the move to switch from business formal to casual wear in the office. One such example is <a href="http://www.businessinsider.in/At-Infosys-now-wear-a-jeans-to-work-everyday/articleshow/47502413.cms" target="_blank" rel="noopener"><span style="color: #63C339;">Infosys, who recently made the change</a>, giving their employees the choice of what to wear to the office.								</div>
+				</div>
+				<div class="elementor-element elementor-element-a0d07b7 elementor-widget elementor-widget-heading" data-id="a0d07b7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">No One Will Raise Eyebrows at Your Attire</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7115d44 elementor-widget elementor-widget-text-editor" data-id="7115d44" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Imagine graduating from high school, taking a look at your wardrobe and you realize, you don’t have to buy office wear at all! You get to wear comfortable clothing over suits, ties and all that formal shenanigans.</p><p>The best part? Nobody judges what you are wearing. And even if they do, they have no right to do so because in the name of ‘Casual’, pretty much anything goes.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-8bc31eb elementor-widget elementor-widget-heading" data-id="8bc31eb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Every Day Feels Like TGIF</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d6efbee elementor-widget elementor-widget-text-editor" data-id="d6efbee" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>By turning it around and making it dress down Friday every day, it feels like TGIF every day. Imagine feeling all that TGIF vibes tingling every morning as you get ready for work. A little deceptive, a little optimistic, but it raises your happy meter all the same.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2d969ba elementor-widget elementor-widget-heading" data-id="2d969ba" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Maybe The Uniform Is Better Off</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ca62da6 elementor-widget elementor-widget-text-editor" data-id="ca62da6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>The attire has moved to become a be-all and end-all situation. When in fact, sometimes in a show of individuality, we overanalyze what we wear in order to bring out aspects of ourselves that we want to show the world. This, in turn, ends up portraying ourselves as how we want people to perceive us, instead of how showing them who we really are. Perhaps the act of deciding what to wear has begun to hold too much sway, so much so that we no longer perceive true character in the same way.</p><p>What, then, is the point? Wouldn’t uniforms or a simple dress code be better? It takes our mind off deciding these seemingly impactful decisions. Proponents of school uniforms cite <a href="http://www.debate.org/opinions/are-school-uniforms-better-than-simple-dress-codes" target="_blank" rel="noopener">benefits of taking the decision of what to wear out off little children</a> so that they don’t need to think and can focus on their studies instead.</p><p><a href="http://www.forbes.com/sites/jacquelynsmith/2012/10/05/steve-jobs-always-dressed-exactly-the-same-heres-who-else-does/" target="_blank" rel="noopener">Top leaders have been found to wear the same “uniform” everyday</a> to save time thinking about what to wear. And this one, seemingly trivial, thing to think of can be what makes all the difference in the world. Prominent examples include Michael Kors, Kanye West, Apple Founder and ex-CEO Steve Jobs and CEO of Facebook, Mark Zuckerberg.</p><p> </p>								</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-21689dd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="21689dd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-42e9b0d" data-id="42e9b0d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a719558 elementor-widget elementor-widget-image" data-id="a719558" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="299" height="200" src="https://micepad.co/tw/wp-content/uploads/sites/5/2021/06/1-1.jpg" class="attachment-large size-large wp-image-2135" alt="1 1" title="Let Everyday Be Dress Down Friday 40">															</div>
+				</div>
+				<div class="elementor-element elementor-element-8994f7c elementor-widget elementor-widget-text-editor" data-id="8994f7c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Maybe standardizing uniforms for everyone is being dictatorial and overly pragmatic. To some, the act of being able to wear what they want gives them emotional satisfaction that is so much more valuable than the monetary value of increased productivity.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-4fac761 elementor-widget elementor-widget-heading" data-id="4fac761" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Dress For Success On Your Own Terms</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d576862 elementor-widget elementor-widget-text-editor" data-id="d576862" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Not forgetting those on the extreme opposite end of the spectrum, such as First Lady Michelle Obama and Duchess of Cambridge Kate Middleton. They take stock in what they wear and the value it creates, from spurning the “Duchess Effect” to creating small businesses such as What Kate Wore.</p><p>The Duchess practices fashion diplomacy by coordinating her outfit according to the country in question, like wearing homegrown brand, Raoul, when she visited Singapore as part of the Queen Elizabeth II’s Diamond Jubilee. Michelle Obama has been seen to go even further to use what she wears as a political statement for what she believes in. For example, her decision not to wear a veil in her visit to Saudi Arabia. The benefits of the dressing well in daily life and the political sphere is clear. But in the workplace, there seems to be an uncompromisable tradeoff between individuality and productivity.</p><p>Maybe the solution is to find out what works for you—a dress code that makes you productive and gives you emotional satisfaction—and stick to it. Both Steve Jobs and Mark Zuckerberg made the decision to wear their uniform everyday so that they can focus on their work.</p><p>This decision may not work so well on the company as a whole. Before deciding to wear his trademark mock turtleneck uniform, Jobs wanted to get Apple employees to wear uniforms, much to their chagrin. What Jobs failed to realize is that while the uniform that he chose for them, incidentally the same uniform that he currently wears everyday, might boost productivity, it comes at the expense of his employees’ emotional satisfaction and creativity.</p><p>Look what good this came out to: Apple Inc is currently ranked as the world’s best global brand. While he thrives by wearing a uniform, his employees fare better by going along with the casual dress code. Hence, this shows that for a company dress code, it is really a case of to each their own.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-9b34960 elementor-widget elementor-widget-heading" data-id="9b34960" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Empower Your Employees</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-26a5e2d elementor-widget elementor-widget-text-editor" data-id="26a5e2d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>By implementing a casual dress code, you are allowing your employees to wear whatever they like according to what they want and how it helps them to be more productive.</p><p>Give them the choice to wear what brings out the best in them with dress down Friday, everyday.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/tw/blog/let-everyday-be-dress-down-friday/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Micepad: A Quick Peek into The Barefoot Office</title>
+		<link>https://micepad.co/tw/blog/micepad-a-quick-peek-into-the-barefoot-office</link>
+					<comments>https://micepad.co/tw/blog/micepad-a-quick-peek-into-the-barefoot-office#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Mon, 16 Apr 2018 12:38:42 +0000</pubDate>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[internship]]></category>
+		<category><![CDATA[micepad family]]></category>
+		<guid isPermaLink="false">https://micepad.co/tw/?p=2159</guid>
+
+					<description><![CDATA[From humble beginnings at NTU to winning the Ideas Inc Most Innovative Startup award in 2013, we have come a long way [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2159" class="elementor elementor-2159" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-d899d3d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d899d3d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-10ada9e" data-id="10ada9e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0c68d49 elementor-widget elementor-widget-text-editor" data-id="0c68d49" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>From humble beginnings at NTU to winning the Ideas Inc Most Innovative Startup award in 2013, we have come a long way since we started 5 years ago in Singapore as a small startup renting iPads. As we celebrate our milestones, we would also like to showcase what the company culture is like in Micepad. We do our best to embody what it truly means to be a startup and over the years, we have adapted to include some aspects which are unique to Micepad.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7575c5a elementor-widget elementor-widget-heading" data-id="7575c5a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Happy Feet</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0a2476e elementor-widget elementor-widget-text-editor" data-id="0a2476e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>“Please remove your shoes!” shouts Jasmine, our resident administrative queen.</p><p>Yeah, you might want to read the line above again.</p><p>And no, you did not read that wrongly. Micepad has a no-footwear culture where we bare our soles (and, our soul?) at work. It is a part of the casual dress code that the founders have decided on.</p><p>“We wanted to have a company where everyone comes in what feels comfortable to them.”</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-f5cfcd1 elementor-widget elementor-widget-heading" data-id="f5cfcd1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Open Concept </h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-11c769d elementor-widget elementor-widget-text-editor" data-id="11c769d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>With the elegant white space and the Apple products, this office looks straight out of an Apple Store package. Neat, sleek and clean, just like how we want our apps to be. Inspired by the workspace, we have seen greater camaraderie among everyone in the team and witnessed hierarchies broken down. More than that, communication is at its peak and ideas flow like an endless stream in the vast mountains. In fact, we often joke that anything we need is just a shout across the room. While the benefits of an open concept are debatable to some, it has certainly been extremely beneficial for us.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3a4e25b elementor-widget elementor-widget-heading" data-id="3a4e25b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Tech Arsenal</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b172693 elementor-widget elementor-widget-text-editor" data-id="b172693" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>You will be hard-pressed to find a more advent Apple product supporter than Micepad. The entire office is outfitted with iMac, Macbooks across different generations, and of course, iPads upon iPads. When I first stepped into the office, I felt like I was in a huge tech Candy Empire, with the finest Apple products on display. Or you can think of it as out of a James Bond movie, being able to pick your weapon of choice from the armoury.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-d1a0a93 elementor-widget elementor-widget-heading" data-id="d1a0a93" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Green Comfort</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0916ef4 elementor-widget elementor-widget-text-editor" data-id="0916ef4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>The minimalist white office space is dotted with little spots of green potted plants. Even though taking care of these plants take little or no effort on our part, it gives us an outlet to expend our green energy. Some of these little plants even have names given to them, courtesy of accounts executive, Eunice.</p><p>A <a title="Plants in offices increase happiness and productivity" href="https://http//www.theguardian.com/money/2014/aug/31/plants-offices-workers-productive-minimalist-employees" target="_blank" rel="noopener noreferrer" data-wplink-url-error="true"><span style="color: #63c339;">study</span></a><strong> </strong>has found that just having some plants can improve productivity by 15%.</p>								</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d807222 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d807222" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0a1ab61" data-id="0a1ab61" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-df14de1 elementor-widget elementor-widget-image" data-id="df14de1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="768" height="409" src="https://micepad.co/tw/wp-content/uploads/sites/5/2021/06/1.png" class="attachment-large size-large wp-image-2162" alt="1" srcset="https://micepad.co/tw/wp-content/uploads/sites/5/2021/06/1.png 768w, https://micepad.co/tw/wp-content/uploads/sites/5/2021/06/1-300x160.png 300w" sizes="(max-width: 768px) 100vw, 768px" title="Micepad: A Quick Peek into The Barefoot Office 42">															</div>
+				</div>
+				<div class="elementor-element elementor-element-ad56423 elementor-widget elementor-widget-heading" data-id="ad56423" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Lunch Together </h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-1e4cd25 elementor-widget elementor-widget-text-editor" data-id="1e4cd25" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Everyday at around 12.30pm, the lunch bell will be rung (yes, we have a lunch bell) to signal that the whole office will go out for lunch together. In the spirit of togetherness, we will find tables near each other so that while it might be impossible to eat together at the same table, it will still be possible to eat together in close proximity. This sense of camaraderie is felt the moment you first enter the company so that you would not fall too behind in the friendship snake-and-ladder-game.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-33fb170 elementor-widget elementor-widget-heading" data-id="33fb170" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Freedom to Shine or Pick up New Skills</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7dcde8a elementor-widget elementor-widget-text-editor" data-id="7dcde8a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>As a smaller company, there are plenty of learning opportunities to try your hand at tasks that you would not otherwise be able to do. You get to learn from your mistakes and try again until you perfect your skill.</p><p>It doesn’t matter even if you are not a Jack of all trades, so long as you are a master of something. You can examine what you are good at, and expand on it.</p><p>“You don’t have to be good at everything. Just find that one thing and be really good at it.” said Micepad CEO, Jiehao, during my job interview.</p><p>We emphasize on a great company culture because we believe that it’ll give results. You know what they say, a happy employee equals great results at work.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/tw/blog/micepad-a-quick-peek-into-the-barefoot-office/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

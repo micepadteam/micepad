@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Announcements &#8211; Micepad Hong Kong</title>
+	<atom:link href="https://micepad.co/hk/blog/tag/announcements/feed" rel="self" type="application/rss+xml" />
+	<link>https://micepad.co/hk</link>
+	<description>Enterprise Event Management Software and Event App</description>
+	<lastBuildDate>Tue, 29 Jun 2021 06:24:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.4</generator>
+
+<image>
+	<url>https://micepad.co/hk/wp-content/uploads/sites/4/2023/07/cropped-micepad-favicon-32x32.png</url>
+	<title>Announcements &#8211; Micepad Hong Kong</title>
+	<link>https://micepad.co/hk</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Announcing: New Website Launch!</title>
+		<link>https://micepad.co/hk/blog/announcing-new-website-launch</link>
+					<comments>https://micepad.co/hk/blog/announcing-new-website-launch#respond</comments>
+		
+		<dc:creator><![CDATA[micepad]]></dc:creator>
+		<pubDate>Tue, 12 Mar 2019 07:51:00 +0000</pubDate>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">https://micepad.co/hk/?p=2306</guid>
+
+					<description><![CDATA[If you&#8217;re new to Micepad, you may not have noticed this, however previous viewers will DEFINITELY have discovered a huge change. After [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2306" class="elementor elementor-2306" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-76f83ea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="76f83ea" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f9e0e86" data-id="f9e0e86" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9f8e5d5 elementor-widget elementor-widget-text-editor" data-id="9f8e5d5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable" data-css="tve-u-16971500b75">If you&#8217;re new to Micepad, you may not have noticed this, however previous viewers will DEFINITELY have discovered a huge change. After 3 months of hard work (and cross-country video calls), we&#8217;re super excited to finally unveil our new website!</p>
+<h3 class="tve-droppable">Why a Redesign?</h3>
+<p class="tve-droppable" data-css="tve-u-16971512830">Don&#8217;t worry &#8211; our tech team is still working hard to create the most intuitive and convenient event management and audience engagement platform. (In fact, we&#8217;re going to announce a v.8 pretty soon!) However, we felt that we needed to show our dedication to UI/UX in our website too!</p>
+<h2 class="tve-droppable">What&#8217;s Changed?</h2>
+<h3 class="tve-droppable">1. The Look.</h3>
+<p class="tve-droppable">Here&#8217;s a side-by-side comparison of our old and new site designs:</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0b7d94d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b7d94d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-758871d" data-id="758871d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8773f3f elementor-widget elementor-widget-image" data-id="8773f3f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="371" height="1024" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-micepadapp-2019-03-12-17_41_08-371x1024.png" class="attachment-large size-large wp-image-2310" alt="screencapture micepadapp 2019 03 12 17 41 08" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-micepadapp-2019-03-12-17_41_08-371x1024.png 371w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-micepadapp-2019-03-12-17_41_08-109x300.png 109w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-micepadapp-2019-03-12-17_41_08-556x1536.png 556w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-micepadapp-2019-03-12-17_41_08.png 724w" sizes="(max-width: 371px) 100vw, 371px" title="Announcing: New Website Launch! 6">															</div>
+				</div>
+				<div class="elementor-element elementor-element-df5f0fe elementor-widget elementor-widget-image" data-id="df5f0fe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="414" height="1024" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21-414x1024.png" class="attachment-large size-large wp-image-2309" alt="screencapture rsvp7 co 2019 03 12 17 41 21" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21-414x1024.png 414w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21-121x300.png 121w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21-768x1899.png 768w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21-621x1536.png 621w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-2019-03-12-17_41_21.png 809w" sizes="(max-width: 414px) 100vw, 414px" title="Announcing: New Website Launch! 7">															</div>
+				</div>
+				<div class="elementor-element elementor-element-b0e8108 elementor-widget elementor-widget-text-editor" data-id="b0e8108" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tve-droppable">As you can see, we’ve kept our brand colours of green and white, but changed up everything else. Our main focuses this time were on ease of navigation and site structure, however our fabulous designer took time to make everything look amazing too!</p>
+<p class="tve-droppable">We have new images, new icons and even new buttons! We’ve also changed our font from <em>Lato</em> to <em>Montserrat</em> to improve the readability of the site.</p>
+<h3 class="tve-droppable">2. The Navigation</h3>
+<p class="tve-droppable">Since Micepad’s inception, we’ve had 3 previous redesigns (the earliest was slightly over a year ago), and learnt much about online behaviour each time. We realised that we had been a little over-enthusiastic about providing as much information as possible to viewers.</p>
+<p class="tve-droppable">The menu bar was <em>extremely</em> cluttered.</p>
+<p class="tve-droppable">Clients were telling us about redundant pages <em>all the time</em>. Searching for information about our products was a great challenge and took a long time.</p>
+<p class="tve-droppable">After this update, we’ve condensed all useful information into single pages per product and use case under <strong>“Products” </strong>and <strong>“Solutions”.</strong> That reduced a whopping 23 pages to just 7 pages &#8211; less than a third of what we used to have!</p>
+<p class="tve-droppable">Additionally, we’ve also moved all <strong>“About” </strong>page links to the footer instead of the top menu bar. Similar to the old site, current clients can still access the Micepad admin panel through the <strong>“Login”</strong> link, while new clients can contact us through the <strong>“Get Started” </strong>button.</p>
+<p class="tve-droppable">We’ve also moved the Chinese translation button to the footer!</p>
+<h3 class="tve-droppable">3. The Contact Form(s) </h3>
+<p>We’ve improved on the design for our contact form, creating 2 in <strong class="tve-droppable">“Get Started” </strong>and <strong class="tve-droppable">“Contact Us” </strong>unlike previously:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-e6cf6a9 elementor-widget elementor-widget-image" data-id="e6cf6a9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="350" height="1024" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-micepadapp-contact-us-2019-03-12-17_46_05-350x1024.png" class="attachment-large size-large wp-image-2316" alt="screencapture micepadapp contact us 2019 03 12 17 46 05" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-micepadapp-contact-us-2019-03-12-17_46_05-350x1024.png 350w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-micepadapp-contact-us-2019-03-12-17_46_05-103x300.png 103w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-micepadapp-contact-us-2019-03-12-17_46_05-525x1536.png 525w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-micepadapp-contact-us-2019-03-12-17_46_05.png 684w" sizes="(max-width: 350px) 100vw, 350px" title="Announcing: New Website Launch! 8">															</div>
+				</div>
+				<div class="elementor-element elementor-element-7bd2c6f elementor-widget elementor-widget-image" data-id="7bd2c6f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="950" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12-1024x973.png" class="attachment-large size-large wp-image-2315" alt="screencapture rsvp7 co get started 2019 03 12 17 46 12" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12-1024x973.png 1024w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12-300x285.png 300w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12-768x730.png 768w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12-1536x1459.png 1536w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-get-started-2019-03-12-17_46_12.png 1920w" sizes="(max-width: 1000px) 100vw, 1000px" title="Announcing: New Website Launch! 9">															</div>
+				</div>
+				<div class="elementor-element elementor-element-e325cfe elementor-widget elementor-widget-image" data-id="e325cfe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="842" height="1024" src="https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-842x1024.png" class="attachment-large size-large wp-image-2314" alt="screencapture rsvp7 co contact us 2019 03 12 17 46 28" srcset="https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-842x1024.png 842w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-247x300.png 247w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-768x934.png 768w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-1263x1536.png 1263w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28-1684x2048.png 1684w, https://micepad.co/hk/wp-content/uploads/sites/4/2019/03/screencapture-rsvp7-co-contact-us-2019-03-12-17_46_28.png 1920w" sizes="(max-width: 842px) 100vw, 842px" title="Announcing: New Website Launch! 10">															</div>
+				</div>
+				<div class="elementor-element elementor-element-c8c7b0c elementor-widget elementor-widget-text-editor" data-id="c8c7b0c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Those are the 3 main changes that we’ve implemented after 3 months, however there are also many other smaller changes that have been made. Have a quick scroll around and check us out!</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://micepad.co/hk/blog/announcing-new-website-launch/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
