@@ -1,5 +1,3 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://micepad.co/wp-sitemap.xml
+Sitemap: https://micepad.co/sitemap.xml

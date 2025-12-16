@@ -6,22 +6,22 @@
   <title>Tradeshow &amp; Expo Event App | Micepad</title>
   <meta name="description" content="Maximize exhibitor ROI and attendee engagement at tradeshows with Micepad. Interactive floor maps, lead capture, and exhibitor profiles.">
 
-  <link rel="canonical" href="../index.htmlevent-app-for-tradeshows/">
+  <link rel="canonical" href="https://micepad.co/event-app-for-tradeshows/">
 
   <!-- Open Graph -->
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Tradeshow &amp; Expo Event App | Micepad">
   <meta property="og:description" content="Maximize exhibitor ROI and attendee engagement at tradeshows with Micepad. Interactive floor maps, lead capture, and exhibitor profiles.">
-  <meta property="og:url" content="../index.htmlevent-app-for-tradeshows/">
+  <meta property="og:url" content="https://micepad.co/event-app-for-tradeshows/">
   <meta property="og:site_name" content="Micepad">
-  <meta property="og:image" content="../index.htmlimg/og-image.jpg">
+  <meta property="og:image" content="https://micepad.co/img/og-image.jpg">
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Tradeshow &amp; Expo Event App | Micepad">
   <meta name="twitter:description" content="Maximize exhibitor ROI and attendee engagement at tradeshows with Micepad. Interactive floor maps, lead capture, and exhibitor profiles.">
-  <meta name="twitter:image" content="../index.htmlimg/og-image.jpg">
+  <meta name="twitter:image" content="https://micepad.co/img/og-image.jpg">
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -54,6 +54,8 @@
     .btn{display:inline-block;padding:14px 28px;border-radius:8px;font-weight:600;transition:all .2s;cursor:pointer;border:none;font-size:16px}
     .btn-primary{background:#155EEF;color:#fff}
     .btn-primary:hover{background:#0d4fc7}
+    .btn-outline{background:transparent;border:2px solid #155EEF;color:#155EEF}
+    .btn-outline:hover{background:#155EEF;color:#fff}
     .btn-lg{padding:18px 36px;font-size:18px}
     .container{max-width:1200px;margin:0 auto;padding:0 20px}
     .landing-hero{padding:80px 0;background:linear-gradient(135deg,#f5f7fa 0%,#e4e8ec 100%)}
@@ -76,23 +78,36 @@
     .faq-item{margin-bottom:16px;padding:20px;background:#f8f9fa;border-radius:8px}
     .faq-item summary{font-weight:600;cursor:pointer;color:#070707}
     .faq-answer{margin-top:12px;color:#6E7A84}
-    .cta-section{padding:80px 0;background:#155EEF;color:#fff;text-align:center}
-    .cta-section h2{color:#fff;margin-bottom:16px;font-size:36px}
-    .cta-section p{opacity:.9;margin-bottom:32px;font-size:18px}
-    .cta-section .btn-primary{background:#fff;color:#155EEF}
+    .related-section{padding:80px 0;background:#f8f9fa}
+    .related-section h2{text-align:center;font-size:36px;margin-bottom:40px}
+    .related-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:30px;max-width:800px;margin:0 auto}
+    .related-card{display:block;padding:30px;background:#fff;border-radius:12px;box-shadow:0 2px 10px rgba(0,0,0,.08);transition:transform .2s,box-shadow .2s}
+    .related-card:hover{transform:translateY(-4px);box-shadow:0 8px 20px rgba(0,0,0,.12)}
+    .related-card h3{font-size:18px;color:#070707;margin-bottom:8px}
+    .related-card p{color:#6E7A84;font-size:14px}
+    .link-arrow{color:#155EEF;font-size:20px}
+    .final-cta-section{padding:80px 0;background:#155EEF;color:#fff;text-align:center}
+    .final-cta-section h2{color:#fff;margin-bottom:16px;font-size:36px}
+    .final-cta-section p{opacity:.9;margin-bottom:32px;font-size:18px}
+    .final-cta-section .btn-primary{background:#fff;color:#155EEF}
+    .final-cta-section .btn-outline{border-color:#fff;color:#fff}
+    .final-cta-section .btn-outline:hover{background:#fff;color:#155EEF}
+    .cta-buttons{display:flex;gap:16px;justify-content:center;flex-wrap:wrap}
     .site-footer{padding:60px 0 30px;background:#070707;color:rgba(255,255,255,.7)}
     .footer-wrapper{max-width:1200px;margin:0 auto;padding:0 20px}
     .footer-main{display:grid;grid-template-columns:2fr repeat(4,1fr);gap:40px;margin-bottom:40px}
     .footer-col ul{list-style:none;padding:0;margin:0}
     .footer-col li{margin-bottom:12px}
     .footer-col a:hover{color:#fff}
-    .footer-col h4{color:#fff;font-size:14px;font-weight:600;margin-bottom:16px;text-transform:uppercase;letter-spacing:1px}
+    .footer-col h5{color:#fff;font-size:14px;font-weight:600;margin-bottom:16px;text-transform:uppercase;letter-spacing:1px}
     .footer-logo{height:40px;margin-bottom:16px}
     .footer-brand p{font-size:14px;margin-bottom:16px}
-    .footer-social{display:flex;gap:12px}
-    .footer-social a{font-size:20px}
+    .social-links{display:flex;gap:12px}
+    .social-links a{color:rgba(255,255,255,.7)}
+    .social-links a:hover{color:#fff}
+    .social-links svg{width:24px;height:24px}
     .footer-bottom{border-top:1px solid rgba(255,255,255,.1);padding-top:30px;display:flex;justify-content:space-between;font-size:14px}
-    .footer-legal a{margin-left:20px}
+    .legal-links{display:flex;list-style:none;margin:0;padding:0;gap:20px}
     @media(max-width:768px){
       .nav-menu,.header-cta{display:none}
       .mobile-menu-toggle{display:block;background:none;border:none;padding:10px;cursor:pointer}
@@ -105,18 +120,17 @@
     }
   </style>
 
-
 <!-- Landing Page Structured Data -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Tradeshow &amp; Expo Event App",
+  "name": "Tradeshow &amp; Expo Event App | Micepad",
   "description": "Maximize exhibitor ROI and attendee engagement at tradeshows with Micepad. Interactive floor maps, lead capture, and exhibitor profiles.",
-  "url": "../index.htmlevent-app-for-tradeshows/",
+  "url": "https://micepad.co/event-app-for-tradeshows/",
   "mainEntity": {
     "@type": "SoftwareApplication",
-    "name": "Micepad Event App for Tradeshows &amp; Expos",
+    "name": "Micepad Event App for Tradeshows",
     "applicationCategory": "Event Management Software",
     "operatingSystem": "Web, iOS, Android"
   }
@@ -211,18 +225,15 @@
     </div>
   </section>
 
-  <!-- Trust Badges / Logos -->
-
-  <!-- Pain Points / Problem Section -->
-
   <!-- Solution / Features Section -->
   <section class="features-section">
     <div class="container">
       <div class="section-header">
-        <h2>How Micepad Helps Tradeshows &amp; Expos Events</h2>
-        <p>Discover powerful tools designed for tradeshows &amp; expos event professionals.</p>
+        <h2>How Micepad Helps Tradeshows Events</h2>
+        <p>Discover powerful tools designed for tradeshows event professionals.</p>
       </div>
       <div class="features-grid">
+        
         <div class="feature-card">
           <div class="feature-content">
             <h3>Interactive Floor Maps</h3>
@@ -259,17 +270,13 @@
     </div>
   </section>
 
-  <!-- Use Cases Section -->
-
-  <!-- Testimonial Section -->
-
-  <!-- Stats Section -->
-
   <!-- FAQ Section -->
+  
   <section class="faq-section">
     <div class="container">
       <h2>Frequently Asked Questions</h2>
       <div class="faq-list">
+        
         <details class="faq-item">
           <summary class="faq-question">Can exhibitors access their leads in real-time?</summary>
           <div class="faq-answer">Yes, exhibitors get instant access to scanned leads with notes and export options.</div>
@@ -283,17 +290,19 @@
   </section>
 
   <!-- Related Solutions -->
+  
   <section class="related-section">
     <div class="container">
       <h2>Explore More Solutions</h2>
       <div class="related-grid">
+        
         <a href="/event-app-for-conferences/" class="related-card">
           <h3>Event App for conferences</h3>
           <p></p>
           <span class="link-arrow">&rarr;</span>
         </a>
         <a href="/event-app-for-corporate-events/" class="related-card">
-          <h3>Event App for corporate events</h3>
+          <h3>Event App for corporate-events</h3>
           <p></p>
           <span class="link-arrow">&rarr;</span>
         </a>
@@ -304,7 +313,7 @@
   <!-- Final CTA Section -->
   <section class="final-cta-section">
     <div class="container">
-      <h2>Ready to Transform Your Tradeshows &amp; Expos Events?</h2>
+      <h2>Ready to Transform Your Tradeshows Events?</h2>
       <p>See how Micepad can help you create exceptional event experiences.</p>
       <div class="cta-buttons">
         <a href="/contact-us.html" class="btn btn-primary btn-lg">Request Demo</a>

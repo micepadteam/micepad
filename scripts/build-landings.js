@@ -33,93 +33,401 @@ function loadJSON(filepath) {
   }
 }
 
-// Generate landing page HTML
+// Escape HTML entities
+function escapeHtml(str) {
+  return str.replace(/&/g, '&amp;').replace(/'/g, '&#39;').replace(/"/g, '&quot;');
+}
+
+// Get industry name from slug (e.g., "event-app-for-conferences" -> "conferences")
+function getIndustryFromSlug(slug) {
+  return slug.replace('event-app-for-', '');
+}
+
+// Generate landing page HTML (full template)
 function generateLandingHTML(landing, site) {
-  const html = `<!doctype html>
+  const industry = getIndustryFromSlug(landing.slug);
+  const industryTitle = industry.charAt(0).toUpperCase() + industry.slice(1);
+  const pageUrl = `${site.url}/${landing.slug}/`;
+  const title = escapeHtml(landing.seo.title);
+  const description = escapeHtml(landing.seo.description);
+
+  const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>${landing.seo.title}</title>
-  <meta name="description" content="${landing.seo.description}">
-  <meta name="keywords" content="${landing.seo.keywords.join(', ')}">
-  <link rel="canonical" href="${site.url}/${landing.slug}/">
-  <link rel="icon" href="/uploads/2023/07/cropped-micepad-favicon.png">
-  <link rel="stylesheet" href="/css/styles.css">
+  <title>${title}</title>
+  <meta name="description" content="${description}">
+
+  <link rel="canonical" href="${pageUrl}">
+
+  <!-- Open Graph -->
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="${title}">
+  <meta property="og:description" content="${description}">
+  <meta property="og:url" content="${pageUrl}">
+  <meta property="og:site_name" content="Micepad">
+  <meta property="og:image" content="${site.url}/img/og-image.jpg">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="${title}">
+  <meta name="twitter:description" content="${description}">
+  <meta name="twitter:image" content="${site.url}/img/og-image.jpg">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Work+Sans:wght@600&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
   <style>
-    .landing-hero { padding: 80px 20px; text-align: center; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); }
-    .landing-hero h1 { font-size: 2.5rem; margin-bottom: 1rem; color: #070707; }
-    .landing-hero p { font-size: 1.25rem; color: #6E7A84; max-width: 600px; margin: 0 auto 2rem; }
-    .btn-primary { display: inline-block; padding: 16px 32px; background: #155EEF; color: white; border-radius: 8px; text-decoration: none; font-weight: 600; }
-    .btn-primary:hover { background: #0d4fc7; }
-    .benefits { padding: 60px 20px; max-width: 1200px; margin: 0 auto; }
-    .benefits h2 { text-align: center; margin-bottom: 40px; }
-    .benefits-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
-    .benefit-card { padding: 30px; background: #fff; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-    .benefit-card h3 { margin-bottom: 10px; color: #070707; }
-    .benefit-card p { color: #6E7A84; }
-    .faq { padding: 60px 20px; background: #f8f9fa; }
-    .faq h2 { text-align: center; margin-bottom: 40px; }
-    .faq-list { max-width: 800px; margin: 0 auto; }
-    .faq-item { margin-bottom: 20px; padding: 20px; background: white; border-radius: 8px; }
-    .faq-item h4 { margin-bottom: 10px; color: #070707; }
-    .faq-item p { color: #6E7A84; margin: 0; }
-    .cta-section { padding: 80px 20px; text-align: center; background: #155EEF; color: white; }
-    .cta-section h2 { margin-bottom: 1rem; }
-    .cta-section p { margin-bottom: 2rem; opacity: 0.9; }
-    .cta-section .btn-primary { background: white; color: #155EEF; }
+    *,*::before,*::after{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;font-family:"Inter",system-ui,sans-serif;line-height:1.6;color:#333;background:#fff}
+    img{max-width:100%;height:auto;display:block}
+    a{color:inherit;text-decoration:none}
+    h1,h2,h3,h4,h5,h6,p{margin:0}
+    .site-header{position:sticky;top:0;z-index:1000;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.1)}
+    .header-wrapper{max-width:1200px;margin:0 auto;padding:0 20px}
+    .nav-container{display:flex;align-items:center;justify-content:space-between;height:70px}
+    .site-branding .logo{height:40px;width:auto}
+    .nav-menu{display:flex;align-items:center}
+    .main-menu{display:flex;list-style:none;margin:0;padding:0;gap:30px}
+    .menu-item a{color:#333;font-weight:500;font-size:15px;transition:color .2s}
+    .menu-item a:hover{color:#155EEF}
+    .menu-item.has-submenu{position:relative}
+    .submenu{display:none;position:absolute;top:100%;left:0;background:#fff;min-width:220px;box-shadow:0 4px 20px rgba(0,0,0,.15);border-radius:8px;padding:10px 0;list-style:none}
+    .menu-item.has-submenu:hover .submenu{display:block}
+    .submenu li a{display:block;padding:10px 20px}
+    .submenu li a:hover{background:#f5f5f5}
+    .header-cta .btn{padding:12px 24px}
+    .mobile-menu-toggle{display:none}
+    .btn{display:inline-block;padding:14px 28px;border-radius:8px;font-weight:600;transition:all .2s;cursor:pointer;border:none;font-size:16px}
+    .btn-primary{background:#155EEF;color:#fff}
+    .btn-primary:hover{background:#0d4fc7}
+    .btn-outline{background:transparent;border:2px solid #155EEF;color:#155EEF}
+    .btn-outline:hover{background:#155EEF;color:#fff}
+    .btn-lg{padding:18px 36px;font-size:18px}
+    .container{max-width:1200px;margin:0 auto;padding:0 20px}
+    .landing-hero{padding:80px 0;background:linear-gradient(135deg,#f5f7fa 0%,#e4e8ec 100%)}
+    .landing-hero .container{display:flex;align-items:center;gap:60px}
+    .hero-content{flex:1}
+    .hero-eyebrow{color:#155EEF;font-weight:600;font-size:14px;text-transform:uppercase;letter-spacing:1px;margin-bottom:16px}
+    .hero-title{font-size:48px;font-weight:700;color:#070707;line-height:1.2;margin-bottom:20px;font-family:"Work Sans",sans-serif}
+    .hero-description{font-size:20px;color:#6E7A84;line-height:1.6;margin-bottom:32px}
+    .hero-image{flex:1}
+    .hero-image img{border-radius:12px;box-shadow:0 20px 40px rgba(0,0,0,.15)}
+    .features-section,.faq-section{padding:80px 0}
+    .section-header{text-align:center;max-width:700px;margin:0 auto 60px}
+    .section-header h2,.faq-section h2{font-size:36px;font-weight:600;color:#070707;margin-bottom:16px;font-family:"Work Sans",sans-serif;text-align:center}
+    .section-header p{font-size:18px;color:#6E7A84}
+    .features-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:30px}
+    .feature-card{padding:30px;background:#fff;border-radius:12px;box-shadow:0 2px 10px rgba(0,0,0,.08)}
+    .feature-card h3{font-size:20px;font-weight:600;color:#070707;margin-bottom:12px}
+    .feature-card p{color:#6E7A84}
+    .faq-list{max-width:800px;margin:40px auto 0}
+    .faq-item{margin-bottom:16px;padding:20px;background:#f8f9fa;border-radius:8px}
+    .faq-item summary{font-weight:600;cursor:pointer;color:#070707}
+    .faq-answer{margin-top:12px;color:#6E7A84}
+    .related-section{padding:80px 0;background:#f8f9fa}
+    .related-section h2{text-align:center;font-size:36px;margin-bottom:40px}
+    .related-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:30px;max-width:800px;margin:0 auto}
+    .related-card{display:block;padding:30px;background:#fff;border-radius:12px;box-shadow:0 2px 10px rgba(0,0,0,.08);transition:transform .2s,box-shadow .2s}
+    .related-card:hover{transform:translateY(-4px);box-shadow:0 8px 20px rgba(0,0,0,.12)}
+    .related-card h3{font-size:18px;color:#070707;margin-bottom:8px}
+    .related-card p{color:#6E7A84;font-size:14px}
+    .link-arrow{color:#155EEF;font-size:20px}
+    .final-cta-section{padding:80px 0;background:#155EEF;color:#fff;text-align:center}
+    .final-cta-section h2{color:#fff;margin-bottom:16px;font-size:36px}
+    .final-cta-section p{opacity:.9;margin-bottom:32px;font-size:18px}
+    .final-cta-section .btn-primary{background:#fff;color:#155EEF}
+    .final-cta-section .btn-outline{border-color:#fff;color:#fff}
+    .final-cta-section .btn-outline:hover{background:#fff;color:#155EEF}
+    .cta-buttons{display:flex;gap:16px;justify-content:center;flex-wrap:wrap}
+    .site-footer{padding:60px 0 30px;background:#070707;color:rgba(255,255,255,.7)}
+    .footer-wrapper{max-width:1200px;margin:0 auto;padding:0 20px}
+    .footer-main{display:grid;grid-template-columns:2fr repeat(4,1fr);gap:40px;margin-bottom:40px}
+    .footer-col ul{list-style:none;padding:0;margin:0}
+    .footer-col li{margin-bottom:12px}
+    .footer-col a:hover{color:#fff}
+    .footer-col h5{color:#fff;font-size:14px;font-weight:600;margin-bottom:16px;text-transform:uppercase;letter-spacing:1px}
+    .footer-logo{height:40px;margin-bottom:16px}
+    .footer-brand p{font-size:14px;margin-bottom:16px}
+    .social-links{display:flex;gap:12px}
+    .social-links a{color:rgba(255,255,255,.7)}
+    .social-links a:hover{color:#fff}
+    .social-links svg{width:24px;height:24px}
+    .footer-bottom{border-top:1px solid rgba(255,255,255,.1);padding-top:30px;display:flex;justify-content:space-between;font-size:14px}
+    .legal-links{display:flex;list-style:none;margin:0;padding:0;gap:20px}
+    @media(max-width:768px){
+      .nav-menu,.header-cta{display:none}
+      .mobile-menu-toggle{display:block;background:none;border:none;padding:10px;cursor:pointer}
+      .mobile-menu-toggle .bar{display:block;width:24px;height:2px;background:#333;margin:5px 0}
+      .landing-hero .container{flex-direction:column;text-align:center}
+      .hero-title{font-size:32px}
+      .footer-main{grid-template-columns:1fr 1fr;text-align:center}
+      .footer-brand{grid-column:1/-1}
+      .footer-bottom{flex-direction:column;gap:16px;text-align:center}
+    }
   </style>
+
+<!-- Landing Page Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "${title}",
+  "description": "${description}",
+  "url": "${pageUrl}",
+  "mainEntity": {
+    "@type": "SoftwareApplication",
+    "name": "Micepad Event App for ${industryTitle}",
+    "applicationCategory": "Event Management Software",
+    "operatingSystem": "Web, iOS, Android"
+  }
+}
+</script>
 </head>
-<body>
-  <header style="padding: 20px; border-bottom: 1px solid #eee;">
-    <div style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center;">
-      <a href="/"><img src="/uploads/2021/05/Micepad-logo@2x.png" alt="Micepad" height="40"></a>
-      <nav>
-        <a href="/products/" style="margin-right: 20px; color: #333;">Products</a>
-        <a href="/solutions/" style="margin-right: 20px; color: #333;">Solutions</a>
-        <a href="/contact-us/" class="btn-primary" style="padding: 10px 20px; font-size: 14px;">Get Started</a>
+<body class="landing-page landing-${landing.slug}">
+
+  <!-- Header -->
+  <header id="site-header" class="site-header">
+    <div class="header-wrapper">
+      <nav class="nav-container">
+        <!-- Logo -->
+        <div class="site-branding">
+          <a href="/" rel="home">
+            <img src="/img/logo/micepad-logo.png" alt="Micepad" class="logo">
+          </a>
+        </div>
+
+        <!-- Main Navigation -->
+        <div class="nav-menu">
+          <ul class="main-menu">
+            <li class="menu-item has-submenu">
+              <a href="/products.html">Products</a>
+              <ul class="submenu">
+                <li><a href="/products/online-event-registration-software.html">Online Event Registration</a></li>
+                <li><a href="/products/check-in-app.html">Check-In App</a></li>
+                <li><a href="/products/mobile-event-app.html">Mobile Event App</a></li>
+                <li><a href="/products/virtual-event-platform.html">Virtual Event Platform</a></li>
+              </ul>
+            </li>
+            <li class="menu-item has-submenu">
+              <a href="#">Solutions</a>
+              <ul class="submenu">
+                <li><a href="/solutions/hybrid-events.html">Hybrid Events</a></li>
+                <li><a href="/solutions/conferences-and-summits.html">Conferences &amp; Summits</a></li>
+                <li><a href="/solutions/tradeshows-expos.html">Tradeshows &amp; Expos</a></li>
+                <li><a href="/solutions/employee-engagement.html">Employee Engagement</a></li>
+                <li><a href="/solutions/training-workshops.html">Training &amp; Workshops</a></li>
+                <li><a href="/solutions/community-meetups.html">Community Meetups</a></li>
+              </ul>
+            </li>
+            <li class="menu-item">
+              <a href="/customers.html">Customers</a>
+            </li>
+            <li class="menu-item has-submenu">
+              <a href="#">Resources</a>
+              <ul class="submenu">
+                <li><a href="/blog.html">Blog</a></li>
+                <li><a href="https://help.micepad.co/">Help Center</a></li>
+              </ul>
+            </li>
+            <li class="menu-item">
+              <a href="https://app.micepad.co/admin2/auth/login">Log In</a>
+            </li>
+          </ul>
+        </div>
+
+        <!-- CTA Button -->
+        <div class="header-cta">
+          <a href="/contact-us.html" class="btn btn-primary">Request Demo</a>
+        </div>
+
+        <!-- Mobile Menu Toggle -->
+        <button type="button" class="mobile-menu-toggle" aria-label="Toggle menu">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </button>
       </nav>
     </div>
   </header>
 
-  <section class="landing-hero">
-    <h1>${landing.hero.headline}</h1>
-    <p>${landing.hero.subheadline}</p>
-    <a href="${landing.hero.cta.url}" class="btn-primary">${landing.hero.cta.label}</a>
-  </section>
+  <!-- Main Content -->
+  <main id="content" class="site-content">
+<div class="landing-page landing-${landing.slug}">
 
-  <section class="benefits">
-    <h2>Why Choose Micepad?</h2>
-    <div class="benefits-grid">
-      ${landing.benefits.map(b => `
-      <div class="benefit-card">
-        <h3>${b.title}</h3>
-        <p>${b.description}</p>
-      </div>`).join('')}
+  <!-- Hero Section -->
+  <section class="landing-hero">
+    <div class="container">
+      <div class="hero-content">
+        <p class="hero-eyebrow">Event Management Software</p>
+        <h1 class="hero-title">${escapeHtml(landing.hero.headline)}</h1>
+        <p class="hero-description">${escapeHtml(landing.hero.subheadline)}</p>
+        <div class="hero-cta">
+          <a href="/contact-us.html" class="btn btn-primary btn-lg">Request Demo</a>
+        </div>
+      </div>
+      <div class="hero-image">
+        <img src="${landing.hero.image || '/img/hero/' + industry + '.jpg'}" alt="${escapeHtml(landing.hero.headline)}">
+      </div>
     </div>
   </section>
 
+  <!-- Solution / Features Section -->
+  <section class="features-section">
+    <div class="container">
+      <div class="section-header">
+        <h2>How Micepad Helps ${industryTitle} Events</h2>
+        <p>Discover powerful tools designed for ${industry} event professionals.</p>
+      </div>
+      <div class="features-grid">
+        ${landing.benefits.map(b => `
+        <div class="feature-card">
+          <div class="feature-content">
+            <h3>${escapeHtml(b.title)}</h3>
+            <p>${escapeHtml(b.description)}</p>
+            <ul class="feature-benefits">
+            </ul>
+          </div>
+        </div>`).join('')}
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
   ${landing.faq && landing.faq.length > 0 ? `
-  <section class="faq">
-    <h2>Frequently Asked Questions</h2>
-    <div class="faq-list">
-      ${landing.faq.map(f => `
-      <div class="faq-item">
-        <h4>${f.question}</h4>
-        <p>${f.answer}</p>
-      </div>`).join('')}
+  <section class="faq-section">
+    <div class="container">
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        ${landing.faq.map(f => `
+        <details class="faq-item">
+          <summary class="faq-question">${escapeHtml(f.question)}</summary>
+          <div class="faq-answer">${escapeHtml(f.answer)}</div>
+        </details>`).join('')}
+      </div>
     </div>
   </section>` : ''}
 
-  <section class="cta-section">
-    <h2>Ready to Transform Your Events?</h2>
-    <p>Join thousands of event organizers who trust Micepad</p>
-    <a href="/contact-us/" class="btn-primary">Get a Free Demo</a>
+  <!-- Related Solutions -->
+  ${landing.relatedLandings && landing.relatedLandings.length > 0 ? `
+  <section class="related-section">
+    <div class="container">
+      <h2>Explore More Solutions</h2>
+      <div class="related-grid">
+        ${landing.relatedLandings.map(slug => {
+          const relatedIndustry = slug.replace('event-app-for-', '');
+          return `
+        <a href="/${slug}/" class="related-card">
+          <h3>Event App for ${relatedIndustry}</h3>
+          <p></p>
+          <span class="link-arrow">&rarr;</span>
+        </a>`;
+        }).join('')}
+      </div>
+    </div>
+  </section>` : ''}
+
+  <!-- Final CTA Section -->
+  <section class="final-cta-section">
+    <div class="container">
+      <h2>Ready to Transform Your ${industryTitle} Events?</h2>
+      <p>See how Micepad can help you create exceptional event experiences.</p>
+      <div class="cta-buttons">
+        <a href="/contact-us.html" class="btn btn-primary btn-lg">Request Demo</a>
+        <a href="/pricing.html" class="btn btn-outline btn-lg">View Pricing</a>
+      </div>
+    </div>
   </section>
 
-  <footer style="padding: 40px 20px; background: #070707; color: #999; text-align: center;">
-    <p>&copy; ${new Date().getFullYear()} Micepad. All rights reserved.</p>
+</div>
+  </main>
+
+  <!-- Footer -->
+  <footer id="site-footer" class="site-footer">
+    <div class="footer-wrapper">
+      <div class="footer-main">
+        <!-- Company Info -->
+        <div class="footer-col footer-brand">
+          <img src="/img/logo/micepad-logo-white.png" alt="Micepad" class="footer-logo">
+          <p>Your complete event management software</p>
+          <div class="social-links">
+            <a href="https://www.facebook.com/micepadapp" aria-label="Facebook">
+              <svg viewBox="0 0 448 512" width="24" height="24"><path fill="currentColor" d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"/></svg>
+            </a>
+            <a href="https://www.linkedin.com/company/micepad/" aria-label="LinkedIn">
+              <svg viewBox="0 0 448 512" width="24" height="24"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+            </a>
+            <a href="https://www.youtube.com/channel/UCtA-60MpA7WKqrQ7NYSRb0w" aria-label="YouTube">
+              <svg viewBox="0 0 576 512" width="24" height="24"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Products -->
+        <div class="footer-col">
+          <h5>Products</h5>
+          <ul>
+            <li><a href="/products/online-event-registration-software.html">Online Registration</a></li>
+            <li><a href="/products/check-in-app.html">Check-in &amp; Badging</a></li>
+            <li><a href="/products/mobile-event-app.html">Mobile Event App</a></li>
+            <li><a href="/products/virtual-event-platform.html">Virtual Event Platform</a></li>
+          </ul>
+        </div>
+
+        <!-- Solutions -->
+        <div class="footer-col">
+          <h5>Solutions</h5>
+          <ul>
+            <li><a href="/solutions/hybrid-events.html">Hybrid Events</a></li>
+            <li><a href="/solutions/conferences-and-summits.html">Conferences &amp; Summits</a></li>
+            <li><a href="/solutions/tradeshows-expos.html">Tradeshows &amp; Expos</a></li>
+            <li><a href="/solutions/employee-engagement.html">Employee Engagement</a></li>
+            <li><a href="/solutions/training-workshops.html">Training &amp; Workshops</a></li>
+            <li><a href="/solutions/community-meetups.html">Community Meetups</a></li>
+          </ul>
+        </div>
+
+        <!-- Resources -->
+        <div class="footer-col">
+          <h5>Resources</h5>
+          <ul>
+            <li><a href="/blog.html">Blog</a></li>
+            <li><a href="https://help.micepad.co/">Help Center</a></li>
+          </ul>
+        </div>
+
+        <!-- Company -->
+        <div class="footer-col">
+          <h5>Company</h5>
+          <ul>
+            <li><a href="/about-us.html">About Us</a></li>
+            <li><a href="/contact-us.html">Contact Us</a></li>
+            <li><a href="/pricing.html">Pricing</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Footer Bottom -->
+      <div class="footer-bottom">
+        <div class="footer-legal">
+          <p>&copy; ${new Date().getFullYear()} Micepad. All rights reserved.</p>
+          <ul class="legal-links">
+            <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="/terms-conditions.html">Terms &amp; Conditions</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </footer>
+
+  <!-- Scripts -->
+  <script src="/js/main.js"></script>
 </body>
 </html>`;
 
