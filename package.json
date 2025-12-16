@@ -1,0 +1,14 @@
+{
+  "name": "micepad-static",
+  "version": "1.0.0",
+  "description": "Micepad static site with pSEO landing pages",
+  "scripts": {
+    "dev": "npx serve dist -p 3000",
+    "build": "node scripts/build-landings.js",
+    "build:sitemap": "node scripts/sitemap-from-list.js",
+    "clean": "rm -rf dist/landings"
+  },
+  "keywords": ["micepad", "event-management", "static-site"],
+  "license": "UNLICENSED",
+  "private": true
+}
