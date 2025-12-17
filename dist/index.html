@@ -127,7 +127,27 @@
     padding: 20px 35px 20px 35px;
 
 }		</style>
-
+        <style id="faq-accordion-fix">
+            /* FAQ accordion - hide content by default, show when open */
+            #bdt-ep-accordion-8b00156 .bdt-ep-accordion-item .bdt-ep-accordion-content,
+            #bdt-ep-accordion-8b00156 .bdt-ep-accordion-item .bdt-accordion-content {
+                display: none !important;
+                visibility: hidden !important;
+                height: 0 !important;
+                overflow: hidden !important;
+                padding: 0 !important;
+                margin: 0 !important;
+            }
+            #bdt-ep-accordion-8b00156 .bdt-ep-accordion-item.bdt-open .bdt-ep-accordion-content,
+            #bdt-ep-accordion-8b00156 .bdt-ep-accordion-item.bdt-open .bdt-accordion-content {
+                display: block !important;
+                visibility: visible !important;
+                height: auto !important;
+                overflow: visible !important;
+                padding: 15px 20px !important;
+                margin-top: 0 !important;
+            }
+        </style>
 </head>
 
 <body class="home page-template-default page page-id-4508 wp-embed-responsive theme--pagebolt  elementor-default elementor-kit-124 elementor-page elementor-page-4508">
@@ -1238,7 +1258,7 @@
 				<div class="elementor-widget-container">
 							<div class="bdt-ep-accordion-container">
 			<div id="bdt-ep-accordion-8b00156" class="bdt-ep-accordion bdt-accordion" data-bdt-accordion="{&quot;collapsible&quot;:true,&quot;multiple&quot;:false,&quot;transition&quot;:&quot;ease-in-out&quot;}" 		data-settings="{&quot;id&quot;:&quot;bdt-ep-accordion-8b00156&quot;,&quot;activeHash&quot;:&quot;no&quot;,&quot;activeScrollspy&quot;:null,&quot;hashTopOffset&quot;:false,&quot;hashScrollspyTime&quot;:false}">
-									<div class="bdt-ep-accordion-item">
+									<div class="bdt-ep-accordion-item bdt-open">
 						<div							class="bdt-ep-accordion-title bdt-accordion-title bdt-flex bdt-flex-middle bdt-flex-between" id="
 							bdt-ep-accordion-what-is-an-event-management-system"
 							data-accordion-index="0" data-title="what-is-an-event-management-system">
@@ -1755,13 +1775,6 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
             /* Fix for static site - make animated elements visible */
             .elementor-invisible {
                 visibility: visible !important;
-            }
-            /* FAQ accordion - hide content by default, show when open */
-            .bdt-ep-accordion-item .bdt-ep-accordion-content {
-                display: none !important;
-            }
-            .bdt-ep-accordion-item.bdt-open .bdt-ep-accordion-content {
-                display: block !important;
             }
         </style>
         <script type="text/javascript">
