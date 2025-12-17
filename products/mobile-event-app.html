@@ -122,7 +122,26 @@
     padding: 20px 35px 20px 35px;
 
 }		</style>
-
+        <style id="faq-accordion-fix">
+            #bdt-ep-accordion-9f7739c .bdt-ep-accordion-item .bdt-ep-accordion-content,
+            #bdt-ep-accordion-9f7739c .bdt-ep-accordion-item .bdt-accordion-content {
+                display: none !important;
+                visibility: hidden !important;
+                height: 0 !important;
+                overflow: hidden !important;
+                padding: 0 !important;
+                margin: 0 !important;
+            }
+            #bdt-ep-accordion-9f7739c .bdt-ep-accordion-item.bdt-open .bdt-ep-accordion-content,
+            #bdt-ep-accordion-9f7739c .bdt-ep-accordion-item.bdt-open .bdt-accordion-content {
+                display: block !important;
+                visibility: visible !important;
+                height: auto !important;
+                overflow: visible !important;
+                padding: 15px 20px !important;
+                margin-top: 0 !important;
+            }
+        </style>
 </head>
 
 <body class="page-template-default page page-id-204 page-child parent-pageid-3397 wp-embed-responsive theme--pagebolt  elementor-default elementor-kit-124 elementor-page elementor-page-204 elementor-page-225">
@@ -894,6 +913,23 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
                     document.head.appendChild(script);
                 }
             })();
+        </script>
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.querySelectorAll('.bdt-ep-accordion-title').forEach(function(title) {
+                title.addEventListener('click', function() {
+                    var item = this.closest('.bdt-ep-accordion-item');
+                    var accordion = this.closest('.bdt-ep-accordion');
+                    var isOpen = item.classList.contains('bdt-open');
+                    accordion.querySelectorAll('.bdt-ep-accordion-item').forEach(function(i) {
+                        i.classList.remove('bdt-open');
+                    });
+                    if (!isOpen) {
+                        item.classList.add('bdt-open');
+                    }
+                });
+            });
+        });
         </script>
 <foreignObject></foreignObject></body>
 </html>
