@@ -2301,7 +2301,77 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/micepad.co\/tw\/wp-admin\
                 animation: .5s linear uicoreFadeIn both;
                 animation-timeline: view(block);
             }
+            /* Fix for static site - make animated elements visible */
+            .elementor-invisible {
+                visibility: visible !important;
+            }
         </style>
+        <!-- Custom JS for static site -->
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+        <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize Swiper carousels
+            document.querySelectorAll('.bdt-review-card-carousel').forEach(function(el) {
+                var settingsAttr = el.getAttribute('data-settings');
+                var settings = settingsAttr ? JSON.parse(settingsAttr.replace(/&quot;/g, '"')) : {};
+                var swiperEl = el.querySelector('.swiper');
+                if (swiperEl) {
+                    new Swiper(swiperEl, {
+                        loop: settings.loop !== false,
+                        speed: settings.speed || 500,
+                        autoplay: settings.autoplay ? { delay: settings.autoplay.delay || 5000, disableOnInteraction: false } : false,
+                        slidesPerView: settings.slidesPerView || 1,
+                        spaceBetween: settings.spaceBetween || 24,
+                        breakpoints: {
+                            768: { slidesPerView: 3, spaceBetween: 24 },
+                            1024: { slidesPerView: 4, spaceBetween: 24 }
+                        },
+                        navigation: {
+                            nextEl: el.querySelector('.bdt-navigation-next'),
+                            prevEl: el.querySelector('.bdt-navigation-prev')
+                        }
+                    });
+                }
+            });
+
+            // Initialize accordion
+            document.querySelectorAll('.bdt-ep-accordion-title').forEach(function(title) {
+                title.addEventListener('click', function() {
+                    var item = this.closest('.bdt-ep-accordion-item');
+                    var accordion = this.closest('.bdt-ep-accordion');
+                    var isOpen = item.classList.contains('bdt-open');
+
+                    // Close all items in this accordion
+                    accordion.querySelectorAll('.bdt-ep-accordion-item').forEach(function(i) {
+                        i.classList.remove('bdt-open');
+                    });
+
+                    // Toggle clicked item
+                    if (!isOpen) {
+                        item.classList.add('bdt-open');
+                    }
+                });
+            });
+
+            // Scroll animation for images with motion_fx settings
+            var animatedElements = document.querySelectorAll('[data-settings*="motion_fx"]');
+            var observer = new IntersectionObserver(function(entries) {
+                entries.forEach(function(entry) {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            animatedElements.forEach(function(el) {
+                el.style.opacity = '0';
+                el.style.transform = 'translateY(30px)';
+                el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                observer.observe(el);
+            });
+        });
+        </script>
         <script type="dc63914469eb3cdeb6ded957-text/javascript">
             (function() {
                 const supportsAnimationTimeline = CSS.supports("animation-timeline", "scroll()");
