@@ -1075,22 +1075,29 @@ var uicore_frontend = {'back':'Back', 'rtl' : '','mobile_br' : '1025'};
 
 <script>
 /* Accordion fix for static site */
-document.addEventListener('click', function(e) {
-  var title = e.target.closest('.bdt-ep-accordion-title');
-  if (title) {
-    e.preventDefault();
-    e.stopPropagation();
-    var item = title.closest('.bdt-ep-accordion-item');
-    if (item) {
-      var accordion = item.closest('.bdt-ep-accordion');
-      if (accordion) {
-        accordion.querySelectorAll('.bdt-ep-accordion-item.bdt-open').forEach(function(openItem) {
-          if (openItem !== item) openItem.classList.remove('bdt-open');
-        });
+document.addEventListener('DOMContentLoaded', function() {
+  // Remove UIKit accordion initialization to prevent conflicts
+  document.querySelectorAll('[data-bdt-accordion]').forEach(function(el) {
+    el.removeAttribute('data-bdt-accordion');
+  });
+
+  // Custom click handler for accordion
+  document.querySelectorAll('.bdt-ep-accordion-title').forEach(function(title) {
+    title.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      var item = this.closest('.bdt-ep-accordion-item');
+      if (item) {
+        var accordion = item.closest('.bdt-ep-accordion');
+        if (accordion) {
+          accordion.querySelectorAll('.bdt-ep-accordion-item.bdt-open').forEach(function(openItem) {
+            if (openItem !== item) openItem.classList.remove('bdt-open');
+          });
+        }
+        item.classList.toggle('bdt-open');
       }
-      item.classList.toggle('bdt-open');
-    }
-  }
+    });
+  });
 });
 </script>
 </body>
