@@ -7,6 +7,14 @@
 	<title>Blog &#8211; Micepad</title>
 <meta name='robots' content='max-image-preview:large' />
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+<style>
+/* Fix for static site - ensure post text displays correctly */
+.elementor-post__text { display: block !important; visibility: visible !important; opacity: 1 !important; height: auto !important; overflow: visible !important; }
+.elementor-post__title, .elementor-post__excerpt, .elementor-post__read-more { display: block !important; visibility: visible !important; opacity: 1 !important; }
+.elementor-post__card { display: flex !important; flex-direction: column !important; }
+.elementor-post__thumbnail { position: relative !important; padding-bottom: 0 !important; height: auto !important; }
+.elementor-post__thumbnail img { position: relative !important; transform: none !important; left: 0 !important; top: 0 !important; }
+</style>
 	<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
 
 <link rel='stylesheet' id='bdt-uikit-css' href='wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css%3Fver=3.17.11.css' media='all' />
