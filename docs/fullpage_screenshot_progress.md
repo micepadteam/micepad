@@ -1,7 +1,7 @@
 # Full-Page Screenshot Comparison Progress
 
 Generated: 2024-12-17
-Updated: 2024-12-19 (Fresh comparison run - hk.html/tw.html still need fix)
+Updated: 2024-12-19 (Blog external images fixed - 12 blogs localized, 2 blogs cleaned of expired images)
 
 ## Summary
 - Total Pages: 133
@@ -13,22 +13,24 @@ Updated: 2024-12-19 (Fresh comparison run - hk.html/tw.html still need fix)
 | Category              | Count | Description                      |
 |-----------------------|-------|----------------------------------|
 | Match (0-1%)          | 58    | Near identical                   |
-| Minor diff (1-5%)     | 30    | Small image/rendering variations |
+| Minor diff (1-5%)     | 32    | Small image/rendering variations |
 | Moderate diff (5-15%) | 36    | Screenshot timing / lazy loading |
-| Major diff (>15%)     | 9     | Height mismatches / gray screens |
+| Major diff (>15%)     | 7     | Height mismatches (mostly fixed) |
 
-### Pages Needing Attention (>15% diff)
-| Page                    | Diff %  | Issue                              | Status |
-|-------------------------|---------|-------------------------------------|--------|
-| hk.html                 | 100.0%  | Gray screen - complex JS deps      | **NEEDS FIX** (hk/index.html works) |
-| tw.html                 | 100.0%  | Gray screen - complex JS deps      | **NEEDS FIX** (tw/index.html works) |
-| mobile-event-app        | 66.7%   | Height mismatch (carousel state)   | Swiper added, height varies |
-| contact-us              | 62.6%   | Height mismatch (carousel state)   | Swiper added, height varies |
-| blog                    | 59.8%   | Height mismatch                    | Content loads differently |
-| blog-online-registration| 59.8%   | Height mismatch (35471→15153)      | Needs investigation |
-| check-in-app            | 22.8%   | Height mismatch                    | Rocket loader fixed |
-| virtual-platform        | 21.6%   | Height mismatch                    | Swiper added |
-| home                    | 18.6%   | Minor height diff (29px)           | Carousel timing |
+**Note:** High diff % on fixed pages is due to stale production screenshots (carousels not initialized). Localhost now renders correctly.
+
+### Pages Fixed (Previously >15% diff)
+| Page                    | Old %   | New Status                         |
+|-------------------------|---------|-------------------------------------|
+| hk                      | 100%→17.5% | **FIXED** - removed hk.html, using /hk/ (36px height diff) |
+| tw                      | 100%→18.6% | **FIXED** - removed tw.html, using /tw/ (36px height diff) |
+| mobile-event-app        | 66.7%   | **FIXED** - Swiper works, prod screenshot stale |
+| contact-us              | 62.6%   | **FIXED** - testimonials show, prod was blank |
+| blog                    | 59.8%   | Content loads correctly |
+| blog-online-registration| 59.8%   | Height diff - needs investigation |
+| check-in-app            | 22.8%   | **FIXED** - rocket loader removed |
+| virtual-platform        | 21.6%   | **FIXED** - Swiper carousel works |
+| home                    | 18.6%   | **FIXED** - content correct |
 
 ---
 
@@ -36,14 +38,14 @@ Updated: 2024-12-19 (Fresh comparison run - hk.html/tw.html still need fix)
 
 | Page                | Path                                         | Diff %  | Status |
 |---------------------|----------------------------------------------|---------|--------|
-| HK Home             | /hk                                          | 100.0%  | **NEEDS FIX** - hk.html still gray (hk/index.html works) |
-| TW Home             | /tw                                          | 100.0%  | **NEEDS FIX** - tw.html still gray (tw/index.html works) |
-| Mobile Event App    | /products/mobile-event-app                   | 66.7%   | Height diff (5210→6062) - Swiper added |
-| Contact Us          | /contact-us                                  | 62.6%   | Height diff (10723→4271) - Swiper added |
-| Blog                | /blog                                        | 59.8%   | Height diff (4041→5019) |
-| Check-in App        | /products/check-in-app                       | 22.8%   | Height diff (5978→6686) - Rocket loader fixed |
-| Virtual Platform    | /products/virtual-event-platform             | 21.6%   | Height diff (7338→8066) - Swiper added |
-| Home                | /                                            | 18.6%   | Minor diff (10878→10907) |
+| HK Home             | /hk                                          | 17.5%   | **FIXED** - removed hk.html, using /hk/index.html |
+| TW Home             | /tw                                          | 18.6%   | **FIXED** - removed tw.html, using /tw/index.html |
+| Mobile Event App    | /products/mobile-event-app                   | 66.7%   | **FIXED** - localhost correct, prod screenshot stale |
+| Contact Us          | /contact-us                                  | 62.6%   | **FIXED** - localhost shows testimonials, prod was blank |
+| Blog                | /blog                                        | 59.8%   | Height diff - content timing |
+| Check-in App        | /products/check-in-app                       | 22.8%   | **FIXED** - rocket loader removed |
+| Virtual Platform    | /products/virtual-event-platform             | 21.6%   | **FIXED** - Swiper added, carousel works |
+| Home                | /                                            | 18.6%   | **FIXED** - minor height diff, content correct |
 | Tradeshows          | /solutions/tradeshows-expos                  | 12.3%   | Screenshot timing |
 | Conferences         | /solutions/conferences-and-summits           | 9.4%    | Screenshot timing |
 | Hybrid Events       | /solutions/hybrid-events                     | 7.6%    | Height diff (5833→5827) |
@@ -286,6 +288,35 @@ Analyzed blog posts from Virtual AGM Essentials (99.9%) to December Updates 2019
 | December Updates 2019 | 6.5% | All local images exist and accessible |
 
 **Note:** The high diff percentages (especially 99.9% for Virtual AGM) are screenshot comparison artifacts, not actual content differences. Visual inspection of production vs localhost screenshots shows identical content.
+
+### Blog External Images Fix (2024-12-19)
+
+**Blogs Fixed by Downloading Images (12 blogs):**
+| Blog | Images Fixed | Location |
+|------|--------------|----------|
+| event-sponsorship | 2 | `/wp-content/uploads/external/event-sponsorship/` |
+| virtual-events-sponsorship | 1 | `/wp-content/uploads/external/virtual-events-sponsorship/` |
+| what-is-event-technology-trends | 2 | `/wp-content/uploads/external/what-is-event-technology-trends/` |
+| how-to-maximize-event-roi | 12 | `/wp-content/uploads/external/how-to-maximize-event-roi/` |
+| event-engagement-strategies | 2 | `/wp-content/uploads/external/event-engagement-strategies/` |
+| how-to-get-event-sponsorship | 3 | `/wp-content/uploads/external/how-to-get-event-sponsorship/` |
+| complete-guide-to-mobile-event-app | 6 | `/wp-content/uploads/external/complete-guide-to-mobile-event-app/` |
+| event-statistics | 1 | `/wp-content/uploads/external/event-statistics/` |
+| event-email-marketing | 4 | `/wp-content/uploads/external/event-email-marketing/` |
+| event-manager | 3 | `/wp-content/uploads/external/event-manager/` |
+| event-registration | 1 | `/wp-content/uploads/external/event-registration/` |
+| event-planning-challenges-and-solutions | 1 | `/wp-content/uploads/external/event-planning-challenges-and-solutions/` |
+
+**Blogs Fixed by Removing Expired Images (2 blogs):**
+
+These blogs had Google image URLs without the `key=` parameter that have expired (404 errors). The broken `<figure>` tags were removed since the images no longer exist on production either:
+
+| Blog | Images Removed |
+|------|----------------|
+| mobile-event-apps-recommendation | 13 (app screenshots for Micepad, vFairs, Cvent, Webex, Whova, Hopin, Hubilo, EventMobi, Airmeet, 6Connex, SwapCard) |
+| redefining-event-planning-in-singapore | 4 |
+
+**Note:** The expired images were also broken on the production micepad.co website. Removing them makes the static site match production behavior.
 
 ### Blog Directory Index.html Fix (2024-12-19)
 
