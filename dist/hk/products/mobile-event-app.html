@@ -1,6 +1,13 @@
 <!doctype html>
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
 <head>
+<style>
+/* Fix accordion - collapse by default, expand on click */
+.bdt-ep-accordion-content { display: none !important; }
+.bdt-ep-accordion-item.bdt-open .bdt-ep-accordion-content { display: block !important; }
+.bdt-ep-accordion-title { cursor: pointer; }
+</style>
+
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
@@ -1126,5 +1133,17 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/micepad.co\/hk\/wp-admin\
                 }
             })();
         </script>
-<script src="../../cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="9ea774562eaabfd8e3d8db14-|49" defer></script></body>
+<script src="../../cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="9ea774562eaabfd8e3d8db14-|49" defer></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.bdt-ep-accordion-title').forEach(function(title) {
+    title.addEventListener('click', function() {
+      var item = this.closest('.bdt-ep-accordion-item');
+      if (item) {
+        item.classList.toggle('bdt-open');
+      }
+    });
+  });
+});
+</script>
+</body>
 </html>

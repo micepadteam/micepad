@@ -1,6 +1,13 @@
 <!doctype html>
 <html lang="en-US">
 <head>
+<style>
+/* Fix accordion - collapse by default, expand on click */
+.bdt-ep-accordion-content { display: none !important; }
+.bdt-ep-accordion-item.bdt-open .bdt-ep-accordion-content { display: block !important; }
+.bdt-ep-accordion-title { cursor: pointer; }
+</style>
+
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -950,5 +957,17 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
             });
         });
         </script>
-<foreignObject></foreignObject></body>
+<foreignObject></foreignObject><script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.bdt-ep-accordion-title').forEach(function(title) {
+    title.addEventListener('click', function() {
+      var item = this.closest('.bdt-ep-accordion-item');
+      if (item) {
+        item.classList.toggle('bdt-open');
+      }
+    });
+  });
+});
+</script>
+</body>
 </html>
