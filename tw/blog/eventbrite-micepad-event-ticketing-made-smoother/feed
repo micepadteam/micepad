@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Eventbrite + Micepad: Event Ticketing Made Smoother	</title>
-	<atom:link href="https://micepad.co/tw/blog/eventbrite-micepad-event-ticketing-made-smoother/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/tw/blog/eventbrite-micepad-event-ticketing-made-smoother/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/tw/blog/eventbrite-micepad-event-ticketing-made-smoother</link>
 	<description>Enterprise Event App and Event Management Software</description>
 	<lastBuildDate>Mon, 28 Jun 2021 03:31:34 +0000</lastBuildDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Event Planning &#8211; Micepad Hong Kong</title>
-	<atom:link href="https://micepad.co/hk/blog/tag/event-planning/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/hk/blog/tag/event-planning/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/hk</link>
 	<description>Enterprise Event Management Software and Event App</description>
 	<lastBuildDate>Tue, 29 Jun 2021 06:23:24 +0000</lastBuildDate>

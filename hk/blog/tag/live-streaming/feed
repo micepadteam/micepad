@@ -9,7 +9,7 @@
 
 <channel>
 	<title>live streaming &#8211; Micepad Hong Kong</title>
-	<atom:link href="https://micepad.co/hk/blog/tag/live-streaming/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/hk/blog/tag/live-streaming/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/hk</link>
 	<description>Enterprise Event Management Software and Event App</description>
 	<lastBuildDate>Mon, 28 Jun 2021 02:53:08 +0000</lastBuildDate>

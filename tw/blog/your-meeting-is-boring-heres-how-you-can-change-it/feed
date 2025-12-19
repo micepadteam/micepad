@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Your Meeting Is Boring. Here’s How You Can Change It.	</title>
-	<atom:link href="https://micepad.co/tw/blog/your-meeting-is-boring-heres-how-you-can-change-it/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/tw/blog/your-meeting-is-boring-heres-how-you-can-change-it/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/tw/blog/your-meeting-is-boring-heres-how-you-can-change-it</link>
 	<description>Enterprise Event App and Event Management Software</description>
 	<lastBuildDate>Mon, 28 Jun 2021 05:43:13 +0000</lastBuildDate>

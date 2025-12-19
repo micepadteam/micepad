@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for Micepad Hong Kong	</title>
-	<atom:link href="https://micepad.co/hk/comments/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/hk/comments/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/hk</link>
 	<description>Enterprise Event Management Software and Event App</description>
 	<lastBuildDate>Wed, 26 Feb 2025 16:57:47 +0000</lastBuildDate>

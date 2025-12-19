@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Admin Panel Navigation Update	</title>
-	<atom:link href="https://micepad.co/blog/admin-panel-navigation-update/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/admin-panel-navigation-update/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/blog/admin-panel-navigation-update</link>
 	<description>Enterprise Event App and Event Management Software</description>
 	<lastBuildDate>Wed, 24 Jul 2024 09:08:38 +0000</lastBuildDate>

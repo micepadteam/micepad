@@ -9,7 +9,7 @@
 
 <channel>
 	<title>All &#8211; Micepad Hong Kong</title>
-	<atom:link href="https://micepad.co/hk/blog/category/all/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/hk/blog/category/all/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/hk</link>
 	<description>Enterprise Event Management Software and Event App</description>
 	<lastBuildDate>Thu, 07 Dec 2023 06:22:54 +0000</lastBuildDate>
@@ -147,7 +147,7 @@
 
 
 
-<li><strong>Registration and RSVP: </strong>Use event management platforms or dedicated apps to facilitate online registration and RSVP (<a href="https://micepad.co/blog/announcing-micepads-newest-rsvp-feature">https://micepad.co/blog/announcing-micepads-newest-rsvp-feature</a>). This not only ensures a smooth registration process but also helps in predicting the turnout.</li>
+<li><strong>Registration and RSVP: </strong>Use event management platforms or dedicated apps to facilitate online registration and RSVP (<a href="/blog/announcing-micepads-newest-rsvp-feature">https://micepad.co/blog/announcing-micepads-newest-rsvp-feature</a>). This not only ensures a smooth registration process but also helps in predicting the turnout.</li>
 
 
 
@@ -218,7 +218,7 @@
 
 
 
-<p><strong><em>Also read</em></strong><em>: How Check-In Rates Influence Event Success: Can You Beat Micepad’s 4-Second Record? (<a href="https://micepad.co/blog/how-check-in-rates-influence-event-success-can-you-beat-micepads-4-second-record)">https://micepad.co/blog/how-check-in-rates-influence-event-success-can-you-beat-micepads-4-second-record)</a></em></p>
+<p><strong><em>Also read</em></strong><em>: How Check-In Rates Influence Event Success: Can You Beat Micepad’s 4-Second Record? (<a href="/blog/how-check-in-rates-influence-event-success-can-you-beat-micepads-4-second-record)">https://micepad.co/blog/how-check-in-rates-influence-event-success-can-you-beat-micepads-4-second-record)</a></em></p>
 
 
 
@@ -311,7 +311,7 @@
 				<div class="elementor-element elementor-element-16f40c3 elementor-widget elementor-widget-text-editor" data-id="16f40c3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 									Real-time translation of audio into your native language with Simultaneous Interpretation. Host a multilingual conference today!
-<p dir="ltr">Ready to livestream your event to a multilingual audience? With the click of a button, attendees can use<a href="https://micepad.co/hk/products/virtual-event-platform" target="_blank" rel="noopener noreferrer"> <span style="color: #63c339;">Simultaneous Interpretation</span></a> to translate audio in real time. Languages include English, Chinese, French, Japanese, Korean, Malay and more.</p>
+<p dir="ltr">Ready to livestream your event to a multilingual audience? With the click of a button, attendees can use<a href="/hk/products/virtual-event-platform" target="_blank" rel="noopener noreferrer"> <span style="color: #63c339;">Simultaneous Interpretation</span></a> to translate audio in real time. Languages include English, Chinese, French, Japanese, Korean, Malay and more.</p>
 <p dir="ltr">P.S. We integrate with major streaming platforms such as Zoom, YouTube and Facebook Live.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-33847c1 elementor-widget elementor-widget-heading" data-id="33847c1" data-element_type="widget" data-widget_type="heading.default">
@@ -326,7 +326,7 @@
 				<div class="elementor-widget-container">
 									Smarter, effective networking for Exhibitors and Sponsors to engage potential customers.
 <p dir="ltr">Exhibitors and sponsors can showcase their services and products with their own customisable branded pages, with personalised content and easy access to company representatives.</p>
-<p dir="ltr">From hosting virtual conferences to job fairs, trade shows and education fairs, rest assured that our friendly team is ready to guide and support you towards a successful <a href="https://micepad.co/hk/products/virtual-event-platform" target="_blank" rel="noopener noreferrer"><span style="color: #63c339;">virtual exhibition event</span></a>.</p>								</div>
+<p dir="ltr">From hosting virtual conferences to job fairs, trade shows and education fairs, rest assured that our friendly team is ready to guide and support you towards a successful <a href="/hk/products/virtual-event-platform" target="_blank" rel="noopener noreferrer"><span style="color: #63c339;">virtual exhibition event</span></a>.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-dda51d3 elementor-widget elementor-widget-heading" data-id="dda51d3" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -338,7 +338,7 @@
 				</div>
 				<div class="elementor-element elementor-element-b0501ad elementor-widget elementor-widget-text-editor" data-id="b0501ad" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Exhibitor representatives can secure leads by striking a conversation with multiple event attendees simultaneously. Opt between text chat or video call for a more personal connection.</p><p dir="ltr">Exhibitor representatives can strike a conversation with attendees to discuss value exchange and networking opportunities.</p><p dir="ltr">For more info, visit <a href="https://micepad.co/hk/products/virtual-event-platform"><span style="color: #63c339;">https://micepad.co/hk/products/virtual-event-platform</span></a><a href="https://micepad.co/hk/products/virtual-event-platform"><span style="color: #63c339;">,</span></a> email us at <a href="mailto:enquiry@micepad.co/hk" target="_blank" rel="noopener noreferrer"><span style="color: #63c339;">enquiry@micepad.co/hk</span></a> or contact us at our live chat on the bottom right of this page.</p><p dir="ltr">Want to experience these features live? <a href="https://micepad.co/hk/contact-us" target="_blank" rel="noopener noreferrer"><span style="color: #63c339;">Book a demo today</span></a>.</p><p dir="ltr">Subscribe to our newsletter and get the latest product updates <a href="https://micepad.activehosted.com/f/1" target="_blank" rel="noopener noreferrer"><span style="color: #63c339;">here</span></a>.</p>								</div>
+									<p>Exhibitor representatives can secure leads by striking a conversation with multiple event attendees simultaneously. Opt between text chat or video call for a more personal connection.</p><p dir="ltr">Exhibitor representatives can strike a conversation with attendees to discuss value exchange and networking opportunities.</p><p dir="ltr">For more info, visit <a href="/hk/products/virtual-event-platform"><span style="color: #63c339;">https://micepad.co/hk/products/virtual-event-platform</span></a><a href="/hk/products/virtual-event-platform"><span style="color: #63c339;">,</span></a> email us at <a href="mailto:enquiry@micepad.co/hk" target="_blank" rel="noopener noreferrer"><span style="color: #63c339;">enquiry@micepad.co/hk</span></a> or contact us at our live chat on the bottom right of this page.</p><p dir="ltr">Want to experience these features live? <a href="/hk/contact-us" target="_blank" rel="noopener noreferrer"><span style="color: #63c339;">Book a demo today</span></a>.</p><p dir="ltr">Subscribe to our newsletter and get the latest product updates <a href="https://micepad.activehosted.com/f/1" target="_blank" rel="noopener noreferrer"><span style="color: #63c339;">here</span></a>.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-39edf78 elementor-widget elementor-widget-heading" data-id="39edf78" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -346,7 +346,7 @@
 				</div>
 				<div class="elementor-element elementor-element-e4383a5 elementor-widget elementor-widget-text-editor" data-id="e4383a5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									Micepad’s vision is to streamline and enhance events management through software solutions, including virtual and hybrid event experiences. Learn more about Micepad’s virtual events platform at <a href="https://micepad.co/hk/virtual-events/"><span style="color: #63C339;">https://micepad.co/hk/virtual-events/</a>.								</div>
+									Micepad’s vision is to streamline and enhance events management through software solutions, including virtual and hybrid event experiences. Learn more about Micepad’s virtual events platform at <a href="/hk/virtual-events/"><span style="color: #63C339;">https://micepad.co/hk/virtual-events/</a>.								</div>
 				</div>
 					</div>
 		</div>
@@ -557,7 +557,7 @@
 				</div>
 				<div class="elementor-element elementor-element-82b22a3 elementor-widget elementor-widget-text-editor" data-id="82b22a3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p dir="ltr">As we said, we will let the numbers do the talking.</p><p dir="ltr">From all you have seen, it is obvious that these <a href="https://micepad.co/hk/products/mobile-event-app" target="_blank" rel="noopener">event apps </a>are not given as much credit as they should be, that might be because those who are enjoying all the goodies it brings don’t want everyone to get in on it yet. </p><p dir="ltr">Now that you have seen the light in this piece of tech, what would you rather do?</p>								</div>
+									<p dir="ltr">As we said, we will let the numbers do the talking.</p><p dir="ltr">From all you have seen, it is obvious that these <a href="/hk/products/mobile-event-app" target="_blank" rel="noopener">event apps </a>are not given as much credit as they should be, that might be because those who are enjoying all the goodies it brings don’t want everyone to get in on it yet. </p><p dir="ltr">Now that you have seen the light in this piece of tech, what would you rather do?</p>								</div>
 				</div>
 					</div>
 		</div>
