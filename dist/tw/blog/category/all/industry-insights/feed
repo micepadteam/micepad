@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Industry Insights &#8211; Micepad TW</title>
-	<atom:link href="https://micepad.co/tw/blog/category/all/industry-insights/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/tw/blog/category/all/industry-insights/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/tw</link>
 	<description>Enterprise Event App and Event Management Software</description>
 	<lastBuildDate>Thu, 07 Dec 2023 03:01:31 +0000</lastBuildDate>
@@ -391,7 +391,7 @@
 				<div class="elementor-element elementor-element-442e28c elementor-widget elementor-widget-text-editor" data-id="442e28c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 									<p dir="ltr">Social distancing is quickly becoming the norm, and traditional AGMs where shareholders gather to hear CEO presentations and ask questions are simply no longer feasible. However, in the absence of face-to-face meetings, it is vital that companies, shareholders and investors can interact with each other.</p>
-<p dir="ltr">To find out how Micepad Virtual Event Platform can help you run your AGM smoothly, engage more shareholders and allow remote viewing, contact us <a class="tve-froala fr-basic" href="https://micepad.co/tw/contact-us" target="_blank" rel="noopener" data-css="tve-u-171a5e54526"><span style="color: #63c339;">here.</span></a></p>								</div>
+<p dir="ltr">To find out how Micepad Virtual Event Platform can help you run your AGM smoothly, engage more shareholders and allow remote viewing, contact us <a class="tve-froala fr-basic" href="/tw/contact-us" target="_blank" rel="noopener" data-css="tve-u-171a5e54526"><span style="color: #63c339;">here.</span></a></p>								</div>
 				</div>
 					</div>
 		</div>
@@ -505,7 +505,7 @@
 				</div>
 				<div class="elementor-element elementor-element-6d4c547 elementor-widget elementor-widget-text-editor" data-id="6d4c547" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<div id="tve_flt" class="tve_flt tcb-style-wrap"><div id="tve_editor" class="tve_shortcode_editor"><div class="thrv_wrapper thrv_text_element tve-froala fr-box fr-basic"><p>Micepad is an end to end virtual event platform that enables enterprises to host <a class="tve-froala" href="https://micepad.co/tw/products/virtual-event-platform" target="_blank" rel="noopener"><span style="color: #63c339;">virtual events</span></a>, online webinars, hybrid events and virtual conferences with the flexibility of choosing between mobile app access or a custom branded microsite for desktop browser. If you would like to find out more on pivoting to a virtual event, please feel free to drop us an <a class="tve-froala" href="https://micepad.co/tw/contact-us" target="_blank" rel="noopener"><span style="color: #63c339;">email</span></a>.</p></div></div></div><div class="ssf fpss"><div class="ssf-i"><div class="ss"> </div></div></div>								</div>
+									<div id="tve_flt" class="tve_flt tcb-style-wrap"><div id="tve_editor" class="tve_shortcode_editor"><div class="thrv_wrapper thrv_text_element tve-froala fr-box fr-basic"><p>Micepad is an end to end virtual event platform that enables enterprises to host <a class="tve-froala" href="/tw/products/virtual-event-platform" target="_blank" rel="noopener"><span style="color: #63c339;">virtual events</span></a>, online webinars, hybrid events and virtual conferences with the flexibility of choosing between mobile app access or a custom branded microsite for desktop browser. If you would like to find out more on pivoting to a virtual event, please feel free to drop us an <a class="tve-froala" href="/tw/contact-us" target="_blank" rel="noopener"><span style="color: #63c339;">email</span></a>.</p></div></div></div><div class="ssf fpss"><div class="ssf-i"><div class="ss"> </div></div></div>								</div>
 				</div>
 					</div>
 		</div>

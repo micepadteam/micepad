@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Product Insights &#8211; Micepad</title>
-	<atom:link href="https://micepad.co/blog/category/all/product-insights/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/category/all/product-insights/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co</link>
 	<description>Enterprise Event App and Event Management Software</description>
 	<lastBuildDate>Sat, 07 Sep 2024 12:06:03 +0000</lastBuildDate>
@@ -40,12 +40,12 @@
 		<guid isPermaLink="false">https://micepad.co/?p=7091</guid>
 
 					<description><![CDATA[Conducting trainings and workshops is a great way to impart knowledge and help people develop a particular skill set. The beauty of [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Conducting </span><a href="https://micepad.co/training/"><span style="font-weight: 400;">trainings and workshops</span></a><span style="font-weight: 400;"> is a great way to impart knowledge and help people develop a particular skill set. The beauty of this type of event is it holds a key role for people belonging in both the working and non-working class.</span></p>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Conducting </span><a href="/training/"><span style="font-weight: 400;">trainings and workshops</span></a><span style="font-weight: 400;"> is a great way to impart knowledge and help people develop a particular skill set. The beauty of this type of event is it holds a key role for people belonging in both the working and non-working class.</span></p>
 <p><span style="font-weight: 400;">Students, parents, employees, and even those who finished a vocational course can benefit from a training and workshop event. It is this universal nature that makes it crucial to design training and workshops that adhere to audience demands and learning objectives. Below are tips and tricks on how you, the training supervisor, can produce a highly useful training event for your target audience.</span></p>
 <h2><b>Why Organise Training and Workshops?</b></h2>
 <p><img fetchpriority="high" decoding="async" class="alignnone wp-image-7093 size-full" src="https://micepad.co/wp-content/uploads/2024/09/male-speaker-giving-presentation-hall-university-workshop-audience-conference-hall_155003-27425.jpg" alt="male-speaker-giving-presentation-at training workshop" width="996" height="664" srcset="https://micepad.co/wp-content/uploads/2024/09/male-speaker-giving-presentation-hall-university-workshop-audience-conference-hall_155003-27425.jpg 996w, https://micepad.co/wp-content/uploads/2024/09/male-speaker-giving-presentation-hall-university-workshop-audience-conference-hall_155003-27425-300x200.jpg 300w, https://micepad.co/wp-content/uploads/2024/09/male-speaker-giving-presentation-hall-university-workshop-audience-conference-hall_155003-27425-768x512.jpg 768w, https://micepad.co/wp-content/uploads/2024/09/male-speaker-giving-presentation-hall-university-workshop-audience-conference-hall_155003-27425-650x433.jpg 650w" sizes="(max-width: 996px) 100vw, 996px" /></p>
 <p style="text-align: center;"><span style="font-weight: 400;">The most important purpose of a training workshop is to equip participants with practical skills and knowledge they can immediately apply. (Credit: Freepik)</span></p>
-<p><span style="font-weight: 400;">As an <a href="https://micepad.co/blog/event-management-software-for-event-planners">event planner,</a> you might be wondering why organising training workshops should be on your radar. Well, hosting these workshops can help you create meaningful experiences that drive real results to meet your <a href="https://micepad.co/blog/event-roi">event ROI</a>. Here’s why you should consider making training workshops a key part of your event lineup:</span></p>
+<p><span style="font-weight: 400;">As an <a href="/blog/event-management-software-for-event-planners">event planner,</a> you might be wondering why organising training workshops should be on your radar. Well, hosting these workshops can help you create meaningful experiences that drive real results to meet your <a href="/blog/event-roi">event ROI</a>. Here’s why you should consider making training workshops a key part of your event lineup:</span></p>
 <h4><b>1. Empower Your Attendees with New Skills</b></h4>
 <p><span style="font-weight: 400;">Training workshops are fantastic for helping attendees gain new skills and knowledge. When you host a training workshop, you’re giving participants the chance to learn something valuable in a structured, hands-on environment.</span></p>
 <p><span style="font-weight: 400;">Your event not only delivers valuable insights from speakers to attendees but also enhances their abilities, ensuring they leave with practical skills they can apply right away. Whether it’s a new software tool, a management technique, or a creative skill, your workshop can be the gateway to their next big achievement. </span></p>
@@ -215,7 +215,7 @@
 <p>If you’re ready to streamline your event check-in process and elevate your guest experience, then you’re in the right place! Let’s dive into our curated list of the 15 best check-in apps.</p>
 <h2>1. Micepad</h2>
 <p><img loading="lazy" decoding="async" class="wp-image-6986 size-full aligncenter" src="https://micepad.co/wp-content/uploads/2024/08/Flexible-registration-for-last-minute-changes.png" alt="Flexible-registration-for-last-minute-changes with micepad" width="1276" height="808" srcset="https://micepad.co/wp-content/uploads/2024/08/Flexible-registration-for-last-minute-changes.png 1276w, https://micepad.co/wp-content/uploads/2024/08/Flexible-registration-for-last-minute-changes-300x190.png 300w, https://micepad.co/wp-content/uploads/2024/08/Flexible-registration-for-last-minute-changes-1024x648.png 1024w, https://micepad.co/wp-content/uploads/2024/08/Flexible-registration-for-last-minute-changes-768x486.png 768w, https://micepad.co/wp-content/uploads/2024/08/Flexible-registration-for-last-minute-changes-650x412.png 650w" sizes="(max-width: 1276px) 100vw, 1276px" /></p>
-<p><a href="https://micepad.co">Micepad</a> is an <a href="https://micepad.co/products">event management software</a> that offers a user-friendly <a href="https://micepad.co/products/check-in-app">check-in app</a>. It’s designed to simplify the check-in process for both attendees and event organisers. By focusing on efficient data capture and analysis, Micepad helps ensure a smooth and organised event experience.</p>
+<p><a href="https://micepad.co">Micepad</a> is an <a href="/products">event management software</a> that offers a user-friendly <a href="/products/check-in-app">check-in app</a>. It’s designed to simplify the check-in process for both attendees and event organisers. By focusing on efficient data capture and analysis, Micepad helps ensure a smooth and organised event experience.</p>
 <h3>Key Features</h3>
 <ul>
 <li><strong>Self-Service Check-In</strong><br />
@@ -240,10 +240,10 @@ Register new guests effortlessly using customisable forms on iPads or any device
 </ul>
 <h3>Pricing</h3>
 <p>Pricing details are available by request and are customised to fit the specific needs of your event, ensuring you get the best value for your requirements. If you’re ready to enhance your event check-in experience with Micepad, get in touch to request a demo and see how it can transform your event management process.</p>
-<p><a href="https://micepad.co/products/check-in-app"><img loading="lazy" decoding="async" class="alignnone wp-image-6440 size-full" src="https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App.png" alt="Micepad - Check-in and Attendance Tracking App" width="1030" height="200" srcset="https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App.png 1030w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-300x58.png 300w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-1024x199.png 1024w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-768x149.png 768w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-650x126.png 650w" sizes="(max-width: 1030px) 100vw, 1030px" /></a></p>
+<p><a href="/products/check-in-app"><img loading="lazy" decoding="async" class="alignnone wp-image-6440 size-full" src="https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App.png" alt="Micepad - Check-in and Attendance Tracking App" width="1030" height="200" srcset="https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App.png 1030w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-300x58.png 300w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-1024x199.png 1024w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-768x149.png 768w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-650x126.png 650w" sizes="(max-width: 1030px) 100vw, 1030px" /></a></p>
 <h2>2. vFairs</h2>
 <p><img loading="lazy" decoding="async" class="wp-image-6997 aligncenter" src="https://micepad.co/wp-content/uploads/2024/08/vfairs.png" alt="vfairs" width="875" height="645" srcset="https://micepad.co/wp-content/uploads/2024/08/vfairs.png 760w, https://micepad.co/wp-content/uploads/2024/08/vfairs-300x221.png 300w, https://micepad.co/wp-content/uploads/2024/08/vfairs-650x479.png 650w" sizes="(max-width: 875px) 100vw, 875px" /></p>
-<p>vFairs is an all-in-one event management platform that excels in supporting hybrid and onsite events with a highly functional mobile app. Since its inception in 2012, this modular <a href="https://micepad.co/blog/what-is-event-technology-trends">event technology</a> platform has been instrumental in helping organisations manage various types of events, including conferences, trade shows, and hiring events.</p>
+<p>vFairs is an all-in-one event management platform that excels in supporting hybrid and onsite events with a highly functional mobile app. Since its inception in 2012, this modular <a href="/blog/what-is-event-technology-trends">event technology</a> platform has been instrumental in helping organisations manage various types of events, including conferences, trade shows, and hiring events.</p>
 <h3>Key Features</h3>
 <ul>
 <li><strong>QR-Based Event Check-In</strong><br />
@@ -289,7 +289,7 @@ Keeping track of attendance and accessing vital event data can be challenging du
 </table>
 <h2>3. Eventify</h2>
 <p><img loading="lazy" decoding="async" class="wp-image-6996 size-full aligncenter" src="https://micepad.co/wp-content/uploads/2024/08/eventify.jpg" alt="eventify" width="1000" height="590" srcset="https://micepad.co/wp-content/uploads/2024/08/eventify.jpg 1000w, https://micepad.co/wp-content/uploads/2024/08/eventify-300x177.jpg 300w, https://micepad.co/wp-content/uploads/2024/08/eventify-768x453.jpg 768w, https://micepad.co/wp-content/uploads/2024/08/eventify-650x384.jpg 650w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
-<p>Eventify is a cloud-based event management tool designed to help businesses manage <a href="https://micepad.co/blog/mobile-event-apps-and-conferences">virtual conferences</a> and create customised experiences for their attendees. By automating the <a href="https://micepad.co/blog/event-registration-software-recommendation">registration process</a>, Eventify makes it easy, fast, and enjoyable, leading to improved and quicker sign-ups.</p>
+<p>Eventify is a cloud-based event management tool designed to help businesses manage <a href="/blog/mobile-event-apps-and-conferences">virtual conferences</a> and create customised experiences for their attendees. By automating the <a href="/blog/event-registration-software-recommendation">registration process</a>, Eventify makes it easy, fast, and enjoyable, leading to improved and quicker sign-ups.</p>
 <h3>Key Features</h3>
 <ul>
 <li><strong>Customisable Registration Forms</strong><br />
@@ -352,7 +352,7 @@ Understanding your attendees is key to delivering a custom and unique experience
 <p>&nbsp;</p>
 <h2>5. Whova</h2>
 <p><img loading="lazy" decoding="async" class="alignnone wp-image-6994 size-full" src="https://micepad.co/wp-content/uploads/2024/08/whova.png" alt="whova" width="1236" height="1000" srcset="https://micepad.co/wp-content/uploads/2024/08/whova.png 1236w, https://micepad.co/wp-content/uploads/2024/08/whova-300x243.png 300w, https://micepad.co/wp-content/uploads/2024/08/whova-1024x828.png 1024w, https://micepad.co/wp-content/uploads/2024/08/whova-768x621.png 768w, https://micepad.co/wp-content/uploads/2024/08/whova-650x526.png 650w" sizes="(max-width: 1236px) 100vw, 1236px" /></p>
-<p>Whova is your go-to all-in-one event management solution, making your events modern and engaging while saving you time on logistics. With Whova, you get an event app, efficient <a href="https://micepad.co/products/online-event-registration-software">online registration,</a> powerful event marketing, and a suite of time-saving tools.</p>
+<p>Whova is your go-to all-in-one event management solution, making your events modern and engaging while saving you time on logistics. With Whova, you get an event app, efficient <a href="/products/online-event-registration-software">online registration,</a> powerful event marketing, and a suite of time-saving tools.</p>
 <h3>Key Features</h3>
 <ul>
 <li><strong>Customisable Dashboard</strong><br />
@@ -409,7 +409,7 @@ Whova provides real-time tracking of event schedules and attendee participation.
 <p>&nbsp;</p>
 <h2>7. Certain Check-In</h2>
 <p><img loading="lazy" decoding="async" class="alignnone wp-image-6992 size-full" src="https://micepad.co/wp-content/uploads/2024/08/certain-check-in.png" alt="certain check in" width="1599" height="820" srcset="https://micepad.co/wp-content/uploads/2024/08/certain-check-in.png 1599w, https://micepad.co/wp-content/uploads/2024/08/certain-check-in-300x154.png 300w, https://micepad.co/wp-content/uploads/2024/08/certain-check-in-1024x525.png 1024w, https://micepad.co/wp-content/uploads/2024/08/certain-check-in-768x394.png 768w, https://micepad.co/wp-content/uploads/2024/08/certain-check-in-1536x788.png 1536w, https://micepad.co/wp-content/uploads/2024/08/certain-check-in-650x333.png 650w" sizes="(max-width: 1599px) 100vw, 1599px" /></p>
-<p>Certain offers a comprehensive <a href="https://micepad.co/products/check-in-app">check-in software</a> tool that integrates seamlessly with a complete <a href="https://micepad.co/">event management</a> solution. From registration to check-in, engagement, data capture, and follow-up, Certain Check-In covers every aspect. Their event-building capabilities enable you to create customised events quickly and easily.</p>
+<p>Certain offers a comprehensive <a href="/products/check-in-app">check-in software</a> tool that integrates seamlessly with a complete <a href="/">event management</a> solution. From registration to check-in, engagement, data capture, and follow-up, Certain Check-In covers every aspect. Their event-building capabilities enable you to create customised events quickly and easily.</p>
 <h3>Key Features</h3>
 <ul>
 <li><strong>Multi-functional dashboard:</strong> Manage all aspects of your event from a single, intuitive interface.</li>
@@ -651,7 +651,7 @@ Whova provides real-time tracking of event schedules and attendee participation.
 <p>Eventdex offers flexible pricing with no long-term contracts, no setup fees, no cancellation fees, and no hidden costs. To find the best package for your needs, you need to talk to their customer support.</p>
 <h2>13. Stova</h2>
 <p><img loading="lazy" decoding="async" class="alignnone wp-image-6988 size-full" src="https://micepad.co/wp-content/uploads/2024/08/stova.png" alt="stova" width="1526" height="1246" srcset="https://micepad.co/wp-content/uploads/2024/08/stova.png 1526w, https://micepad.co/wp-content/uploads/2024/08/stova-300x245.png 300w, https://micepad.co/wp-content/uploads/2024/08/stova-1024x836.png 1024w, https://micepad.co/wp-content/uploads/2024/08/stova-768x627.png 768w, https://micepad.co/wp-content/uploads/2024/08/stova-650x531.png 650w" sizes="(max-width: 1526px) 100vw, 1526px" /></p>
-<p>Stova&#8217;s <a href="https://micepad.co/products/mobile-event-app">mobile app</a> simplifies event check-ins while offering a suite of tools for information, navigation, networking, and engagement. The platform supports onsite check-in through the app, although users have reported difficulties with payment integrations, particularly when using PayPal.</p>
+<p>Stova&#8217;s <a href="/products/mobile-event-app">mobile app</a> simplifies event check-ins while offering a suite of tools for information, navigation, networking, and engagement. The platform supports onsite check-in through the app, although users have reported difficulties with payment integrations, particularly when using PayPal.</p>
 <h3>Key Features</h3>
 <ul>
 <li><strong>QR-Based Check-In:</strong> Attendees can access the event site seamlessly with contactless onsite check-in using unique QR codes.</li>
@@ -778,7 +778,7 @@ Whova provides real-time tracking of event schedules and attendee participation.
 <p>&nbsp;</p>
 <p>While many free check-in apps are a great starting point, they often come with limited features for managing your event. It’s a good idea to try these options first to get a feel for how they work before deciding on a subscription or upgrading to a paid package.</p>
 <p>If you’re looking for a solution that covers all your check-in needs and more, Micepad has got you covered. Micepad offers comprehensive check-in app features to help you manage your event from start to finish, ensuring a smooth experience for you and your attendees. Ready to take your event to the next level? Request a demo and see how Micepad can make your event management a breeze!</p>
-<p><strong><a href="https://micepad.co/products/check-in-app"><img loading="lazy" decoding="async" class="alignnone wp-image-6440 size-full" src="https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App.png" alt="Micepad - Check-in and Attendance Tracking App" width="1030" height="200" srcset="https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App.png 1030w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-300x58.png 300w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-1024x199.png 1024w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-768x149.png 768w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-650x126.png 650w" sizes="(max-width: 1030px) 100vw, 1030px" /></a></strong></p>
+<p><strong><a href="/products/check-in-app"><img loading="lazy" decoding="async" class="alignnone wp-image-6440 size-full" src="https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App.png" alt="Micepad - Check-in and Attendance Tracking App" width="1030" height="200" srcset="https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App.png 1030w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-300x58.png 300w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-1024x199.png 1024w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-768x149.png 768w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Check-in-and-Attendance-Tracking-App-650x126.png 650w" sizes="(max-width: 1030px) 100vw, 1030px" /></a></strong></p>
 ]]></content:encoded>
 					
 		
@@ -798,7 +798,7 @@ Whova provides real-time tracking of event schedules and attendee participation.
 
 					<description><![CDATA[Sometime ago, we discussed the various reasons why you should create an event app for your next set of events. Here, you can [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Sometime ago, we discussed the various reasons <a href="https://micepad.co/blog/7-reasons-why-your-business-should-use-event-management-software" target="_blank" rel="noreferrer noopener">why you should create an event app for your next set of events</a>. Here, you can choose to create standalone apps for each event or pick event app features that can be used to host diverse events.</p>
+<p>Sometime ago, we discussed the various reasons <a href="/blog/7-reasons-why-your-business-should-use-event-management-software" target="_blank" rel="noreferrer noopener">why you should create an event app for your next set of events</a>. Here, you can choose to create standalone apps for each event or pick event app features that can be used to host diverse events.</p>
 
 
 
@@ -888,7 +888,7 @@ Whova provides real-time tracking of event schedules and attendee participation.
 
 
 
-<p>Not only do organisers get important information to provide a more personalised experience to their guests, they get to reach out and make a better impression by expressing interest in the other party. Additionally, it becomes possible to track each user’s interaction through the <a href="https://micepad.co/products/online-event-registration-software">event registration app</a>, measure engagement levees and offer tweaks to the event to better the personal experience.</p>
+<p>Not only do organisers get important information to provide a more personalised experience to their guests, they get to reach out and make a better impression by expressing interest in the other party. Additionally, it becomes possible to track each user’s interaction through the <a href="/products/online-event-registration-software">event registration app</a>, measure engagement levees and offer tweaks to the event to better the personal experience.</p>
 
 
 
@@ -904,7 +904,7 @@ Whova provides real-time tracking of event schedules and attendee participation.
 
 
 
-<p>With <a href="https://micepad.co/">Micepad</a>, not only can you add several days&#8217; worth of itinerary and scheduling, you can also separate attendees into different breakout groups (only the breakout group that they will be attending will be visible on their agenda), and attach the speakers&#8217; slides to the particular session!</p>
+<p>With <a href="/">Micepad</a>, not only can you add several days&#8217; worth of itinerary and scheduling, you can also separate attendees into different breakout groups (only the breakout group that they will be attending will be visible on their agenda), and attach the speakers&#8217; slides to the particular session!</p>
 
 
 
@@ -948,7 +948,7 @@ Whova provides real-time tracking of event schedules and attendee participation.
 
 
 
-<p>All of these can be best communicated by sending a quick push notification through the <a href="https://micepad.co/products">event app</a>. Not only is this easy and timely, but the best part is that you don&#8217;t have to track down all your attendees or make repeated announcements!</p>
+<p>All of these can be best communicated by sending a quick push notification through the <a href="/products">event app</a>. Not only is this easy and timely, but the best part is that you don&#8217;t have to track down all your attendees or make repeated announcements!</p>
 
 
 
@@ -976,7 +976,7 @@ Whova provides real-time tracking of event schedules and attendee participation.
 
 
 
-<p>While this is not a must, adding a networking feature will go a long way in boosting the <a href="https://micepad.co/blog/enhances-audience-engagement-with-event-app" data-type="post" data-id="6423">audience engagement</a> at your event. Instead of leaving attendees to network the traditional way, allow them to connect with people of like interests via forums, discussions, and chats right there from within the app. There are various ways to setup your business matching module:</p>
+<p>While this is not a must, adding a networking feature will go a long way in boosting the <a href="/blog/enhances-audience-engagement-with-event-app" data-type="post" data-id="6423">audience engagement</a> at your event. Instead of leaving attendees to network the traditional way, allow them to connect with people of like interests via forums, discussions, and chats right there from within the app. There are various ways to setup your business matching module:</p>
 
 
 
@@ -1006,7 +1006,7 @@ Whova provides real-time tracking of event schedules and attendee participation.
 
 
 
-<p>Not only is it essential for event planners to get continuous feedback to improve on the next time, it is also one of the metrics for calculating and <a href="https://micepad.co/blog/how-to-maximize-event-roi" data-type="post" data-id="6712">maximizing ROI</a> and justifying the event to the various stakeholders.</p>
+<p>Not only is it essential for event planners to get continuous feedback to improve on the next time, it is also one of the metrics for calculating and <a href="/blog/how-to-maximize-event-roi" data-type="post" data-id="6712">maximizing ROI</a> and justifying the event to the various stakeholders.</p>
 
 
 
@@ -1114,7 +1114,7 @@ Whova provides real-time tracking of event schedules and attendee participation.
 
 
 
-<p><a href="https://micepad.co/">Micepad</a> offers a comprehensive suite of features that cover every phase of your event, from planning to execution and beyond. With tools like simultaneous Interpretation, customizable exhibitor pages, private chats, up-to-date event guides, interactive Q&amp;A displays, stylish email invitations, global live streaming, and powerful analytics, Micepad ensures your event runs smoothly and keeps your attendees engaged. </p>
+<p><a href="/">Micepad</a> offers a comprehensive suite of features that cover every phase of your event, from planning to execution and beyond. With tools like simultaneous Interpretation, customizable exhibitor pages, private chats, up-to-date event guides, interactive Q&amp;A displays, stylish email invitations, global live streaming, and powerful analytics, Micepad ensures your event runs smoothly and keeps your attendees engaged. </p>
 
 
 
@@ -1122,7 +1122,7 @@ Whova provides real-time tracking of event schedules and attendee participation.
 
 
 
-<figure class="wp-block-image size-large"><a href="https://micepad.co/products/"><img loading="lazy" decoding="async" width="1024" height="199" src="https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App-1024x199.png" alt="Micepad - Event Management App" class="wp-image-6442" srcset="https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App-1024x199.png 1024w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App-300x58.png 300w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App-768x149.png 768w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App-650x126.png 650w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App.png 1030w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/products/"><img loading="lazy" decoding="async" width="1024" height="199" src="https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App-1024x199.png" alt="Micepad - Event Management App" class="wp-image-6442" srcset="https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App-1024x199.png 1024w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App-300x58.png 300w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App-768x149.png 768w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App-650x126.png 650w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-App.png 1030w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 ]]></content:encoded>
 					
 		
@@ -1142,11 +1142,11 @@ Whova provides real-time tracking of event schedules and attendee participation.
 		<guid isPermaLink="false">https://micepad.co/?p=6483</guid>
 
 					<description><![CDATA[If you organise events frequently, event apps should not be new to you. Event apps help organisers digitise all of their event [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>If you organise events frequently, <a href="https://micepad.co/" data-type="link" data-id="https://micepad.co/">event apps</a> should not be new to you. Event apps help organisers digitise all of their <a href="https://micepad.co/blog/event-planning-challenges-and-solutions">event planning</a> processes from registration to uploading of agenda, content, delegates listing and so on. More importantly, it synchronises the work across all your fellow organisers to keep everyone in the loop.</p>
+										<content:encoded><![CDATA[<p>If you organise events frequently, <a href="/" data-type="link" data-id="https://micepad.co/">event apps</a> should not be new to you. Event apps help organisers digitise all of their <a href="/blog/event-planning-challenges-and-solutions">event planning</a> processes from registration to uploading of agenda, content, delegates listing and so on. More importantly, it synchronises the work across all your fellow organisers to keep everyone in the loop.</p>
 <h2>TL;DR</h2>
-<p>A digital event platform (DEP) transforms traditional gatherings into engaging online experiences, facilitating webinars, <a href="https://micepad.co/blog/mobile-event-apps-and-conferences">virtual conferences</a>, business meetings and social events worldwide. Digital event platforms enhance productivity with:</p>
+<p>A digital event platform (DEP) transforms traditional gatherings into engaging online experiences, facilitating webinars, <a href="/blog/mobile-event-apps-and-conferences">virtual conferences</a>, business meetings and social events worldwide. Digital event platforms enhance productivity with:</p>
 <ol>
-<li>Automated <a href="https://micepad.co/blog/event-registration">registration</a> and <a href="https://micepad.co/blog/event-check-in">check-in processes</a>.</li>
+<li>Automated <a href="/blog/event-registration">registration</a> and <a href="/blog/event-check-in">check-in processes</a>.</li>
 <li>Provide a centralized information library and streamline content management.</li>
 <li>Increase attendee participation through interactive features and real-time engagement.</li>
 <li>Reap a robust data collection for post-event evaluation and continuous improvement</li>
@@ -1154,16 +1154,16 @@ Whova provides real-time tracking of event schedules and attendee participation.
 </ol>
 <h2>What Is A Digital Event Platform?</h2>
 <p>A digital event, often facilitated by a digital event platform (DEP), transforms traditional in-person gatherings into interactive online experiences. These platforms are designed to recreate the lively atmosphere of physical events centered in one virtual space. They cover a range of online experiences such as webinars, virtual conferences, and social gatherings, where attendees can join from anywhere in the world.</p>
-<p>Most digital event platforms offer tools for managing agendas, handling <a href="https://micepad.co/products/online-event-registration-software">event registrations</a>, presenting video content, engaging with the audience, and analyzing participation. With the surge in popularity, especially during recent times, digital events break down geographical barriers, allowing people worldwide to connect in real time from the comfort of their homes.</p>
+<p>Most digital event platforms offer tools for managing agendas, handling <a href="/products/online-event-registration-software">event registrations</a>, presenting video content, engaging with the audience, and analyzing participation. With the surge in popularity, especially during recent times, digital events break down geographical barriers, allowing people worldwide to connect in real time from the comfort of their homes.</p>
 <h2>Why Your Next Event Should Go Digital</h2>
 <p>Here are the top 5 reasons to digitise your event for increased productivity.</p>
 <h3>1. Automated Registration Check-In</h3>
-<p>The last thing you want to do for <a href="https://sgpad.com/event-registration/">event registration</a> is to go through your guest lists, filter your guests accordingly and send out a personalised email one by one. This is super time-consuming. I believe you would agree with me that automating this process can increase your productivity. On the event day, your guests can even scan their QR code to self-check-in. More importantly, they can complete the <a href="https://micepad.co/blog/online-event-registration">registration process</a> and proceed to the hall within a few minutes.</p>
+<p>The last thing you want to do for <a href="https://sgpad.com/event-registration/">event registration</a> is to go through your guest lists, filter your guests accordingly and send out a personalised email one by one. This is super time-consuming. I believe you would agree with me that automating this process can increase your productivity. On the event day, your guests can even scan their QR code to self-check-in. More importantly, they can complete the <a href="/blog/online-event-registration">registration process</a> and proceed to the hall within a few minutes.</p>
 <h3>2. Information Library</h3>
 <p>Your attendees need to know about your event information. Having a digital copy of everything provides so much convenience for everyone. The app stores all your content from session schedules to delegate listing, venue map and other important documents. Aside from having a digital copy, you get to save a lot of printing costs!</p>
-<p>If you organise events frequently, <a href="https://micepad.co/products/mobile-event-app">mobile event apps</a> should not be new to you. Event apps help organisers digitise all of their planning processes from registration to uploading of agenda, content, delegates listing and so on. More importantly, it synchronises the work across all your fellow organisers to keep everyone in the loop.</p>
+<p>If you organise events frequently, <a href="/products/mobile-event-app">mobile event apps</a> should not be new to you. Event apps help organisers digitise all of their planning processes from registration to uploading of agenda, content, delegates listing and so on. More importantly, it synchronises the work across all your fellow organisers to keep everyone in the loop.</p>
 <h3>3. Content Management</h3>
-<p>For event organisers that require frequent updates, the ease of content management is important. At the minimum, the platform should be intuitive. The good thing about having an <a href="https://micepad.co/blog/how-event-app-can-reduce-event-costs">event app</a> is the ability to upload your last-minute changes in real-time. You can make the amendments and your attendees can be notified immediately.</p>
+<p>For event organisers that require frequent updates, the ease of content management is important. At the minimum, the platform should be intuitive. The good thing about having an <a href="/blog/how-event-app-can-reduce-event-costs">event app</a> is the ability to upload your last-minute changes in real-time. You can make the amendments and your attendees can be notified immediately.</p>
 <h3>4. Increase Your Participation Level</h3>
 <p>Who doesn’t want a participative audience? Event app helps increase the participation level of your attendees. For attendees who fear public speaking, they can ask a question anonymously through the event app. Your speakers can also grasp the attendees’ sentiments immediately through the real-time audience responses.</p>
 <h3>5. Data Collection</h3>
@@ -1173,14 +1173,14 @@ Whova provides real-time tracking of event schedules and attendee participation.
 <h3>7. Flexibility and Scalability</h3>
 <p>Digital platforms offer incredible flexibility, especially handy for hybrid events or large gatherings. You can easily adjust your agenda in real-time and accommodate guests from anywhere in the world. This flexibility means you can handle last-minute changes smoothly, whether it&#8217;s a speaker switch-up or a venue tweak. Choosing a robust event management software provider ensures you have the support to navigate these changes effortlessly, making your event management a breeze.</p>
 <h3>8. Extended Event Impact</h3>
-<p>Digital event platforms don’t just end when the event does—they keep your content alive long after. Your sessions can stay accessible online, giving sponsors and exhibitors more time to connect with attendees. This prolonged engagement boosts your <a href="https://micepad.co/blog/event-roi">event ROI</a> and keeps your messages resonating well beyond event day. For instance, offering on-demand sessions or creating content hubs keeps participants engaged and networking active even after the event wraps up.</p>
+<p>Digital event platforms don’t just end when the event does—they keep your content alive long after. Your sessions can stay accessible online, giving sponsors and exhibitors more time to connect with attendees. This prolonged engagement boosts your <a href="/blog/event-roi">event ROI</a> and keeps your messages resonating well beyond event day. For instance, offering on-demand sessions or creating content hubs keeps participants engaged and networking active even after the event wraps up.</p>
 <h3>9. Personalized Participant Experience</h3>
 <p>With digital tools, you can give attendees a truly customized experience. They can pick and choose sessions that match their interests and goals, making their time at your event more valuable. This personal touch enhances attendee satisfaction and ensures they get the most out of every moment. Best practices include using attendee profiles to suggest relevant sessions, interactive features for real-time feedback, and easy-to-navigate interfaces that put attendees in control.</p>
 <h3>10. Real-Time Engagement and Feedback</h3>
 <p>Digital agendas empower you to engage attendees instantly with live polls, Q&amp;A and surveys. This immediate interaction helps you gauge their reactions in real time and tweak things on the fly. For instance, incorporating live feedback during sessions ensures that you&#8217;re meeting participant expectations and adapting your event as it unfolds. This dynamic approach fosters a lively exchange between you and your attendees, making your event not just informative but also interactive and fun.</p>
-<p>By harnessing digital event management software, whether for <a href="https://micepad.co/products/virtual-event-platform">virtual events</a>, <a href="https://micepad.co/solutions/hybrid-events">hybrid events</a>, or in-person events, make sure that you’re creating an experience that’s seamless, engaging, and memorable.</p>
-<p>The critical decision you need to make before deciding on an event app is choosing the type of app that best fit your event objectives. Having a single app tailored from your pre-event to post-event provides a continual flow of your data collection. Request a demo today and see how <a href="https://micepad.co/">Micepad</a>’s seamless digital event app can make your next event truly unforgettable. Let’s make it happen together, shall we?</p>
-<p><a href="https://micepad.co/products"><img loading="lazy" decoding="async" width="1024" height="199" class="wp-image-6444" src="https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform-1024x199.png" alt="Micepad - Event Management Software App and Platform" srcset="https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform-1024x199.png 1024w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform-300x58.png 300w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform-768x149.png 768w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform-650x126.png 650w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform.png 1030w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>By harnessing digital event management software, whether for <a href="/products/virtual-event-platform">virtual events</a>, <a href="/solutions/hybrid-events">hybrid events</a>, or in-person events, make sure that you’re creating an experience that’s seamless, engaging, and memorable.</p>
+<p>The critical decision you need to make before deciding on an event app is choosing the type of app that best fit your event objectives. Having a single app tailored from your pre-event to post-event provides a continual flow of your data collection. Request a demo today and see how <a href="/">Micepad</a>’s seamless digital event app can make your next event truly unforgettable. Let’s make it happen together, shall we?</p>
+<p><a href="/products"><img loading="lazy" decoding="async" width="1024" height="199" class="wp-image-6444" src="https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform-1024x199.png" alt="Micepad - Event Management Software App and Platform" srcset="https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform-1024x199.png 1024w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform-300x58.png 300w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform-768x149.png 768w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform-650x126.png 650w, https://micepad.co/wp-content/uploads/2020/09/Micepad-Event-Management-Software-App-and-Platform.png 1030w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
 ]]></content:encoded>
 					
 		

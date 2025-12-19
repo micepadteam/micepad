@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Industry Insights &#8211; Micepad Hong Kong</title>
-	<atom:link href="https://micepad.co/hk/blog/category/all/industry-insights/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/hk/blog/category/all/industry-insights/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/hk</link>
 	<description>Enterprise Event Management Software and Event App</description>
 	<lastBuildDate>Thu, 07 Dec 2023 06:22:54 +0000</lastBuildDate>
@@ -147,7 +147,7 @@
 
 
 
-<li><strong>Registration and RSVP: </strong>Use event management platforms or dedicated apps to facilitate online registration and RSVP (<a href="https://micepad.co/blog/announcing-micepads-newest-rsvp-feature">https://micepad.co/blog/announcing-micepads-newest-rsvp-feature</a>). This not only ensures a smooth registration process but also helps in predicting the turnout.</li>
+<li><strong>Registration and RSVP: </strong>Use event management platforms or dedicated apps to facilitate online registration and RSVP (<a href="/blog/announcing-micepads-newest-rsvp-feature">https://micepad.co/blog/announcing-micepads-newest-rsvp-feature</a>). This not only ensures a smooth registration process but also helps in predicting the turnout.</li>
 
 
 
@@ -218,7 +218,7 @@
 
 
 
-<p><strong><em>Also read</em></strong><em>: How Check-In Rates Influence Event Success: Can You Beat Micepad’s 4-Second Record? (<a href="https://micepad.co/blog/how-check-in-rates-influence-event-success-can-you-beat-micepads-4-second-record)">https://micepad.co/blog/how-check-in-rates-influence-event-success-can-you-beat-micepads-4-second-record)</a></em></p>
+<p><strong><em>Also read</em></strong><em>: How Check-In Rates Influence Event Success: Can You Beat Micepad’s 4-Second Record? (<a href="/blog/how-check-in-rates-influence-event-success-can-you-beat-micepads-4-second-record)">https://micepad.co/blog/how-check-in-rates-influence-event-success-can-you-beat-micepads-4-second-record)</a></em></p>
 
 
 
@@ -463,7 +463,7 @@
 				</div>
 				<div class="elementor-element elementor-element-82b22a3 elementor-widget elementor-widget-text-editor" data-id="82b22a3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p dir="ltr">As we said, we will let the numbers do the talking.</p><p dir="ltr">From all you have seen, it is obvious that these <a href="https://micepad.co/hk/products/mobile-event-app" target="_blank" rel="noopener">event apps </a>are not given as much credit as they should be, that might be because those who are enjoying all the goodies it brings don’t want everyone to get in on it yet. </p><p dir="ltr">Now that you have seen the light in this piece of tech, what would you rather do?</p>								</div>
+									<p dir="ltr">As we said, we will let the numbers do the talking.</p><p dir="ltr">From all you have seen, it is obvious that these <a href="/hk/products/mobile-event-app" target="_blank" rel="noopener">event apps </a>are not given as much credit as they should be, that might be because those who are enjoying all the goodies it brings don’t want everyone to get in on it yet. </p><p dir="ltr">Now that you have seen the light in this piece of tech, what would you rather do?</p>								</div>
 				</div>
 					</div>
 		</div>

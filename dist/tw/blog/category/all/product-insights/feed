@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Product Insights &#8211; Micepad TW</title>
-	<atom:link href="https://micepad.co/tw/blog/category/all/product-insights/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/tw/blog/category/all/product-insights/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/tw</link>
 	<description>Enterprise Event App and Event Management Software</description>
 	<lastBuildDate>Tue, 29 Jun 2021 08:36:52 +0000</lastBuildDate>
@@ -426,7 +426,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-1b100a7 elementor-widget elementor-widget-text-editor" data-id="1b100a7" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<div class="thrv_wrapper thrv_text_element"><p class="tve-droppable">Sometime ago, we discussed the various reasons <a href="https://micepad.co/tw/blog/7-reasons-why-your-business-should-use-event-management-software" target="_blank" rel="noopener"><span style="color: #63c339;">why you should create an event app for your next set of events</span></a>. Here, you can choose to create standalone apps for each event or develop a branded app that can be used to host diverse events.</p><p class="tve-droppable" dir="ltr">If you are also interested in joining <a href="https://blog.bizzabo.com/event-apps-guide" target="_blank" rel="noopener"><span style="color: #63c339;">the league of 91% of marketers</span></a> who have seen a huge boost in ROI since they started using event apps, too, these are some of the features we believe are absolutely necessary for an event app.</p></div>								</div>
+									<div class="thrv_wrapper thrv_text_element"><p class="tve-droppable">Sometime ago, we discussed the various reasons <a href="/tw/blog/7-reasons-why-your-business-should-use-event-management-software" target="_blank" rel="noopener"><span style="color: #63c339;">why you should create an event app for your next set of events</span></a>. Here, you can choose to create standalone apps for each event or develop a branded app that can be used to host diverse events.</p><p class="tve-droppable" dir="ltr">If you are also interested in joining <a href="https://blog.bizzabo.com/event-apps-guide" target="_blank" rel="noopener"><span style="color: #63c339;">the league of 91% of marketers</span></a> who have seen a huge boost in ROI since they started using event apps, too, these are some of the features we believe are absolutely necessary for an event app.</p></div>								</div>
 				</div>
 				<div class="elementor-element elementor-element-3d68c95 elementor-widget elementor-widget-heading" data-id="3d68c95" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -692,7 +692,7 @@
 				</div>
 				<div class="elementor-element elementor-element-a4445f4 elementor-widget elementor-widget-text-editor" data-id="a4445f4" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Have you ever heard of crowdsourcing? The difference between formulating your own questions and crowdsourcing the most significant questions related to your event’s main topic, is the latter never fails to captivate genuine participation from your audience. After all, nothing speaks better to an event audience than a personalized and highly interactive event experience.</p><p>The creation of an audience <a href="https://micepad.co/tw/products/mobile-event-app"><span style="color: #63c339;">Q&amp;A and live polling in event apps</span></a> is perhaps one of the most revolutionizing things to ever happen to the event industry.</p><p>Adding a Live Polling and Q&amp;A Board feature in your event means handing your audience the reins of facilitating communication and engagement among fellow attendees. You provide them a strong voice that reflects their personal thoughts and experiences on your event’s key topics and objectives.</p>								</div>
+									<p>Have you ever heard of crowdsourcing? The difference between formulating your own questions and crowdsourcing the most significant questions related to your event’s main topic, is the latter never fails to captivate genuine participation from your audience. After all, nothing speaks better to an event audience than a personalized and highly interactive event experience.</p><p>The creation of an audience <a href="/tw/products/mobile-event-app"><span style="color: #63c339;">Q&amp;A and live polling in event apps</span></a> is perhaps one of the most revolutionizing things to ever happen to the event industry.</p><p>Adding a Live Polling and Q&amp;A Board feature in your event means handing your audience the reins of facilitating communication and engagement among fellow attendees. You provide them a strong voice that reflects their personal thoughts and experiences on your event’s key topics and objectives.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-9869cea elementor-widget elementor-widget-heading" data-id="9869cea" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -716,7 +716,7 @@
 				</div>
 				<div class="elementor-element elementor-element-f4af2ba elementor-widget elementor-widget-text-editor" data-id="f4af2ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>The secret to an industry’s continuous growth is rooted in how end-user feedback and contributions are valued. This makes Micepad’s mission to bring your content and your brand closer to your target audience through creating opportunities for open, comprehensive two-way communication.</p><p>Create an event that strongly speaks to your end-users! Employ Micepad’s <a href="https://micepad.co/tw/"><span style="color: #63c339;">audience engagement software</span></a> today. <a href="https://micepad.co/tw/contact-us"><span style="color: #63c339;">Click here for a FREE Demo.</span></a></p>								</div>
+									<p>The secret to an industry’s continuous growth is rooted in how end-user feedback and contributions are valued. This makes Micepad’s mission to bring your content and your brand closer to your target audience through creating opportunities for open, comprehensive two-way communication.</p><p>Create an event that strongly speaks to your end-users! Employ Micepad’s <a href="/tw/"><span style="color: #63c339;">audience engagement software</span></a> today. <a href="/tw/contact-us"><span style="color: #63c339;">Click here for a FREE Demo.</span></a></p>								</div>
 				</div>
 					</div>
 		</div>

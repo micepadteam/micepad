@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Launching The New V.8 Admin Panel	</title>
-	<atom:link href="https://micepad.co/blog/launching-the-new-v-8-admin-panel/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/launching-the-new-v-8-admin-panel/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/blog/launching-the-new-v-8-admin-panel</link>
 	<description>Enterprise Event App and Event Management Software</description>
 	<lastBuildDate>Mon, 28 Jun 2021 03:27:36 +0000</lastBuildDate>

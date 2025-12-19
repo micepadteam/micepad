@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Event News &#8211; Micepad</title>
-	<atom:link href="https://micepad.co/blog/category/all/event-news/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/category/all/event-news/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co</link>
 	<description>Enterprise Event App and Event Management Software</description>
 	<lastBuildDate>Mon, 16 Oct 2023 08:04:05 +0000</lastBuildDate>
@@ -132,7 +132,7 @@
 						<div class="elementor-element elementor-element-8e4daf2 elementor-widget elementor-widget-text-editor" data-id="8e4daf2" data-element_type="widget" data-widget_type="text-editor.default">
 									<p>Last minute changes? Even the most experienced event organisers will encounter this during an event. Pulling off a successful event requires countless hours of planning and detailed consideration but a small change is enough to ruin all the efforts.</p>
 <p>Personally, I have seen many speakers going up to the event organisers to update their slides minutes before going on the stage. Can you imagine the next few minutes? Yes, the organisers would be scrambling through their piles of papers to rectify these changes. Even so, it is almost impossible to rectify the changes on those printed collaterals.&nbsp;That said, it will be possible if you are managing your event digitally.</p>
-<p>Whether there is an overrun, change in venue or shift in schedule, an event app or&nbsp;<a href="https://micepad.co/products/mobile-event-app" target="_blank">mobile event app</a>&nbsp;can help you communicate these changes in a matter of seconds.</p>								</div>
+<p>Whether there is an overrun, change in venue or shift in schedule, an event app or&nbsp;<a href="/products/mobile-event-app" target="_blank">mobile event app</a>&nbsp;can help you communicate these changes in a matter of seconds.</p>								</div>
 				<div class="elementor-element elementor-element-349434b elementor-widget elementor-widget-heading" data-id="349434b" data-element_type="widget" data-widget_type="heading.default">
 					<h2 class="elementor-heading-title elementor-size-default">Updating Your Content Digitally</h2>				</div>
 				<div class="elementor-element elementor-element-00123b7 elementor-widget elementor-widget-text-editor" data-id="00123b7" data-element_type="widget" data-widget_type="text-editor.default">

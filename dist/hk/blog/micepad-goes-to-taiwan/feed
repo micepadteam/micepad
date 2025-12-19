@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Micepad Goes to Taiwan!	</title>
-	<atom:link href="https://micepad.co/hk/blog/micepad-goes-to-taiwan/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/hk/blog/micepad-goes-to-taiwan/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/hk/blog/micepad-goes-to-taiwan</link>
 	<description>Enterprise Event Management Software and Event App</description>
 	<lastBuildDate>Mon, 28 Jun 2021 05:44:10 +0000</lastBuildDate>

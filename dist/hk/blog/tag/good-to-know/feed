@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Good to know &#8211; Micepad Hong Kong</title>
-	<atom:link href="https://micepad.co/hk/blog/tag/good-to-know/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/hk/blog/tag/good-to-know/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/hk</link>
 	<description>Enterprise Event Management Software and Event App</description>
 	<lastBuildDate>Tue, 29 Jun 2021 06:52:36 +0000</lastBuildDate>
@@ -322,7 +322,7 @@ Business meetings and town hall events don’t always have to be implemented in 
 				</div>
 				<div class="elementor-element elementor-element-fe50db7 elementor-widget elementor-widget-text-editor" data-id="fe50db7" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									Micepad’s vision is to streamline and enhance events management through software solutions, including virtual and hybrid event experiences. Learn more about Micepad’s virtual events platform at <a href="https://micepad.co/hk/products/virtual-event-platform"><span style="color: #63C33A;">https://micepad.co/hk/products/virtual-event-platform.</span></a>								</div>
+									Micepad’s vision is to streamline and enhance events management through software solutions, including virtual and hybrid event experiences. Learn more about Micepad’s virtual events platform at <a href="/hk/products/virtual-event-platform"><span style="color: #63C33A;">https://micepad.co/hk/products/virtual-event-platform.</span></a>								</div>
 				</div>
 					</div>
 		</div>

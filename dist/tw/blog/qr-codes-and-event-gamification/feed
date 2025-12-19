@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: QR Codes and Event Gamification	</title>
-	<atom:link href="https://micepad.co/tw/blog/qr-codes-and-event-gamification/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/tw/blog/qr-codes-and-event-gamification/feed" rel="self" type="application/rss+xml" />
 	<link>https://micepad.co/tw/blog/qr-codes-and-event-gamification</link>
 	<description>Enterprise Event App and Event Management Software</description>
 	<lastBuildDate>Tue, 29 Jun 2021 03:10:00 +0000</lastBuildDate>
