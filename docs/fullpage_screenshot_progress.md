@@ -1,7 +1,7 @@
 # Full-Page Screenshot Comparison Progress
 
 Generated: 2024-12-17
-Updated: 2024-12-19 (First half main pages fixed - rocket loader + Swiper)
+Updated: 2024-12-19 (Fresh comparison run - hk.html/tw.html still need fix)
 
 ## Summary
 - Total Pages: 133
@@ -9,27 +9,26 @@ Updated: 2024-12-19 (First half main pages fixed - rocket loader + Swiper)
 - Production: 133/133 captured
 - Localhost: 133/133 captured (all working after fix)
 
-### Comparison Results
+### Comparison Results (Updated 2024-12-19)
 | Category              | Count | Description                      |
 |-----------------------|-------|----------------------------------|
-| Match (0-1%)          | 52    | Near identical                   |
-| Minor diff (1-5%)     | 32    | Small image/rendering variations |
-| Moderate diff (5-15%) | 32    | Noticeable differences           |
-| Major diff (>15%)     | 7     | ~~15~~ Reduced after fixes       |
-| Fixed                 | 164   | 156 blog dirs + 8 main pages     |
+| Match (0-1%)          | 58    | Near identical                   |
+| Minor diff (1-5%)     | 30    | Small image/rendering variations |
+| Moderate diff (5-15%) | 36    | Screenshot timing / lazy loading |
+| Major diff (>15%)     | 9     | Height mismatches / gray screens |
 
 ### Pages Needing Attention (>15% diff)
 | Page                    | Diff %  | Issue                              | Status |
 |-------------------------|---------|-------------------------------------|--------|
-| hk                      | 100.9%  | ~~Gray screen~~ Rocket loader      | **FIXED** |
-| tw                      | 100.0%  | ~~Gray screen~~ Rocket loader      | **FIXED** |
-| blog-virtual-agm        | 99.9%   | Directory listing (no index.html)  | **FIXED** |
-| contact-us              | 63.6%   | ~~Carousel blank~~ Swiper init     | **FIXED** |
-| blog                    | 55.0%   | Image loading timing               | **FIXED** (false positive) |
-| products-virtual-platform | 33.1% | ~~Carousel~~ Rocket loader+Swiper  | **FIXED** |
-| products-check-in-app   | 26.3%   | ~~JS blocked~~ Rocket loader       | **FIXED** |
-| products-mobile-event-app | 20.5% | ~~Carousel~~ Rocket loader+Swiper  | **FIXED** |
-| home                    | 18.7%   | Image loading timing               | **FIXED** (false positive) |
+| hk.html                 | 100.0%  | Gray screen - complex JS deps      | **NEEDS FIX** (hk/index.html works) |
+| tw.html                 | 100.0%  | Gray screen - complex JS deps      | **NEEDS FIX** (tw/index.html works) |
+| mobile-event-app        | 66.7%   | Height mismatch (carousel state)   | Swiper added, height varies |
+| contact-us              | 62.6%   | Height mismatch (carousel state)   | Swiper added, height varies |
+| blog                    | 59.8%   | Height mismatch                    | Content loads differently |
+| blog-online-registration| 59.8%   | Height mismatch (35471→15153)      | Needs investigation |
+| check-in-app            | 22.8%   | Height mismatch                    | Rocket loader fixed |
+| virtual-platform        | 21.6%   | Height mismatch                    | Swiper added |
+| home                    | 18.6%   | Minor height diff (29px)           | Carousel timing |
 
 ---
 
@@ -37,65 +36,66 @@ Updated: 2024-12-19 (First half main pages fixed - rocket loader + Swiper)
 
 | Page                | Path                                         | Diff %  | Status |
 |---------------------|----------------------------------------------|---------|--------|
-| HK Home             | /hk                                          | 100.9%  | **FIXED** - Rocket loader removed |
-| TW Home             | /tw                                          | 100.0%  | **FIXED** - Rocket loader removed |
-| Contact Us          | /contact-us                                  | 63.6%   | **FIXED** - Rocket loader + Swiper |
-| Blog                | /blog                                        | 55.0%   | **FIXED** - False positive |
-| Virtual Platform    | /products/virtual-event-platform             | 33.1%   | **FIXED** - Rocket loader + Swiper |
-| Check-in App        | /products/check-in-app                       | 26.3%   | **FIXED** - Rocket loader removed |
-| Mobile Event App    | /products/mobile-event-app                   | 20.5%   | **FIXED** - Rocket loader + Swiper |
-| Home                | /                                            | 18.7%   | **FIXED** - False positive |
-| Tradeshows          | /solutions/tradeshows-expos                  | 12.2%   | Needs fix |
-| Online Registration | /products/online-event-registration-software | 10.1%   | Needs fix |
-| Conferences         | /solutions/conferences-and-summits           | 9.4%    | Needs fix |
-| Hybrid Events       | /solutions/hybrid-events                     | 7.6%    | Needs fix |
-| Employee Engagement | /solutions/employee-engagement               | 7.2%    | Needs fix |
-| Seedly Case         | /customers/seedly-case-study                 | 6.8%    | Needs fix |
-| Community Meetups   | /solutions/community-meetups                 | 6.5%    | Needs fix |
+| HK Home             | /hk                                          | 100.0%  | **NEEDS FIX** - hk.html still gray (hk/index.html works) |
+| TW Home             | /tw                                          | 100.0%  | **NEEDS FIX** - tw.html still gray (tw/index.html works) |
+| Mobile Event App    | /products/mobile-event-app                   | 66.7%   | Height diff (5210→6062) - Swiper added |
+| Contact Us          | /contact-us                                  | 62.6%   | Height diff (10723→4271) - Swiper added |
+| Blog                | /blog                                        | 59.8%   | Height diff (4041→5019) |
+| Check-in App        | /products/check-in-app                       | 22.8%   | Height diff (5978→6686) - Rocket loader fixed |
+| Virtual Platform    | /products/virtual-event-platform             | 21.6%   | Height diff (7338→8066) - Swiper added |
+| Home                | /                                            | 18.6%   | Minor diff (10878→10907) |
+| Tradeshows          | /solutions/tradeshows-expos                  | 12.3%   | Screenshot timing |
+| Conferences         | /solutions/conferences-and-summits           | 9.4%    | Screenshot timing |
+| Hybrid Events       | /solutions/hybrid-events                     | 7.6%    | Height diff (5833→5827) |
+| Online Registration | /products/online-event-registration-software | 7.4%    | Height diff (5773→5767) |
+| Employee Engagement | /solutions/employee-engagement               | 7.2%    | Screenshot timing |
+| Seedly Case         | /customers/seedly-case-study                 | 6.8%    | Screenshot timing |
+| Community Meetups   | /solutions/community-meetups                 | 6.5%    | Screenshot timing |
 | Training Workshops  | /solutions/training-workshops                | 5.2%    | OK - screenshot timing |
 | Products            | /products                                    | 4.9%    | OK - screenshot timing |
 | About Us            | /about-us                                    | 4.4%    | OK - minor rendering |
-| Business Next Case  | /customers/business-next-case-study          | 0.9%    | OK - minor rendering |
-| Experian Case       | /customers/experian-case-study               | 0.6%    | OK - minor rendering |
-| PA Case             | /customers/pa-case-study                     | 0.6%    | OK - minor rendering |
-| MOE Case            | /customers/moe-case-study                    | 0.5%    | OK - minor rendering |
-| WeWork Case         | /customers/wework-case-study                 | 0.5%    | OK - minor rendering |
-| Pricing             | /pricing                                     | 0.4%    | OK - minor rendering |
+| Pricing             | /pricing                                     | 0.3%    | OK - minor rendering |
 | Euroasia Case       | /customers/euroasia-case-study               | 0.2%    | OK - minor rendering |
-| Customers           | /customers                                   | 0.1%    | OK - chat widget diff |
 | Privacy Policy      | /privacy-policy                              | 0.1%    | OK - chat widget diff |
 | Solutions           | /solutions                                   | 0.1%    | OK - chat widget diff |
 | Sitemap             | /sitemap                                     | 0.1%    | OK - chat widget diff |
 | Support Portal      | /thrivedesk-support-portal                   | 0.1%    | OK - chat widget diff |
 | Company News        | /company-news-blogs                          | 0.1%    | OK - chat widget diff |
 | Blog Test           | /blog-test                                   | 0.1%    | OK - chat widget diff |
+| Customers           | /customers                                   | 0.0%    | OK - perfect match |
+| Business Next Case  | /customers/business-next-case-study          | 0.0%    | OK - perfect match |
+| Experian Case       | /customers/experian-case-study               | 0.6%    | OK - minor rendering |
+| PA Case             | /customers/pa-case-study                     | 0.6%    | OK - minor rendering |
+| MOE Case            | /customers/moe-case-study                    | 0.5%    | OK - minor rendering |
+| WeWork Case         | /customers/wework-case-study                 | 0.5%    | OK - minor rendering |
 | Terms & Conditions  | /terms-conditions                            | 0.0%    | OK - perfect match |
 
 ---
 
-## Blog Posts
+## Blog Posts (Updated 2024-12-19)
 
 | Blog Post                           | Diff %  | Status |
 |-------------------------------------|---------|--------|
-| Virtual AGM Essentials              | 3.9%    | **FIXED** - was 99.9%, added index.html |
-| Reduce Event Costs                  | 1.9%    | **IMPROVED** - was 14.7% |
-| Planning Trends                     | 0.3%    | **IMPROVED** - was 13.4% |
-| Event App Features                  | 0.0%    | **FIXED** - was 10.4%, localized Google images |
-| Corporate Event Registration        | 0.0%    | **FIXED** - was 8.7% |
-| Brand Promotion Future              | 0.0%    | **FIXED** - was 8.6% |
+| Online Registration (long)          | 59.8%   | **NEEDS FIX** - Height mismatch (35471→15153) |
+| Reduce Event Costs                  | 14.7%   | Screenshot timing |
+| Event Technology                    | 12.7%   | Screenshot timing |
+| Networking Ideas                    | 11.9%   | Screenshot timing |
+| Audience Engagement App             | 11.9%   | Screenshot timing |
 | Event Digitization                  | 8.4%    | OK - screenshot timing |
+| Event Statistics                    | 8.0%    | OK - screenshot timing |
+| Boring Meeting Fix                  | 7.9%    | OK - screenshot timing |
+| Event Manager                       | 7.7%    | OK - screenshot timing |
+| RSVP Feature                        | 7.2%    | OK - screenshot timing |
+| Event Sponsorship                   | 7.2%    | OK - screenshot timing |
+| 5 Ways Reduce Costs                 | 7.1%    | OK - screenshot timing |
 | 3 New Virtual Event Features        | 6.9%    | OK - screenshot timing |
-| Event Registration                  | 0.0%    | **FIXED** - was 6.6% |
-| December Updates 2019               | 6.4%    | OK - screenshot timing |
+| Event Master Series                 | 6.8%    | OK - screenshot timing |
+| December Updates 2019               | 6.5%    | OK - screenshot timing |
 | Mobile App 2024                     | 6.4%    | **FIXED** - localized 8 Google images |
-| Personalisation Apps                | 6.4%    | OK - images identical (MD5 verified) |
-| Event Apps Stats                    | 6.3%    | OK - images identical (MD5 verified) |
-| 5 Sneaky Ways Innovative            | 6.0%    | OK - images identical (MD5 verified) |
-| Business Meeting                    | 5.9%    | OK - images identical (MD5 verified) |
+| Meeting Singapore                   | 6.4%    | OK - screenshot timing |
 | Conference Planning Checklist       | 5.7%    | OK - images identical (MD5 verified) |
-| Micepad Taiwan                      | 5.7%    | OK - images identical (MD5 verified) |
 | Event Marketing                     | 5.6%    | OK - images identical (MD5 verified) |
-| Live Streaming Integration          | 5.6%    | OK - images identical (MD5 verified) |
+| Corporate Event Registration        | 5.5%    | OK - screenshot timing |
 | Conference Checklist                | 5.5%    | OK - images identical (MD5 verified) |
 | Event Sponsorship                   | 4.8%    |
 | Digital Event Benefits              | 4.7%    |
