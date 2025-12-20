@@ -159,35 +159,25 @@
     display: flex !important;
     flex-direction: column !important;
 }
-/* Make the card use flexbox to push button to bottom */
-.elementor-6221 .elementor-element-dcf869c > .elementor-element-populated > .elementor-widget-wrap,
-.elementor-6221 .elementor-element-00285fe > .elementor-element-populated > .elementor-widget-wrap,
-.elementor-6221 .elementor-element-712d419 > .elementor-element-populated > .elementor-widget-wrap,
-.elementor-6221 .elementor-element-0620aa8 > .elementor-element-populated > .elementor-widget-wrap {
+/* Use flex with nowrap for price row */
+body .elementor-6221 .elementor-element-dcf869c > .elementor-element-populated > .elementor-widget-wrap,
+body .elementor-6221 .elementor-element-00285fe > .elementor-element-populated > .elementor-widget-wrap,
+body .elementor-6221 .elementor-element-712d419 > .elementor-element-populated > .elementor-widget-wrap,
+body .elementor-6221 .elementor-element-0620aa8 > .elementor-element-populated > .elementor-widget-wrap {
     display: flex !important;
-    flex-direction: row !important;
     flex-wrap: wrap !important;
-    flex: 1 !important;
     background: transparent !important;
-    align-content: flex-start !important;
-    align-items: baseline !important;
 }
 /* Make all widgets except auto-width ones take full width */
 .elementor-6221 .elementor-element-0c9281c .elementor-widget:not(.elementor-widget__width-auto) {
     width: 100% !important;
 }
-/* Make price and /event display inline */
-.elementor-6221 .elementor-element-5829fdb,
-.elementor-6221 .elementor-element-01246c0,
-.elementor-6221 .elementor-element-674208e,
-.elementor-6221 .elementor-element-0d32b6f,
-.elementor-6221 .elementor-element-784305a,
-.elementor-6221 .elementor-element-2ebfef1,
-.elementor-6221 .elementor-element-2619f84,
-.elementor-6221 .elementor-element-2c04561 {
-    display: inline-block !important;
+/* Style the price unit span */
+.price-unit {
+    font-size: 0.5em !important;
+    font-weight: normal !important;
+    color: #888 !important;
     vertical-align: baseline !important;
-    width: auto !important;
 }
 /* Apply border-radius to widget-wrap with highest specificity */
 .elementor-6221 .elementor-element.elementor-inner-column.elementor-element-dcf869c:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap.elementor-element-populated,
@@ -305,9 +295,7 @@
 						<div class="elementor-element elementor-element-5e3f151 elementor-widget elementor-widget-heading">
 					<h4 class="elementor-heading-title elementor-size-default">Event Guide</h4>				</div>
 				<div class="elementor-element elementor-element-5829fdb elementor-widget__width-auto elementor-widget elementor-widget-heading">
-					<h2 class="elementor-heading-title elementor-size-default">$697</h2>				</div>
-				<div class="elementor-element elementor-element-01246c0 elementor-widget__width-auto elementor-widget elementor-widget-text-editor">
-									<p>/event</p>								</div>
+					<h2 class="elementor-heading-title elementor-size-default">$697<span class="price-unit">/event</span></h2>				</div>
 				<div class="elementor-element elementor-element-4afce08 elementor-widget elementor-widget-text-editor">
 									</br></br>								</div>
 				<div class="elementor-element elementor-element-4d9567b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list">
@@ -350,9 +338,7 @@
 						<div class="elementor-element elementor-element-1271d6f elementor-widget elementor-widget-heading">
 					<h4 class="elementor-heading-title elementor-size-default">One Event App</h4>				</div>
 				<div class="elementor-element elementor-element-674208e elementor-widget__width-auto elementor-widget elementor-widget-heading">
-					<h2 class="elementor-heading-title elementor-size-default">$997</h2>				</div>
-				<div class="elementor-element elementor-element-0d32b6f elementor-widget__width-auto elementor-widget elementor-widget-text-editor">
-									<p>/event</p>								</div>
+					<h2 class="elementor-heading-title elementor-size-default">$997<span class="price-unit">/event</span></h2>				</div>
 				<div class="elementor-element elementor-element-effe8f0 elementor-widget elementor-widget-text-editor">
 									</br></br>								</div>
 				<div class="elementor-element elementor-element-c3b8f2e elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list">
@@ -391,9 +377,7 @@
 						<div class="elementor-element elementor-element-da4c195 elementor-widget elementor-widget-heading">
 					<h4 class="elementor-heading-title elementor-size-default">Multi-Event App</h4>				</div>
 				<div class="elementor-element elementor-element-784305a elementor-widget__width-auto elementor-widget elementor-widget-heading">
-					<h2 class="elementor-heading-title elementor-size-default">$1997</h2>				</div>
-				<div class="elementor-element elementor-element-2ebfef1 elementor-widget__width-auto elementor-widget elementor-widget-text-editor">
-									<p>/year</p>								</div>
+					<h2 class="elementor-heading-title elementor-size-default">$1997<span class="price-unit">/year</span></h2>				</div>
 				<div class="elementor-element elementor-element-1185248 elementor-widget elementor-widget-text-editor">
 									<p><span class="is-gray">+</span> $697<span class="is-gray">/event </span><span class="is-gray"><span class="is-small">(1st event included)</span></span></p>								</div>
 				<div class="elementor-element elementor-element-163e6b9 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list">
