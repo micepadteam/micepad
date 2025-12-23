@@ -1,3 +1,2 @@
 User-agent: *
-
-Sitemap: https://micepad.co/sitemap.xml
+Disallow: /
