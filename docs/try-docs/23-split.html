@@ -1,0 +1,44 @@
+---
+title: Split
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; background: #f5f5f5; }
+    header { background: #333; color: white; padding: 40px; text-align: center; }
+    .container { max-width: 1000px; margin: 40px auto; padding: 0 20px; }
+    .post { display: flex; margin-bottom: 30px; align-items: stretch; }
+    .post:nth-child(even) { flex-direction: row-reverse; }
+    .post-color { width: 8px; flex-shrink: 0; }
+    .post:nth-child(4n+1) .post-color { background: #667eea; }
+    .post:nth-child(4n+2) .post-color { background: #f093fb; }
+    .post:nth-child(4n+3) .post-color { background: #4facfe; }
+    .post:nth-child(4n+4) .post-color { background: #43e97b; }
+    .post-content { background: white; padding: 25px 30px; flex: 1; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+    .post:nth-child(even) .post-content { text-align: right; }
+    .post a { color: #333; text-decoration: none; font-size: 1.2rem; font-weight: 600; }
+    .post a:hover { color: #667eea; }
+    .post .date { color: #999; font-size: 0.85rem; margin-top: 8px; }
+  </style>
+</head>
+<body>
+  <header><h1>Blog</h1></header>
+  <div class="container">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
+    <div class="post">
+      <div class="post-color"></div>
+      <div class="post-content">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <div class="date">{{ post.date | date: "%B %d, %Y" }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+---
+title: Accordion
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; background: #f8f9fa; padding: 40px 20px; }
+    h1 { text-align: center; margin-bottom: 40px; color: #333; }
+    .container { max-width: 700px; margin: 0 auto; }
+    details { background: white; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+    summary { padding: 18px 20px; cursor: pointer; font-weight: 500; display: flex; justify-content: space-between; align-items: center; }
+    summary::-webkit-details-marker { display: none; }
+    summary::after { content: "+"; font-size: 1.5rem; color: #999; }
+    details[open] summary::after { content: "-"; }
+    details[open] summary { border-bottom: 1px solid #eee; }
+    .content { padding: 20px; color: #666; }
+    .content a { color: #667eea; text-decoration: none; }
+    .date { font-size: 0.85rem; color: #999; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Blog Posts</h1>
+  <div class="container">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
+    <details>
+      <summary>{{ post.title }}</summary>
+      <div class="content">
+        <p><a href="{{ post.url | relative_url }}">Read full article &rarr;</a></p>
+        <p class="date">Published: {{ post.date | date: "%B %d, %Y" }}</p>
+      </div>
+    </details>
+    {% endfor %}
+  </div>
+</body>
+</html>

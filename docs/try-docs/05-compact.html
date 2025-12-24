@@ -1,0 +1,88 @@
+---
+title: All Posts - Compact View
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "SF Mono", Monaco, "Cascadia Code", monospace;
+      font-size: 14px;
+      line-height: 1.5;
+      color: #24292f;
+      background: #fff;
+    }
+    header {
+      padding: 20px;
+      border-bottom: 1px solid #d0d7de;
+    }
+    header h1 { font-size: 1.2rem; font-weight: 600; }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th {
+      text-align: left;
+      padding: 8px 12px;
+      border-bottom: 1px solid #d0d7de;
+      font-weight: 600;
+      color: #57606a;
+      font-size: 12px;
+      text-transform: uppercase;
+    }
+    td {
+      padding: 10px 12px;
+      border-bottom: 1px solid #eaeef2;
+    }
+    tr:hover { background: #f6f8fa; }
+    .title a {
+      color: #0969da;
+      text-decoration: none;
+    }
+    .title a:hover { text-decoration: underline; }
+    .date {
+      color: #57606a;
+      white-space: nowrap;
+      width: 120px;
+    }
+    .idx {
+      color: #8c959f;
+      width: 40px;
+      text-align: right;
+    }
+  </style>
+</head>
+<body>
+  <header><h1>micepad/blog</h1></header>
+  <div class="container">
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Title</th>
+          <th>Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+        {% for post in sorted_posts %}
+        <tr>
+          <td class="idx">{{ forloop.index }}</td>
+          <td class="title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></td>
+          <td class="date">{{ post.date | date: "%Y-%m-%d" }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>

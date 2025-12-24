@@ -1,0 +1,44 @@
+---
+title: Sidebar
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; display: flex; min-height: 100vh; }
+    aside { width: 280px; background: #1a1a2e; color: white; padding: 30px; flex-shrink: 0; }
+    aside h1 { font-size: 1.3rem; margin-bottom: 30px; }
+    aside nav a { display: block; color: rgba(255,255,255,0.7); text-decoration: none; padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.1); }
+    aside nav a:hover { color: white; }
+    main { flex: 1; padding: 40px; background: #f8f9fa; }
+    .post { background: white; padding: 20px; margin-bottom: 15px; border-radius: 8px; }
+    .post a { color: #333; text-decoration: none; font-weight: 500; font-size: 1.1rem; }
+    .post a:hover { color: #667eea; }
+    .post .date { color: #999; font-size: 0.85rem; margin-top: 5px; }
+  </style>
+</head>
+<body>
+  <aside>
+    <h1>Micepad Blog</h1>
+    <nav>
+      <a href="#">All Posts</a>
+      <a href="#">Industry Insights</a>
+      <a href="#">Product Updates</a>
+      <a href="#">How-to Guides</a>
+    </nav>
+  </aside>
+  <main>
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
+    <div class="post">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <div class="date">{{ post.date | date: "%B %d, %Y" }}</div>
+    </div>
+    {% endfor %}
+  </main>
+</body>
+</html>

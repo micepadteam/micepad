@@ -1,7 +1,7 @@
 title: Micepad Blog
 description: Event management insights, tips, and product updates from Micepad
 url: "https://micepadteam.github.io"
-baseurl: "/micepad-static/docs"
+baseurl: "/micepad/docs"
 
 # Build settings
 markdown: kramdown

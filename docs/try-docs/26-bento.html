@@ -1,0 +1,38 @@
+---
+title: Bento
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; background: #0f0f0f; padding: 20px; min-height: 100vh; }
+    h1 { color: white; margin-bottom: 20px; padding: 20px; }
+    .bento { display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; max-width: 1200px; margin: 0 auto; }
+    .item { background: #1a1a1a; border-radius: 20px; padding: 25px; color: white; transition: transform 0.2s; }
+    .item:hover { transform: scale(1.02); }
+    .item:nth-child(1) { grid-column: span 2; grid-row: span 2; background: linear-gradient(135deg, #667eea, #764ba2); }
+    .item:nth-child(2) { grid-column: span 2; background: #2a2a2a; }
+    .item:nth-child(5) { grid-column: span 2; background: linear-gradient(135deg, #f093fb, #f5576c); }
+    .item a { color: white; text-decoration: none; font-weight: 600; font-size: 1rem; }
+    .item:nth-child(1) a { font-size: 1.5rem; }
+    .item .date { opacity: 0.7; font-size: 0.8rem; margin-top: 10px; }
+    @media (max-width: 800px) { .bento { grid-template-columns: repeat(2, 1fr); } .item:nth-child(1) { grid-column: span 2; } }
+  </style>
+</head>
+<body>
+  <h1>Blog</h1>
+  <div class="bento">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts limit: 20 %}
+    <div class="item">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <div class="date">{{ post.date | date: "%b %d, %Y" }}</div>
+    </div>
+    {% endfor %}
+  </div>
+</body>
+</html>

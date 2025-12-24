@@ -1,0 +1,56 @@
+---
+title: Hacker News
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: Verdana, Geneva, sans-serif; font-size: 10pt; background: #f6f6ef; }
+    header { background: #ff6600; padding: 2px 10px; display: flex; align-items: center; gap: 10px; }
+    header h1 { font-size: 10pt; font-weight: bold; }
+    header a { color: #000; text-decoration: none; }
+    .container { padding: 10px; }
+    table { width: 100%; border-collapse: collapse; }
+    .rank { color: #828282; text-align: right; padding-right: 5px; width: 30px; vertical-align: top; }
+    .arrow { color: #828282; cursor: pointer; }
+    .title { padding: 5px 0; }
+    .title a { color: #000; text-decoration: none; }
+    .title a:hover { text-decoration: underline; }
+    .sitebit { font-size: 8pt; color: #828282; }
+    .subtext { font-size: 8pt; color: #828282; padding-left: 35px; padding-bottom: 8px; }
+    .subtext a { color: #828282; text-decoration: none; }
+    .subtext a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1><a href="#">Y</a></h1>
+    <a href="#">Micepad Blog</a>
+  </header>
+  <div class="container">
+    <table>
+      {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+      {% for post in sorted_posts %}
+      <tr>
+        <td class="rank">{{ forloop.index }}.</td>
+        <td class="arrow">▲</td>
+        <td class="title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="sitebit">(micepad.co)</span>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"></td>
+        <td class="subtext">
+          {{ forloop.index | times: 8 }} points by <a href="#">micepad</a> {{ post.date | date: "%b %d, %Y" }} | <a href="#">{{ forloop.index | times: 2 }} comments</a>
+        </td>
+      </tr>
+      {% endfor %}
+    </table>
+  </div>
+</body>
+</html>

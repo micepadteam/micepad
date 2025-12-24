@@ -1,0 +1,43 @@
+---
+title: Retro
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    body { font-family: "Comic Sans MS", cursive; background: #ff6b6b; background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffcc00' fill-opacity='0.2'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); margin: 0; padding: 20px; }
+    .container { max-width: 800px; margin: 0 auto; background: #fff; border: 5px solid #000; padding: 20px; }
+    h1 { background: #ffcc00; color: #000; padding: 10px; text-align: center; font-size: 2rem; border: 3px solid #000; margin-bottom: 20px; }
+    marquee { background: #00ff00; padding: 5px; margin-bottom: 20px; font-weight: bold; }
+    hr { border: 2px dashed #ff00ff; margin: 15px 0; }
+    .post { padding: 10px; background: #e0e0e0; margin-bottom: 10px; border: 2px solid #000; }
+    .post a { color: #0000ff; font-weight: bold; }
+    .post a:hover { color: #ff00ff; }
+    .post .date { color: #666; font-size: 0.8rem; }
+    .counter { text-align: center; margin-top: 20px; font-size: 0.8rem; }
+    .counter img { vertical-align: middle; }
+    blink { animation: blink 1s infinite; }
+    @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>~*~ MICEPAD BLOG ~*~</h1>
+    <marquee>Welcome to my blog! Please sign my guestbook!</marquee>
+    <p style="text-align: center;"><blink>*** NEW POSTS ***</blink></p>
+    <hr>
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
+    <div class="post">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <div class="date">{{ post.date | date: "%m/%d/%Y" }}</div>
+    </div>
+    {% endfor %}
+    <hr>
+    <div class="counter">You are visitor #{{ site.posts | size }}420</div>
+  </div>
+</body>
+</html>

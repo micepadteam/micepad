@@ -1,0 +1,33 @@
+---
+title: Neumorphism
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; background: #e0e5ec; min-height: 100vh; padding: 40px 20px; }
+    h1 { text-align: center; color: #6d7b8d; margin-bottom: 40px; }
+    .container { max-width: 800px; margin: 0 auto; }
+    .card { background: #e0e5ec; border-radius: 20px; padding: 25px 30px; margin-bottom: 20px; box-shadow: 9px 9px 16px #b8bec7, -9px -9px 16px #ffffff; transition: all 0.3s; }
+    .card:hover { box-shadow: inset 9px 9px 16px #b8bec7, inset -9px -9px 16px #ffffff; }
+    .card a { color: #6d7b8d; text-decoration: none; font-size: 1.1rem; font-weight: 600; }
+    .card .date { color: #9ba5b1; font-size: 0.85rem; margin-top: 8px; }
+  </style>
+</head>
+<body>
+  <h1>Blog</h1>
+  <div class="container">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
+    <div class="card">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <div class="date">{{ post.date | date: "%B %d, %Y" }}</div>
+    </div>
+    {% endfor %}
+  </div>
+</body>
+</html>

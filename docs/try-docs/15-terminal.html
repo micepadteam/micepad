@@ -1,0 +1,41 @@
+---
+title: Terminal
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: "SF Mono", "Fira Code", monospace; background: #1e1e1e; color: #d4d4d4; padding: 20px; min-height: 100vh; }
+    .terminal { max-width: 900px; margin: 0 auto; }
+    .prompt { color: #569cd6; }
+    .command { color: #dcdcaa; }
+    h1 { color: #4ec9b0; margin-bottom: 20px; font-size: 1rem; font-weight: normal; }
+    h1::before { content: "# "; color: #608b4e; }
+    .post { padding: 3px 0; }
+    .post::before { content: "$ "; color: #569cd6; }
+    .post a { color: #ce9178; text-decoration: none; }
+    .post a:hover { text-decoration: underline; }
+    .post .date { color: #608b4e; margin-left: 10px; }
+    .post .date::before { content: "# "; }
+    .cursor { display: inline-block; width: 8px; height: 16px; background: #d4d4d4; animation: blink 1s infinite; }
+    @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+  </style>
+</head>
+<body>
+  <div class="terminal">
+    <h1>ls -la ~/blog/posts</h1>
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
+    <div class="post">
+      <a href="{{ post.url | relative_url }}">{{ post.title | slugify }}.md</a>
+      <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+    </div>
+    {% endfor %}
+    <p style="margin-top: 20px;"><span class="prompt">$</span> <span class="cursor"></span></p>
+  </div>
+</body>
+</html>

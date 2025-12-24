@@ -1,0 +1,37 @@
+---
+title: Glass
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; min-height: 100vh; background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 40px 20px; }
+    h1 { color: white; text-align: center; margin-bottom: 40px; font-size: 2.5rem; }
+    .container { max-width: 900px; margin: 0 auto; }
+    .glass { background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 30px; }
+    .post { padding: 15px 0; border-bottom: 1px solid rgba(255,255,255,0.1); }
+    .post:last-child { border-bottom: none; }
+    .post a { color: white; text-decoration: none; font-size: 1.1rem; font-weight: 500; }
+    .post a:hover { text-decoration: underline; }
+    .post .date { color: rgba(255,255,255,0.7); font-size: 0.85rem; margin-top: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Blog</h1>
+  <div class="container">
+    <div class="glass">
+      {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+      {% for post in sorted_posts %}
+      <div class="post">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <div class="date">{{ post.date | date: "%B %d, %Y" }}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</body>
+</html>

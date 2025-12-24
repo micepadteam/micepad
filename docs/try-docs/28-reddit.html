@@ -1,0 +1,49 @@
+---
+title: Reddit
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; background: #dae0e6; }
+    header { background: #1a1a1b; padding: 15px 20px; }
+    header h1 { color: white; font-size: 1.2rem; }
+    .container { max-width: 700px; margin: 20px auto; padding: 0 10px; }
+    .post { background: white; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 10px; display: flex; }
+    .post:hover { border-color: #898989; }
+    .votes { background: #f8f9fa; padding: 10px; text-align: center; width: 40px; border-radius: 4px 0 0 4px; }
+    .votes .score { font-weight: bold; color: #ff4500; }
+    .votes .arrow { color: #878a8c; cursor: pointer; }
+    .content { padding: 10px 15px; flex: 1; }
+    .content a { color: #222; text-decoration: none; font-weight: 500; font-size: 1.05rem; }
+    .content a:hover { text-decoration: underline; }
+    .meta { color: #787c7e; font-size: 0.75rem; margin-top: 8px; }
+    .meta a { color: #787c7e; }
+  </style>
+</head>
+<body>
+  <header><h1>r/micepad</h1></header>
+  <div class="container">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
+    <div class="post">
+      <div class="votes">
+        <div class="arrow">▲</div>
+        <div class="score">{{ forloop.index | times: 7 }}</div>
+        <div class="arrow">▼</div>
+      </div>
+      <div class="content">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <div class="meta">
+          submitted {{ post.date | date: "%b %d, %Y" }} by <a href="#">micepad</a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</body>
+</html>

@@ -1,0 +1,44 @@
+---
+title: Kanban
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; background: #0079bf; min-height: 100vh; padding: 20px; }
+    h1 { color: white; margin-bottom: 20px; }
+    .board { display: flex; gap: 15px; overflow-x: auto; padding-bottom: 20px; }
+    .column { background: #ebecf0; border-radius: 8px; width: 300px; flex-shrink: 0; max-height: 80vh; display: flex; flex-direction: column; }
+    .column-header { padding: 12px; font-weight: 600; color: #172b4d; }
+    .column-body { padding: 8px; overflow-y: auto; flex: 1; }
+    .card { background: white; border-radius: 4px; padding: 10px; margin-bottom: 8px; box-shadow: 0 1px 2px rgba(0,0,0,0.1); cursor: pointer; }
+    .card:hover { background: #f4f5f7; }
+    .card a { color: #172b4d; text-decoration: none; font-size: 0.9rem; }
+    .card .date { color: #5e6c84; font-size: 0.75rem; margin-top: 8px; }
+  </style>
+</head>
+<body>
+  <h1>Blog Board</h1>
+  <div class="board">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% assign posts_by_year = sorted_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in posts_by_year limit: 5 %}
+    <div class="column">
+      <div class="column-header">{{ year.name }}</div>
+      <div class="column-body">
+        {% for post in year.items %}
+        <div class="card">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <div class="date">{{ post.date | date: "%b %d" }}</div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</body>
+</html>

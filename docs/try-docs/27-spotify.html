@@ -1,0 +1,50 @@
+---
+title: Spotify
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; background: #121212; color: white; min-height: 100vh; }
+    header { padding: 30px; background: linear-gradient(180deg, #535353 0%, #121212 100%); }
+    header h1 { font-size: 3rem; margin-bottom: 10px; }
+    header p { color: #b3b3b3; }
+    .container { padding: 20px 30px; }
+    .track { display: flex; align-items: center; padding: 10px; border-radius: 4px; transition: background 0.2s; }
+    .track:hover { background: #282828; }
+    .track-num { width: 40px; color: #b3b3b3; font-size: 0.9rem; }
+    .track-cover { width: 40px; height: 40px; background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 4px; margin-right: 15px; }
+    .track:nth-child(3n) .track-cover { background: linear-gradient(135deg, #f093fb, #f5576c); }
+    .track:nth-child(3n+1) .track-cover { background: linear-gradient(135deg, #4facfe, #00f2fe); }
+    .track-info { flex: 1; }
+    .track-title a { color: white; text-decoration: none; font-weight: 500; }
+    .track-title a:hover { text-decoration: underline; }
+    .track-date { color: #b3b3b3; font-size: 0.85rem; }
+    .track-duration { color: #b3b3b3; font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Blog Playlist</h1>
+    <p>{{ site.posts | size }} articles</p>
+  </header>
+  <div class="container">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
+    <div class="track">
+      <div class="track-num">{{ forloop.index }}</div>
+      <div class="track-cover"></div>
+      <div class="track-info">
+        <div class="track-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+        <div class="track-date">{{ post.date | date: "%Y" }}</div>
+      </div>
+      <div class="track-duration">{{ post.date | date: "%b %d" }}</div>
+    </div>
+    {% endfor %}
+  </div>
+</body>
+</html>

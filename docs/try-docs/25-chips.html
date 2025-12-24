@@ -1,0 +1,36 @@
+---
+title: Chips
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; background: #1a1a2e; min-height: 100vh; padding: 40px 20px; }
+    h1 { color: white; text-align: center; margin-bottom: 40px; }
+    .container { max-width: 1000px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+    .chip { display: inline-block; padding: 12px 20px; border-radius: 50px; color: white; text-decoration: none; font-size: 0.9rem; transition: transform 0.2s, box-shadow 0.2s; }
+    .chip:hover { transform: scale(1.05); box-shadow: 0 5px 20px rgba(0,0,0,0.3); }
+    .chip:nth-child(8n+1) { background: #667eea; }
+    .chip:nth-child(8n+2) { background: #f093fb; }
+    .chip:nth-child(8n+3) { background: #4facfe; }
+    .chip:nth-child(8n+4) { background: #43e97b; }
+    .chip:nth-child(8n+5) { background: #fa709a; }
+    .chip:nth-child(8n+6) { background: #fee140; color: #333; }
+    .chip:nth-child(8n+7) { background: #30cfd0; }
+    .chip:nth-child(8n+8) { background: #a18cd1; }
+  </style>
+</head>
+<body>
+  <h1>Blog Posts</h1>
+  <div class="container">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
+    <a href="{{ post.url | relative_url }}" class="chip">{{ post.title | truncate: 40 }}</a>
+    {% endfor %}
+  </div>
+</body>
+</html>

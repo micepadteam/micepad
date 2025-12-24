@@ -1,0 +1,48 @@
+---
+title: Notion
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; background: #fff; color: #37352f; }
+    .page { max-width: 900px; margin: 0 auto; padding: 80px 40px; }
+    h1 { font-size: 2.5rem; font-weight: 700; margin-bottom: 30px; }
+    .database { border: 1px solid #e0e0e0; border-radius: 4px; }
+    .row { display: flex; border-bottom: 1px solid #e0e0e0; padding: 10px 15px; align-items: center; }
+    .row:last-child { border-bottom: none; }
+    .row:hover { background: #f7f6f3; }
+    .header { background: #f7f6f3; font-weight: 600; font-size: 0.85rem; color: #9b9a97; }
+    .col-title { flex: 3; }
+    .col-date { flex: 1; color: #9b9a97; font-size: 0.9rem; }
+    .col-status { flex: 1; }
+    .row a { color: #37352f; text-decoration: none; }
+    .row a:hover { text-decoration: underline; }
+    .status { display: inline-block; padding: 2px 8px; border-radius: 3px; font-size: 0.8rem; background: #e8f5e9; color: #2e7d32; }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <h1>Blog Posts</h1>
+    <div class="database">
+      <div class="row header">
+        <div class="col-title">Title</div>
+        <div class="col-date">Date</div>
+        <div class="col-status">Status</div>
+      </div>
+      {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+      {% for post in sorted_posts %}
+      <div class="row">
+        <div class="col-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+        <div class="col-date">{{ post.date | date: "%b %d, %Y" }}</div>
+        <div class="col-status"><span class="status">Published</span></div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</body>
+</html>

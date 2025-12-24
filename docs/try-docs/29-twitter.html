@@ -1,0 +1,57 @@
+---
+title: Twitter
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; background: #000; color: #e7e9ea; }
+    header { padding: 15px 20px; border-bottom: 1px solid #2f3336; position: sticky; top: 0; background: rgba(0,0,0,0.8); backdrop-filter: blur(10px); }
+    header h1 { font-size: 1.2rem; }
+    .container { max-width: 600px; margin: 0 auto; border-left: 1px solid #2f3336; border-right: 1px solid #2f3336; min-height: 100vh; }
+    .tweet { padding: 15px; border-bottom: 1px solid #2f3336; display: flex; gap: 12px; }
+    .tweet:hover { background: #080808; }
+    .avatar { width: 48px; height: 48px; border-radius: 50%; background: linear-gradient(135deg, #667eea, #764ba2); flex-shrink: 0; }
+    .tweet-content { flex: 1; }
+    .tweet-header { display: flex; align-items: center; gap: 5px; margin-bottom: 5px; }
+    .name { font-weight: bold; }
+    .handle { color: #71767b; }
+    .date { color: #71767b; }
+    .tweet-text a { color: #e7e9ea; text-decoration: none; }
+    .tweet-text a:hover { text-decoration: underline; }
+    .tweet-actions { display: flex; gap: 50px; margin-top: 12px; color: #71767b; font-size: 0.85rem; }
+    .tweet-actions span { cursor: pointer; }
+    .tweet-actions span:hover { color: #1d9bf0; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header><h1>Blog</h1></header>
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
+    <div class="tweet">
+      <div class="avatar"></div>
+      <div class="tweet-content">
+        <div class="tweet-header">
+          <span class="name">Micepad</span>
+          <span class="handle">@micepad</span>
+          <span class="date">· {{ post.date | date: "%b %d" }}</span>
+        </div>
+        <div class="tweet-text">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </div>
+        <div class="tweet-actions">
+          <span>💬 {{ forloop.index | times: 3 }}</span>
+          <span>🔁 {{ forloop.index | times: 5 }}</span>
+          <span>❤️ {{ forloop.index | times: 12 }}</span>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</body>
+</html>
