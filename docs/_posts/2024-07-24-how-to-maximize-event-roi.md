@@ -2,6 +2,7 @@
 layout: post
 title: "7 Top Tips To Calculate and Maximize Event ROI"
 date: 2024-07-24
+category: "Industry Insights"
 ---
 
 Event creators are business people too. The first goal of every event is to ensure smooth sailing of the proceedings, such that each and every attendee gets the full extent of the kind of content they signed up for. However, many event planners focus so much on that, that they forget another important aspect of the entire event process: generating revenue and [maximize event ROI](how-to-maximize-event-roi.html).

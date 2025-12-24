@@ -2,6 +2,7 @@
 layout: post
 title: "5 Benefits That Make Online Event Check-In Software Worth All The Hype"
 date: 2020-02-28
+category: "Product Insights"
 ---
 
 Online event registration is all the rave right now, but what about event check-ins too?

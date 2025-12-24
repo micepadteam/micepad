@@ -2,6 +2,7 @@
 layout: post
 title: "Set Up On-Site Event Check-In: Challenges, Tips, & Best Practices"
 date: 2024-08-29
+category: "How-To & Tutorials"
 ---
 
 Setting up [on-site event check-in](event-check-in.html) is a game with its own rules, and it can quickly become a snowball of challenges, especially as the event grows. The check-in process can go awry if not managed carefully, from long lines to tech glitches. To ensure a smooth and successful check-in, you must understand the challenges you might face and be prepared to tackle them head-on. In this article, we’ll dive into these challenges, share practical tips, and lay out best practices to help you master the on-site check-in process and keep everything running seamlessly.

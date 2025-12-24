@@ -2,6 +2,7 @@
 layout: post
 title: "Micepad: A Quick Peek into The Barefoot Office"
 date: 2018-04-16
+category: "Company News"
 ---
 
 From humble beginnings at NTU to winning the Ideas Inc Most Innovative Startup award in 2013, we have come a long way since we started 5 years ago in Singapore as a small startup renting iPads. As we celebrate our milestones, we would also like to showcase what the company culture is like in Micepad. We do our best to embody what it truly means to be a startup and over the years, we have adapted to include some aspects which are unique to Micepad.

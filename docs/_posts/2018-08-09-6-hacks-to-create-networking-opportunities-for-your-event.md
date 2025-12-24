@@ -2,6 +2,7 @@
 layout: post
 title: "6 Hacks to Create Networking Opportunities for Your Event"
 date: 2018-08-09
+category: "Industry Insights"
 ---
 
 **Introduction**

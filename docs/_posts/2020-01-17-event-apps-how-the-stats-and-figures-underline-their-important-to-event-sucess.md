@@ -2,6 +2,7 @@
 layout: post
 title: "Event Apps: How the stats and figures underline their important to event sucess"
 date: 2020-01-17
+category: "Product Insights"
 ---
 
 Event management and planning companies are starting to come into the realization of how important mobile apps are to the success of the overall event. [Up to 75% of event planners](https://www.eventmanagerblog.com/event-app-bible) who have not started using event apps state their plan to offer such solutions in their subsequent events.

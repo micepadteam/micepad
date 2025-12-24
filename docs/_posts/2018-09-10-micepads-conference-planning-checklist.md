@@ -2,6 +2,7 @@
 layout: post
 title: "Micepad’s Conference Planning Checklist"
 date: 2018-09-10
+category: "Industry Insights"
 ---
 
 **Introduction**

@@ -2,6 +2,7 @@
 layout: post
 title: "Tricks to Up Your Public Speaking Game"
 date: 2018-04-17
+category: "Industry Insights"
 ---
 
 Being able to speak in front of a large crowd and host meetings is an essential skill in the MICE industry. You are expected to do it, and do it well. If you find the thought of public speaking intimidating, you are not alone.

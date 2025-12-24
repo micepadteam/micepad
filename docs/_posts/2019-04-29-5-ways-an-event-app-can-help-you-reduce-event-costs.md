@@ -2,6 +2,7 @@
 layout: post
 title: "5 Ways An Event App Can Help You Reduce Event Costs"
 date: 2019-04-29
+category: "Industry Insights"
 ---
 
 #### 1. Printing

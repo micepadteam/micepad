@@ -2,6 +2,7 @@
 layout: post
 title: "Training and Workshops: Building a Meaningful Event"
 date: 2018-09-18
+category: "Industry Insights"
 ---
 
 #### Training and Workshop Essentials

@@ -2,6 +2,7 @@
 layout: post
 title: "Pivot Your F2F Event Into A Virtual Event"
 date: 2020-04-07
+category: "Industry Insights"
 ---
 
 ![](/micepad-static/docs/uploads/2021/06/Artboard-–-5.png)

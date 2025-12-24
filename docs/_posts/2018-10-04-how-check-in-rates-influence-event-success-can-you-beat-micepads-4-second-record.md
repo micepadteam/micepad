@@ -2,6 +2,7 @@
 layout: post
 title: "How Check-In Rates Influence Event Success: Can You Beat Micepad’s 4-second Record?"
 date: 2018-10-04
+category: "Industry Insights"
 ---
 
 It is every brand owner and event planner’s dream to organise an event that’s flawless and highly impressive from start to finish. Quite frankly, it can be an extremely difficult feat to achieve if your strategy is all over the place. Brand owners and event planners can at times have the tendency to focus on incorporating big and flashy details into their events for the sake of gaining huge impressions from audiences. They do so with the belief that striking or loud impressions always equate to positive attendee experience and overall event success.

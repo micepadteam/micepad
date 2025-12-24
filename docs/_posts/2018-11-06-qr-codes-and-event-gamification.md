@@ -2,6 +2,7 @@
 layout: post
 title: "QR Codes and Event Gamification"
 date: 2018-11-06
+category: "Product Insights"
 ---
 
 #### Introduction

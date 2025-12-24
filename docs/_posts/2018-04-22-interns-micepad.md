@@ -2,6 +2,7 @@
 layout: post
 title: "Interns @Micepad"
 date: 2018-04-22
+category: "Company News"
 ---
 
 Ten weeks have passed in the blink of an eye and we are now bidding farewell to our interns from NTU and SMU. We hope that they have learned as much from us as we have from them 🙂

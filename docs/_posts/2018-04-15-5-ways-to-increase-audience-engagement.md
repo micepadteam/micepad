@@ -2,6 +2,7 @@
 layout: post
 title: "5 Ways to Increase Audience Engagement"
 date: 2018-04-15
+category: "Industry Insights"
 ---
 
 During a conference, the ideal is to have all eyes on the speaker and to have the participants be fully involved in the event. However, that is often far from the reality. You would count yourself lucky if you even manage to capture half of their attention. What’s more, a MICE event often involves hundreds of participants, making it difficult to connect with every member in the audience. It might seem unimaginable to engage hundreds of participants at a go. No worries, we are here to help.

@@ -2,6 +2,7 @@
 layout: post
 title: "Redefining Event Planning in Singapore Via Micepad’s Self-Service Mobile Event App"
 date: 2024-04-16
+category: "Product Updates"
 ---
 
 With Singapore being home to numerous event venues, local event planners (like you) are probably familiar to the demanding nature of the job. Being stretched with “seemingly endless to-do lists” might be the norm—but that shouldn’t be when disseminating event information to attendees.

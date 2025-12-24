@@ -2,6 +2,7 @@
 layout: post
 title: "Announcing Micepad’s Newest RSVP Feature"
 date: 2018-04-21
+category: "Product Updates"
 ---
 
 Event coordinators are ranked the fifth most stressful job in 2016. For obvious reasons, attention to detail matters a lot in this job because you can’t afford too many things to go wrong during your event. Like many organisers out there, you must have found the registration process to be extremely bothersome especially if you still have a lot of administrative and logistics matters to handle. Yet without registration, you will have no attendee to even start your event.

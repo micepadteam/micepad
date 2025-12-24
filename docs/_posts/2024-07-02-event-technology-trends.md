@@ -2,6 +2,7 @@
 layout: post
 title: "10 Most Awaited Event Technology Trends in 2024"
 date: 2024-07-02
+category: "Industry Insights"
 ---
 
 The first half of 2024 may be over, but we are yet to witness the full scale of [technology trends](/blog/event-technology-trends/) set to wrap 2024 up and commence 2025 with a bang.  Truth be told, it seems that the world of technology is just getting started with boosting events.

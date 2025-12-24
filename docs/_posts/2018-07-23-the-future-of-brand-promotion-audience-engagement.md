@@ -2,6 +2,7 @@
 layout: post
 title: "The Future of Brand Promotion & Audience Engagement"
 date: 2018-07-23
+category: "Industry Insights"
 ---
 
 Event technology is one of today’s impressive and dramatically emerging developments. From a meager 9% of industries offering mobile apps to boost attendee experience way back in 2011, the use of event apps by brands has taken a huge leap and, well, the rest is history.

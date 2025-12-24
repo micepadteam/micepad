@@ -2,6 +2,7 @@
 layout: post
 title: "Personalisation in Event Apps: A Recipe for Event Efficiency"
 date: 2018-10-06
+category: "Industry Insights"
 ---
 
 #### Introduction

@@ -2,6 +2,7 @@
 layout: post
 title: "7 Proven Ways To Increase Your Event Engagement"
 date: 2024-07-08
+category: "Industry Insights"
 ---
 
 During a conference, the ideal is to have all eyes on the speaker and to have the participants be fully involved in the event, ensuring high [event engagement](increase-event-engagement.html). However, that is often far from the reality. You would count yourself lucky if you even manage to capture half of their attention.

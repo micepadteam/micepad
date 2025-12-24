@@ -2,6 +2,7 @@
 layout: post
 title: "Micepad December Updates 2019"
 date: 2019-12-06
+category: "Product Updates"
 ---
 
 In the blink of an eye, 2019 is nearly over. It’s been a year of big changes for Micepad, with a new website, new features, and plenty of updates! Although December brings to mind holidays and merrymaking, our tech team has by no means slacked off!

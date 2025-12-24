@@ -2,6 +2,7 @@
 layout: post
 title: "10 Event Planning Trends You Must Know in 2024"
 date: 2024-07-11
+category: "Industry Insights"
 ---
 
 Events had the room to grow and mature in the decade ending 2019, and we know planners are ready for the next stage of growth and event planning trends to commence from the year 2024.

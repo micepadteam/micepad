@@ -2,6 +2,7 @@
 layout: post
 title: "The Road to Event Success: Attendee Registration / RSVP"
 date: 2018-05-23
+category: "Product Insights"
 ---
 
 [Guest registration](../products/online-event-registration-software.html) plays a very important role when it comes to making an event successful, as it is the front-liner when it comes to welcoming your invitees to the event. Make the best first impression and improve your attendance as you read through the first part of our blog series “The Road to a Successful Event”.

@@ -2,6 +2,7 @@
 layout: post
 title: "Announcing: New Website Launch!"
 date: 2019-03-12
+category: "Company News"
 ---
 
 If you’re new to Micepad, you may not have noticed this, however previous viewers will DEFINITELY have discovered a huge change. After 3 months of hard work (and cross-country video calls), we’re super excited to finally unveil our new website!

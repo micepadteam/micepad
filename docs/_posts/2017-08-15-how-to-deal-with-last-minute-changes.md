@@ -2,6 +2,7 @@
 layout: post
 title: "How to Deal with Last Minute Changes?"
 date: 2017-08-15
+category: "Event News"
 ---
 
 Last minute changes? Even the most experienced event organisers will encounter this during an event. Pulling off a successful event requires countless hours of planning and detailed consideration but a small change is enough to ruin all the efforts.

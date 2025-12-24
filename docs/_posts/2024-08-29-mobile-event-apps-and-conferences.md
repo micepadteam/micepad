@@ -2,6 +2,7 @@
 layout: post
 title: "The Ultimate Guide to Mobile Event Apps & Conferences"
 date: 2024-08-29
+category: "Industry Insights"
 ---
 
 You’re probably using mobile apps for just about everything these days. From checking your bank balance to scrolling through social media, there’s an app for almost everything. So, it’s only natural that mobile apps have found their way into events and conferences.

@@ -2,6 +2,7 @@
 layout: post
 title: "Micepad: Supporting the MICE Industry with Holistic Event Technology"
 date: 2018-09-24
+category: "Company News"
 ---
 
 **Introduction**

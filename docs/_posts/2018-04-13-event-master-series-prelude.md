@@ -2,6 +2,7 @@
 layout: post
 title: "Event Master Series (Prelude)"
 date: 2018-04-13
+category: "Industry Insights"
 ---
 
 We all like to think that we have got this event-planning thing down pat…but ask yourself this: “*Do I really?*”

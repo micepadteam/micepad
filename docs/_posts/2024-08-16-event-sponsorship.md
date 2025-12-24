@@ -2,6 +2,7 @@
 layout: post
 title: "The Complete Guide to Event Sponsorship: Type & Plan to Attract Them"
 date: 2024-08-16
+category: "How-To & Tutorials"
 ---
 
 Why take on all the cost burden of an event when it can be shared with a sponsor? In fact, done right, you might not need to spend a penny of your own funds to get the said event up and running. Like most good things, though, this is easier said than done. That is why we have put up this piece to detail some of the sure-fire methods to help you understand [event sponsorship](/blog/event-sponsorship/) even better and get them on your side.

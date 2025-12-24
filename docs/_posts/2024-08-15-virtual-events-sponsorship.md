@@ -2,6 +2,7 @@
 layout: post
 title: "Complete Guide to Virtual Event Sponsorship: Packages & Ideas"
 date: 2024-08-15
+category: "How-To & Tutorials"
 ---
 
 Despite not being able to mingle in person, virtual events do offer some visible sponsorship perks. It’s relevant to share that we subscribe to the philosophy that sponsors are effectively partners and the best corporate relationships are forged with meaningful values enveloped into the community. While creating sponsorship packages and sourcing for potential sponsors remain a vital part of event planning, these pursuits wouldn’t differ that much compared to hosting a virtual event with sponsors. However, special considerations will still be needed in creating meaningful [virtual event sponsorship](virtual-events-sponsorship.html).

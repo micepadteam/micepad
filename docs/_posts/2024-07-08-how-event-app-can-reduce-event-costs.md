@@ -2,6 +2,7 @@
 layout: post
 title: "9 Ways An Event App Can Help You Reduce Event Costs"
 date: 2024-07-08
+category: "Industry Insights"
 ---
 
 In today’s event planning world, keeping up with the latest technology can make a huge difference in saving time and money. You’ve probably heard some colleagues talking about how great event management apps are, and you’re curious if they’re really worth it. While your current methods might be working just fine, it’s definitely worth seeing what these [event apps](mobile-event-apps-and-conferences.html) bring to the table.

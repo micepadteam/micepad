@@ -2,6 +2,7 @@
 layout: post
 title: "Creating A Unique Event App with DUH!"
 date: 2018-04-12
+category: "Industry Insights"
 ---
 
 The release of mobile applications for smart devices have taken the market by storm, spanning across various industries and purposes. From the simple to the complex, free-to-use and paid applications, one thing is certain: Mobile apps have increased productivity and profitability for businesses and individuals.

@@ -2,6 +2,7 @@
 layout: post
 title: "Announcing: New Synchronised Slides Function"
 date: 2018-01-10
+category: "Product Updates"
 ---
 
 While mobile applications have proven to be a lot more convenient, effective and efficient, this technology has still not yet reached its full potential across the world. Why? One reason could very well be the control the organisers’ feel they lose, as well as the distraction that they perceive.

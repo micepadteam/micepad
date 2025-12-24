@@ -2,6 +2,7 @@
 layout: post
 title: "Turning an In-Person Event Into a Compelling Live Streaming Virtual Experience"
 date: 2020-05-26
+category: "Industry Insights"
 ---
 
 ![](/micepad-static/docs/uploads/2021/06/Business-26-scaled-1-1024x682.jpeg)

@@ -2,6 +2,7 @@
 layout: post
 title: "Going Digital vs. Human Interaction"
 date: 2018-04-21
+category: "Industry Insights"
 ---
 
 Name any social media platforms – Facebook, Twitter, Instagram and you’d probably have one account with it. But even in the digital world, human touch still matters a lot. Technologies are meant to complement our capabilities, not replace.

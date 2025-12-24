@@ -2,6 +2,7 @@
 layout: post
 title: "Virtual Events: Roadmap Revealed"
 date: 2020-05-11
+category: "Product Updates"
 ---
 
 In mid March, Micepad revealed that we will be launching a virtual event platform in the coming weeks.  We expect to share upcoming product updates and previews along the way but this post is purposefully dedicated to our virtual event product roadmap.

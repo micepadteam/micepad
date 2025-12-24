@@ -2,6 +2,7 @@
 layout: post
 title: "10 Benefits of Going Digital for Your Next Event"
 date: 2024-07-04
+category: "Product Insights"
 ---
 
 If you organise events frequently, [event apps](../index.html) should not be new to you. Event apps help organisers digitise all of their [event planning](event-planning-challenges-and-solutions.html) processes from registration to uploading of agenda, content, delegates listing and so on. More importantly, it synchronises the work across all your fellow organisers to keep everyone in the loop.

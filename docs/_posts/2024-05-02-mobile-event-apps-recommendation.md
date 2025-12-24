@@ -2,6 +2,7 @@
 layout: post
 title: "11 Best Mobile Event Apps for Effortless Event Planning in 2024"
 date: 2024-05-02
+category: "Industry Insights"
 ---
 
 Event apps are blowing up right now—and for good reason. 79% of event attendees said the event host should give them an app with event info. And we don’t blame them. These mobile event apps transform how organizers like you coordinate events and how your attendees interact. That’s from seamless registration to real-time updates and digitizing event materials to harnessing data analytics.

@@ -2,6 +2,7 @@
 layout: post
 title: "Launching The New V.8 Admin Panel"
 date: 2019-03-28
+category: "Product Updates"
 ---
 
 ### *v.8 is here!*

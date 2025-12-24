@@ -2,6 +2,7 @@
 layout: post
 title: "5 Reasons to Digitise Your Next Event"
 date: 2017-11-10
+category: "Industry Insights"
 ---
 
 If you organise events frequently, event apps should not be new to you. Event apps help organisers digitise all of their planning processes from registration to uploading of agenda, content, delegates listing and so on. More importantly, it synchronises the work across all your fellow organisers to keep everyone in the loop.

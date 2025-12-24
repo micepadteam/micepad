@@ -2,6 +2,7 @@
 layout: post
 title: "3 New Micepad Features To Power Up Your Virtual Events Management"
 date: 2020-09-21
+category: "Product Updates"
 ---
 
 ![](/micepad-static/docs/uploads/2021/05/newsle_cover-1-1024x620.jpeg)

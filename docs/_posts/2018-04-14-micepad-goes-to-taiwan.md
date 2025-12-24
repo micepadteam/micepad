@@ -2,6 +2,7 @@
 layout: post
 title: "Micepad Goes to Taiwan!"
 date: 2018-04-14
+category: "Company News"
 ---
 
 It’s been a dream of ours for quite some time to expand our operations overseas. After months of planning and preparation, we are very excited to inform you on our expansion and new office in Taiwan!

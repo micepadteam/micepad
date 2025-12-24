@@ -2,6 +2,7 @@
 layout: post
 title: "Your Business Meetings And Town Hall Event Checklist"
 date: 2019-03-07
+category: "Industry Insights"
 ---
 
 ### Do extensive research

@@ -2,6 +2,7 @@
 layout: post
 title: "6 Ideas To Create Networking Opportunities For Your 2024 Event"
 date: 2024-07-08
+category: "Industry Insights"
 ---
 
 Contrary to what people believe, business events are not created solely for the purpose of marketing products. For quite some time now, audience involvement has been a crucial game changer for events. With the influence of audience engagement continuously growing, [networking opportunities](event-networking-opportunities-ideas.html) among participants is likewise being magnified.

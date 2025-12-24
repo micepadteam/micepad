@@ -2,6 +2,7 @@
 layout: post
 title: "10 Essential Steps to Host a Productive Business Meeting"
 date: 2024-09-07
+category: "Industry Insights"
 ---
 
 Have you ever been tasked to organise a [business meeting](business-meeting.html)? Surely, the formal nature of the event can be overwhelming because of how it silently demands for perfection. But then again, perfection is boring.

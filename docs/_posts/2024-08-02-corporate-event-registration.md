@@ -2,6 +2,7 @@
 layout: post
 title: "Corporate Event Registration Guide: Common Challenges and Solutions"
 date: 2024-08-02
+category: "How-To & Tutorials"
 ---
 
 Many people might think corporate events are just like any other gathering, but that’s not quite the case. When you’re planning a corporate event, there’s a lot more at stake, whether it’s internal meetings or client-facing events.

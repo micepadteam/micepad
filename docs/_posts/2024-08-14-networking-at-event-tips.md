@@ -2,6 +2,7 @@
 layout: post
 title: "How to Network Effectively: 15 Tips to Stand Out Like A Pro"
 date: 2024-08-14
+category: "How-To & Tutorials"
 ---
 
 People attend events for various reasons. Event management personnel know this, so they try to create the perfect blend of fun, keynote speakers, relevant speeches, themes and all that to appeal to the diverse set of audience they could be getting. However, one thing that unites almost all attendees is networking. As true as that is, many never network right. Afterall, first impressions matter most. So that you can start, and keep making great first impressions on your contacts, we have developed this fine list of networking at event tips you can use.

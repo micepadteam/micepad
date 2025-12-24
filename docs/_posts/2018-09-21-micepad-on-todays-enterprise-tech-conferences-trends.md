@@ -2,6 +2,7 @@
 layout: post
 title: "Micepad on Todays’ Enterprise Tech Conferences Trends"
 date: 2018-09-21
+category: "Industry Insights"
 ---
 
 **The competition has gone fiercer and fiercer**

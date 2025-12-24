@@ -2,6 +2,7 @@
 layout: post
 title: "Essentials Of Running A Successful Virtual AGM"
 date: 2020-04-28
+category: "Industry Insights"
 ---
 
 AGMs are an important part of listed companies.  As AGMs are huge opportunities for companies to communicate with their shareholders, and inform them how the business is performing, it is hence, vital to get it right. Due to COVID-19, AGMs are now almost impossible to set up and businesses are looking into virtual AGMs as a way to communicate their successes with their shareholders. Here are some of the key issues to consider when planning for virtual AGMs.

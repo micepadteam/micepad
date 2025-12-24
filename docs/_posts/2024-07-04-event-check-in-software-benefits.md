@@ -2,6 +2,7 @@
 layout: post
 title: "Top 5 Reasons Event Check-In Softwares are a Game Changer"
 date: 2024-07-04
+category: "Industry Insights"
 ---
 
 [Online event registration](../products/online-event-registration-software.html) is all the rave right now, but what about [event check-ins](event-check-in-apps-recommendations.html) too?

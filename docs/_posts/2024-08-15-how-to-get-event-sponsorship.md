@@ -2,6 +2,7 @@
 layout: post
 title: "Top 7 Ways to Find Event Sponsors and How to Get Them (2024)"
 date: 2024-08-15
+category: "How-To & Tutorials"
 ---
 
 When it comes to hosting a successful event, sponsorships are the secret sauce that can take it from good to amazing. You’ve probably already got a handle on what event sponsorship means and how to choose the right sponsors based on the types and value they bring. You’ve also figured out how to persuade them with a great pitch in this article of ours: The Ultimate Guide to Event Sponsorship.

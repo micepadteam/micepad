@@ -2,6 +2,7 @@
 layout: post
 title: "Top 16 Event Planning Challenges and How to Address Them All"
 date: 2024-08-15
+category: "How-To & Tutorials"
 ---
 
 Event planning is a superpower on its own. For one, planning something in advance to the tiniest detail requires a great deal of attention, precision and detailing. Like with every other superpower, though, there is always a kryptonite. Today, we talk about the top 16 [event planning challenges](/blog/event-planning-challenges-and-solutions/) that  event planners face – and how you can avoid them at your next event.

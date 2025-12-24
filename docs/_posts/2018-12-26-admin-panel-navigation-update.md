@@ -2,6 +2,7 @@
 layout: post
 title: "Admin Panel Navigation Update"
 date: 2018-12-26
+category: "Product Updates"
 ---
 
 Over the past two months, we have been working hard on making our Admin Panel easier to use for our event organisers. In this first of many updates to come, we have focused on improving user navigation to make features more accessible and easier to understand.**Please note that the screenshots may differ from what you see as it varies based on your package!*

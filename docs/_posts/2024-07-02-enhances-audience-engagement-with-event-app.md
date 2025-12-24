@@ -2,6 +2,7 @@
 layout: post
 title: "7 Ways To Maximize Event App for High Audience Engagement"
 date: 2024-07-02
+category: "Industry Insights"
 ---
 
 A recent research study indicated that no less than 60% of marketers involved in event planning and management get better attendee engagement with an [event planning software](../index.html). Of the 40% who do not already use event apps,[75% of them have the intention of adopting such technology in the future.](https://www.eventmanagerblog.com/event-app-bible)

@@ -2,6 +2,7 @@
 layout: post
 title: "5 Reasons Why Savvy Event Planners Are Using Online Event Management Software"
 date: 2020-01-03
+category: "Product Insights"
 ---
 
 So, you have also heard that some of the professionals in your industry have started using online event management software, and you are at a loss as to why that is even a thing. Afterall, your event management team is doing great without one.

@@ -2,6 +2,7 @@
 layout: post
 title: "Effective Event Email Marketing to Boost Sales"
 date: 2024-08-01
+category: "Industry Insights"
 ---
 
 What is email marketing? Simply put, it’s the process of marketing your products or services and directing your target audience’s attention via email. While it allows your organisation to reach out to new potential customers, it also helps to engage with your current ones. Email is one of the cheapest methods and it does generate sales. So how can you optimise [event email marketing](event-email-marketing.html) to achieve your organisation’s goals? Let’s discuss about it.

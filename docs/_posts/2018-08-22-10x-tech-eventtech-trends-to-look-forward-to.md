@@ -2,6 +2,7 @@
 layout: post
 title: "10x Tech: EventTech Trends to Look Forward to"
 date: 2018-08-22
+category: "Industry Insights"
 ---
 
 The first half of 2018 may be over, but we are yet to witness the full scale of tech trends set to wrap 2018 up and commence 2019 with a bang.  Truth be told, it seems that the world of technology is just getting started with boosting events.

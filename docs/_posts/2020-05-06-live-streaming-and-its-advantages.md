@@ -2,6 +2,7 @@
 layout: post
 title: "Live Streaming And Its Advantages"
 date: 2020-05-06
+category: "Industry Insights"
 ---
 
 ![](/micepad-static/docs/uploads/2021/06/LNCG_M77_09-scaled-1-1024x682.jpeg)

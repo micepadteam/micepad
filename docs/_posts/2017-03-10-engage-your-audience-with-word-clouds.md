@@ -2,6 +2,7 @@
 layout: post
 title: "Engage your audience with Word Clouds!"
 date: 2017-03-10
+category: "Product Insights"
 ---
 
 Having a room full high level executives or fresh minds is pointless if you’re not going to take advantage of the collective intelligence. Truth is, it doesn’t really take much to engage them and tap on their insights. Try using a Word Cloud we guarantee you’ll be addicted. The best part? It only takes 30 seconds to quickly get a feel on the sentiments in the room!

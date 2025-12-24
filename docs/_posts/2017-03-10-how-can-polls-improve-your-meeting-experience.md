@@ -2,6 +2,7 @@
 layout: post
 title: "How Can Polls Improve your Meeting Experience"
 date: 2017-03-10
+category: "Industry Insights"
 ---
 
 If you were around in the events industry many years ago, you will probably be used to something like this if you wanted to conduct a poll.

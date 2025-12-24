@@ -2,6 +2,7 @@
 layout: post
 title: "Top 5 Worries of a Meeting Planner"
 date: 2018-04-13
+category: "Industry Insights"
 ---
 
 Love it or hate it, at some point in your life you were probably tasked to organize and arrange a meeting. From small meetings to large conferences, each event comes with its own unique set of challenges and unpredictability that will cause some to toss and turn and others to pull their hair out. Yet some can’t seem to get enough of it.

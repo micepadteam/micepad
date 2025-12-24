@@ -2,6 +2,7 @@
 layout: post
 title: "Setting Up Event Registration: 9 Applicable Steps"
 date: 2024-08-22
+category: "How-To & Tutorials"
 ---
 
 If you’re planning an event, one thing’s clear: without attendees, your goals can’t be met. That’s why most event planners believe that nailing [event registration](event-registration.html) is crucial. They prioritize registration because it sets the stage for everything else.

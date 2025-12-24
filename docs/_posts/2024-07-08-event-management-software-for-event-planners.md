@@ -2,6 +2,7 @@
 layout: post
 title: "5 Reasons Why Event Planners are Shifting to Event Management Softwares"
 date: 2024-07-08
+category: "Industry Insights"
 ---
 
 So, you have also heard that some of the professionals in your industry have started using [online event management software](event-management-software-for-event-planners.html), and you are at a loss as to why that is even a thing. Afterall, your event management team is doing great without one.

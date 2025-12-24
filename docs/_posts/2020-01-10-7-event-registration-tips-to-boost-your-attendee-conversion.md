@@ -2,6 +2,7 @@
 layout: post
 title: "7 Event Registration Tips to Boost Your Attendee Conversion"
 date: 2020-01-10
+category: "Industry Insights"
 ---
 
 It is not enough that your events are the talk of the town, the next big thing or the most anticipated one in history. Event managers have now come to find out that even the simplest of things could ruin the experience ever before it starts.

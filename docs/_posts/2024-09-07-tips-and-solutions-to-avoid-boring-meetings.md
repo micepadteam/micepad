@@ -2,6 +2,7 @@
 layout: post
 title: "How to Say Goodbye to Boring Meetings Once and For All"
 date: 2024-09-07
+category: "Industry Insights"
 ---
 
 There is an undeniable consensus that attending a business meeting is not exactly what we would call the most exciting event of the year. We have all been guilty of it at one point, when we strain our ears to pay attention and, oops-a-daisy, find ourselves falling asleep during a meeting. Try as you may, but you just cannot seem to resist the soporific voice luring you to sleep. Nevertheless, eschewing meetings is not the solution to the problem.

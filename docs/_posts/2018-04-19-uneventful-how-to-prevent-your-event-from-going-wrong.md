@@ -2,6 +2,7 @@
 layout: post
 title: "Uneventful: How to Prevent Your Event from Going Wrong"
 date: 2018-04-19
+category: "Industry Insights"
 ---
 
 Sometimes, the very thing we want least is to have anything particularly eventful happening at an event, because it might be what we dread the most: utter disaster. Or as Lemony Snicket so rightly puts it: A Series of Unfortunate Events.

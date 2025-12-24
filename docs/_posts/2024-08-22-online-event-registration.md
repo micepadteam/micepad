@@ -2,6 +2,7 @@
 layout: post
 title: "Complete Guide to Improve Your Online Event Registration Process"
 date: 2024-08-22
+category: "Industry Insights"
 ---
 
 The [event registration](event-registration.html) process sits right in the middle of capitalizing on your marketing efforts and converting interested attendees into actual registrants. As crucial as this step is, it’s essential to get it right by meticulously preparing everything from your landing page design and pricing strategy to the registration fields and payment options. If this is your first time diving into this process, let’s explore how you can excel and set yourself up for success.

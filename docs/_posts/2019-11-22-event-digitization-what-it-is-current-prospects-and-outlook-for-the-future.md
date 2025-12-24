@@ -2,6 +2,7 @@
 layout: post
 title: "Event Digitization: What It Is, Current Prospects, And Outlook For The Future"
 date: 2019-11-22
+category: "Industry Insights"
 ---
 
 The internet is a lot of things – especially as it gives way and rise to a host of other industries and niches.

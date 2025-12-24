@@ -2,6 +2,7 @@
 layout: post
 title: "Eventbrite + Micepad: Event Ticketing Made Smoother"
 date: 2019-10-22
+category: "Product Updates"
 ---
 
 Today, we’re announcing yet another exciting update!

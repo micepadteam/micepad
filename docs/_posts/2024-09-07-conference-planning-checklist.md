@@ -2,6 +2,7 @@
 layout: post
 title: "The Must-Have 2024 Conference Planning Checklist (With Free Template!)"
 date: 2024-09-07
+category: "How-To & Tutorials"
 ---
 
 The next time you plan a conference, you will no longer fret age-old event dilemmas. It takes more than just event organising experience to arrange the finest conference for your business and your audience. You need to possess a passion and interest in all things business-related, a good grasp of conference organising, keen attention to detail, a creative mind, and an innate capability to multitask. If you read the above-mentioned qualities and think, “It’s like asking to have superpowers.” Well, great results come with commitment to quality. It also comes with a well-defined and customied [conference planning checklist](conference-planning-checklist.html) to help you keep track of your conference objectives.

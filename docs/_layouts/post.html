@@ -4,7 +4,10 @@ layout: default
 <article>
   <h1>{{ page.title }}</h1>
   {% if page.date %}
-  <p style="color: #666; font-size: 0.9rem;">{{ page.date | date: "%B %d, %Y" }}</p>
+  <p style="color: #666; font-size: 0.9rem;">
+    {{ page.date | date: "%B %d, %Y" }}
+    {% if page.category %} · <a href="{{ site.baseurl }}/category/{{ page.category | slugify }}/" style="color: #0066cc;">{{ page.category }}</a>{% endif %}
+  </p>
   {% endif %}
   {{ content }}
   <hr style="margin-top: 40px;">

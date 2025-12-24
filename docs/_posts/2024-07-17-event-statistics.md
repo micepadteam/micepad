@@ -2,6 +2,7 @@
 layout: post
 title: "7 New Event Statistics To Incorporate Event Apps in 2024"
 date: 2024-07-17
+category: "Industry Insights"
 ---
 
 It is one thing to always talk about why event management applications are the next best thing for event planners – but are there hard facts, numbers, or event statistics to back it up?

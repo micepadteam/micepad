@@ -2,6 +2,7 @@
 layout: post
 title: "Covid-19 And AGMs"
 date: 2020-04-28
+category: "Event News"
 ---
 
 ![](/micepad-static/docs/uploads/2021/06/Banner-1-–-4@2x-1024x341.png)

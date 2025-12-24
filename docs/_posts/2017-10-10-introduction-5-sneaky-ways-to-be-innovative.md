@@ -2,6 +2,7 @@
 layout: post
 title: "Introduction: 5 Sneaky Ways to Be Innovative"
 date: 2017-10-10
+category: "Industry Insights"
 ---
 
 **Evolve, Or Die.**

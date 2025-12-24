@@ -2,6 +2,7 @@
 layout: post
 title: "2019 Kickoff Meeting in Kuala Lumpur"
 date: 2019-01-08
+category: "Company News"
 ---
 
 As a company grows, it gets harder and harder to put a face to a name. When the teams that we work in on a daily basis are no longer limited to a single office, it is too easy to become disconnected from your international members. For a startup, that’s a quick way for things to go awry.That’s why Micepad decided to fly in all our teams from Singapore, Taiwan and Philippines to the KL office in order to kickoff the new year! On the 2nd of January 2019, teams from all over Southeast Asia flew to Malaysia (home to most of our techies!) in order to meet each other and share our experiences over the previous year.

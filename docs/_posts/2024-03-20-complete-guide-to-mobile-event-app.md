@@ -2,6 +2,7 @@
 layout: post
 title: "Mobile Event Apps: Complete Guide & Top 5 Recommendations"
 date: 2024-03-20
+category: "Industry Insights"
 ---
 
 Traditional event management methods are long gone. Events today are even more complex and challenging. We can all agree that the event industry is in need of a game-changing solution. And thanks to [mobile event apps](../products/mobile-event-app.html), attendees no longer have to clutch thick program booklets or miss critical announcements.

@@ -2,6 +2,7 @@
 layout: post
 title: "7 Event Planning Trends To Shape The Coming Decade"
 date: 2020-02-15
+category: "Industry Insights"
 ---
 
 Events had the room to grow and mature in the decade ending 2019, and we know planners are ready for the next stage of growth to commence from the year 2020.

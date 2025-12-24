@@ -2,6 +2,7 @@
 layout: post
 title: "Let Everyday Be Dress Down Friday"
 date: 2018-04-18
+category: "Company News"
 ---
 
 Much too often, what we wear is viewed as a reflection of our character, and to that end, a reflection of how other people perceive us. It is essentially *you*, defined by *your dress code*. Coming from a startup where ‘Casual’ is clearly stated as the company’s dress code, everyday is dress down Friday.

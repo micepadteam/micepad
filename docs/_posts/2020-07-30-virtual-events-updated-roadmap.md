@@ -2,6 +2,7 @@
 layout: post
 title: "Virtual Events: Updated Roadmap"
 date: 2020-07-30
+category: "Product Updates"
 ---
 
 ![](/micepad-static/docs/uploads/2021/06/creative-team-meeting-at-office-PZZ8KNX-scaled-1-1024x682.jpeg)

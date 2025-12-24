@@ -2,6 +2,7 @@
 layout: post
 title: "How To Make The Most Out Of Your Meeting In Singapore"
 date: 2017-08-11
+category: "Industry Insights"
 ---
 
 Most MICE events are annual affairs at another country. If your meeting or conference happens to be in Singapore, you’re in luck! Singapore has been ranked as **[Asia’s Leading Meetings and Conference Destination](https://www.edb.gov.sg/content/edb/en/why-singapore/about-singapore/facts-and-rankings/rankings.html) **(World Travel Awards, 2013) and is one of the most consistently rated countries for MICE tourism. In 2011, it contributed 33 per cent of the Republic’s tourism receipts excluding sightseeing and entertainment expenditure. MICE tourism is still consistently booming and the Singapore Tourism Board (STB) wants it to ****[reach 36 per cent by 2020.](http://business.asiaone.com/news/stb-plans-boost-mice-sector#sthash.WFJj6O7o.dpuf)

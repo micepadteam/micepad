@@ -2,6 +2,7 @@
 layout: post
 title: "Live Streaming Integration For All Your Virtual Event Needs"
 date: 2020-03-26
+category: "Product Updates"
 ---
 
 With the unprecedented epidemic that has taken the world by storm, event deferment and cancelation have impacted the M.I.C.E industry in many ways. Event organisers are now being ‘forced’ to host virtual events. As a home grown end to end provider for M.I.C.E event solutions, we have made virtual events now possible to host digitally and interactively- without geographical constraints!

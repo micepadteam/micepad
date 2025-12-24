@@ -2,6 +2,7 @@
 layout: post
 title: "The Future of Events: Are Event Apps Worth Your Budget?"
 date: 2024-09-07
+category: "Industry Insights"
 ---
 
 Live events are about connecting people, from speakers and their audiences, to business networking and recruiting onboarding sessions. Every event planner may have their own style and way of doing things, but there’s one thing that we all agree on: It’s a HUGE job coordinating everything.

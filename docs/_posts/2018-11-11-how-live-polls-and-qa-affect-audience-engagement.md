@@ -2,6 +2,7 @@
 layout: post
 title: "How Live Polls and Q&A affect Audience Engagement"
 date: 2018-11-11
+category: "Product Insights"
 ---
 
 ![](/micepad-static/docs/uploads/2020/09/30.jpeg)

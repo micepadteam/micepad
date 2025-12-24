@@ -2,6 +2,7 @@
 layout: post
 title: "How an Event App Can Bring your Event to Success"
 date: 2018-08-14
+category: "Industry Insights"
 ---
 
 You may not realize it, but your events may not be driving the ideal number of conversions for your business. This could be due to outdated methods or event technology. Several businesses struggle with keeping up with their competitors in terms of employing an effective tool for advertising and [audience engagement](../index.html). A lot of brands hold events left and right just to promote their brand, but can’t seem to find the right footing in a cutthroat industry.

@@ -2,6 +2,7 @@
 layout: post
 title: "Overcoming Event Management’s Biggest Roadblocks"
 date: 2018-08-31
+category: "Industry Insights"
 ---
 
 **Introduction**

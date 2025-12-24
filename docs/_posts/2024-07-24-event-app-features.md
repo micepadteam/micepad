@@ -2,6 +2,7 @@
 layout: post
 title: "15 Essential Event App Features in 2024"
 date: 2024-07-24
+category: "Industry Insights"
 ---
 
 Sometime ago, we discussed the various reasons [why you should create an event app for your next set of events](/blog/7-reasons-why-your-business-should-use-event-management-software). Here, you can choose to create standalone apps for each event or pick event app features that can be used to host diverse events.
