@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Personalisation in Event Apps: A Recipe for Event Efficiency"
+date: 2018-10-06
+---
+
+#### Introduction
+
+Personalisation and [event technology](https://www.micepad.co/) are two present-day components used to improve existing customer experience strategies. [Event apps](/products/mobile-event-app/) alone spur heightened audience participation and convenience along with seamless event execution. When its existing features are modified with personalisation in mind, it positively influences attendee experience. In return, attendees can participate in more exciting ways.
+
+Examples of features geared towards personalisation are as simple as a personalised profile and agenda. Your attendees can get to edit their personal information and upload their profile picture. Even before the start of your event, you can personalise your attendees’ experience by printing a name badge for their check-in. It helps people to identify them, making them feel valued. They can also bookmark the agenda to create a customised set of schedule. Other forms of event app personalisation include customized invitations and event suggestions using an end-user’s previous event searches and ticket purchase data.
+
+#### How important is event app personalisation?
+
+![](/micepad-static/docs/uploads/2020/09/36.jpeg)
+
+Based on statistics, around 96% of marketers recognise how personalisation contributes to how they can take customer relationships a step further. At the same time, 66% of marketers have observed a boost in their KPI ranging from 1-20%.
+
+Picture this: if everyone is using the same interface, then there is no point of differentiation. This is why personalising your attendees’ experience is important. It sets your event apart from your competitors. That said, everyone’s experience will differ despite using the same app. For event app developers, it boosts value proposition and helps brands accomplish more when organising and implementing marketing and audience reach strategies in their events. More importantly, personalisation means being able to adapt to changing audience and industry demands.
+
+### Putting event app personalisation into action: Effectively transforming present-day events
+
+There are several advantages to making event apps custom-fit for different audiences and events.
+
+#### Instantly Engage New Audience
+
+![](/micepad-static/docs/uploads/2020/09/34.jpeg)
+
+Personalising content may be done through analysing browsing and search data of your target audience. Check what kind of campaigns piqued their interest the most, what offers drove them to convert, and what products or services did they seek in your website and in your competitor’s pages. Sometimes, targeting a new demographic can be challenging, especially if your brand and your event is pretty new to them. But, with a unique welcome invitation that promotes content personalised to suit what intrigues and concerns them the most, it will be easier for them to get a feel of the kind of benefits they can attain from attending your event.
+
+#### Help Attendees Create An Event of Their Own
+
+![](/micepad-static/docs/uploads/2020/09/33.jpeg)
+
+Leverage on the personal profile and personalised agenda to help your attendees make your event their own. By creating an experience tailored to their schedule, your attendees can enjoy a highly engaging experience at your event. It feels as though the event is catered for their individual needs.
+
+#### Build Loyalty
+
+![](/micepad-static/docs/uploads/2020/09/38.jpeg)
+
+The more personalised your event is, the more valued your attendees will feel. Once they feel valued, they will most likely participate and return for your subsequent events. Your attendees will also remember your event messages better if their experience is personalised.
+
+#### Cultivate a Sense of Belonging
+
+![](/micepad-static/docs/uploads/2020/09/39.jpeg)
+
+By committing to personalisation, you will address the different preferences of your attendees to create a highly engaged event experience. Personalising your event experience will also help to build a connection between yourself and your attendees, thus cultivating a sense of belonging within your community.
+
+#### Centralise Your Event
+
+Interlinking every aspect of your event to make it more cohesive and interrelated for your audience boosts attendee convenience and satisfaction. You can manage and oversee your event with ease as well, allowing you to accomplish more at a short amount of time.
+
+#### Create Anticipation for Your Next Event
+
+It easier to convince an audience to attend your next event if you were able to deliver that satisfying, ‘wow factor’ that people always look for when attending events. When a new audience ends up having a positive initial experience at an event, they are most likely eager to anticipate and attend the upcoming events for that particular brand or organization. Personalisation makes your event unique to your target audience, and in return your audience feel valued and highly impressed.
+
+#### Continuously Exceeding Audience Expectations
+
+![](/micepad-static/docs/uploads/2020/09/41.jpeg)
+
+People will continue to seek new ways on how their event experience can be made more distinct and worthwhile. Thus, personalisation in event apps is set for a progressive growth and enhancement. In fact, more event personalisation strategies, such as:
+
+- Driving higher engagement from virtual attendees
+- Incorporating artistic expression to add more value, aesthetic and relevant appeal to an event
+- Immersing attendees in various event segments through creating means to appeal to their other senses (sense of smell, touch, hearing, etc.)
+- Highlighting culture and local flair based on the event’s location through  arranging itineraries that help audience explore a place’s finest tourist spots or by offering gifts and souvenirs as a parting gift to your audience.
+- Setting up interactive forms of technology in the event venue, ranging from digital displays and photo walls embedded with QR codes, LED displays and crowd-controlled special effects
+
+Personalisation is the very factor that keeps brands rooted to their core objectives and brings them closer to their audience. If not applied and practiced enough, it could pretty much lead to a brand’s immediate downfall.

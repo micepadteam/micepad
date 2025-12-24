@@ -1,0 +1,28 @@
+title: Micepad Blog
+description: Event management insights, tips, and product updates from Micepad
+url: "https://micepadteam.github.io"
+baseurl: "/micepad-static/docs"
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:slug/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:slug/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude from build
+exclude:
+  - node_modules
+  - sidebar.md
+  - README.md
