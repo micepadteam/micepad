@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Polaroid</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: "Comic Sans MS", cursive, sans-serif; background: #f5e6d3; min-height: 100vh; padding: 40px 20px; }
+    h1 { text-align: center; margin-bottom: 40px; color: #333; }
+    .grid { max-width: 1200px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; }
+    .polaroid { background: white; padding: 15px 15px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transform: rotate(var(--rotate)); transition: transform 0.3s; width: 220px; }
+    .polaroid:nth-child(odd) { --rotate: -3deg; }
+    .polaroid:nth-child(even) { --rotate: 2deg; }
+    .polaroid:nth-child(3n) { --rotate: -1deg; }
+    .polaroid:hover { transform: rotate(0deg) scale(1.05); z-index: 10; }
+    .photo { height: 180px; background: linear-gradient(135deg, #667eea, #764ba2); margin-bottom: 15px; }
+    .polaroid:nth-child(3n) .photo { background: linear-gradient(135deg, #f093fb, #f5576c); }
+    .polaroid:nth-child(3n+1) .photo { background: linear-gradient(135deg, #4facfe, #00f2fe); }
+    .caption { font-size: 0.9rem; color: #333; }
+    .caption a { color: #333; text-decoration: none; }
+    .date { font-size: 0.75rem; color: #888; margin-top: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Blog Memories</h1>
+  <div class="grid">
+    
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/tips-and-solutions-to-avoid-boring-meetings/">How to Say Goodbye to Boring Meetings Once and ...</a>
+        <div class="date">Sep 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-marketing/">The Essential Guide to Crafting an Effective Ev...</a>
+        <div class="date">Sep 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-app-investment/">The Future of Events: Are Event Apps Worth Your...</a>
+        <div class="date">Sep 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/conference-planning-checklist/">The Must-Have 2024 Conference Planning Checklis...</a>
+        <div class="date">Sep 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/business-meeting/">10 Essential Steps to Host a Productive Busines...</a>
+        <div class="date">Sep 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/https-micepad-co-blog-mice-event-in-singapore/">Ultimate Guide to Planning Unforgettable MICE E...</a>
+        <div class="date">Sep 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-check-in-apps-recommendations/">Best 15 Free & Paid Event Check-In Apps with In...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-check-in/">Set Up On-Site Event Check-In: Challenges, Tips...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/mobile-event-apps-and-conferences/">The Ultimate Guide to Mobile Event Apps & Confe...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/online-event-registration/">Complete Guide to Improve Your Online Event Reg...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-registration/">Setting Up Event Registration: 9 Applicable Steps</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-sponsorship/">The Complete Guide to Event Sponsorship: Type &...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/how-to-get-event-sponsorship/">Top 7 Ways to Find Event Sponsors and How to Ge...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-planning-challenges-and-solutions/">Top 16 Event Planning Challenges and How to Add...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-manager/">Complete Guide to Become a Successful Event Man...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/virtual-events-sponsorship/">Complete Guide to Virtual Event Sponsorship: Pa...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/networking-at-event-tips/">How to Network Effectively: 15 Tips to Stand Ou...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/corporate-event-registration/">Corporate Event Registration Guide: Common Chal...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-registration-software-recommendation/">15 Best Event Registration Software Recommendat...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-email-marketing/">Effective Event Email Marketing to Boost Sales</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-roi/">Guide to Event ROI in 2024: How to Measure and ...</a>
+        <div class="date">Aug 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/how-to-maximize-event-roi/">7 Top Tips To Calculate and Maximize Event ROI</a>
+        <div class="date">Jul 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-engagement-strategies/">Top 15 Proven Event Engagement Strategies To Wi...</a>
+        <div class="date">Jul 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-app-features/">15 Essential Event App Features in 2024</a>
+        <div class="date">Jul 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-statistics/">7 New Event Statistics To Incorporate Event App...</a>
+        <div class="date">Jul 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/what-is-event-management-software/">7 Reasons Why Your Business Should Use Event Ma...</a>
+        <div class="date">Jul 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/what-is-event-technology-trends/">Comprehensive Guide To Implement Event Technolo...</a>
+        <div class="date">Jul 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-registration-tips/">7 Event Registration Tips to Boost Your Attende...</a>
+        <div class="date">Jul 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/event-planning-trends/">10 Event Planning Trends You Must Know in 2024</a>
+        <div class="date">Jul 2024</div>
+      </div>
+    </div>
+    
+    <div class="polaroid">
+      <div class="photo"></div>
+      <div class="caption">
+        <a href="/micepad/docs/blog/increase-event-engagement/">7 Proven Ways To Increase Your Event Engagement</a>
+        <div class="date">Jul 2024</div>
+      </div>
+    </div>
+    
+  </div>
+</body>
+</html>

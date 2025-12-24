@@ -1,0 +1,104 @@
+---
+title: All Posts - Newspaper View
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Times New Roman", Georgia, serif;
+      line-height: 1.5;
+      color: #222;
+      background: #f4f1ea;
+    }
+    header {
+      text-align: center;
+      padding: 40px 20px 20px;
+      border-bottom: 3px double #222;
+      margin-bottom: 30px;
+    }
+    header h1 {
+      font-size: 3rem;
+      font-weight: 700;
+      letter-spacing: -1px;
+      font-family: "Playfair Display", Georgia, serif;
+    }
+    header p {
+      font-style: italic;
+      color: #666;
+      margin-top: 5px;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px 40px;
+    }
+    .headline {
+      text-align: center;
+      padding: 30px 0;
+      border-bottom: 1px solid #ccc;
+      margin-bottom: 30px;
+    }
+    .headline h2 {
+      font-size: 2rem;
+      line-height: 1.2;
+      margin-bottom: 10px;
+    }
+    .headline a { color: #222; text-decoration: none; }
+    .headline a:hover { text-decoration: underline; }
+    .headline .date { font-style: italic; color: #666; }
+    .columns {
+      column-count: 3;
+      column-gap: 40px;
+      column-rule: 1px solid #ddd;
+    }
+    @media (max-width: 900px) { .columns { column-count: 2; } }
+    @media (max-width: 600px) { .columns { column-count: 1; } }
+    .article {
+      break-inside: avoid;
+      margin-bottom: 25px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #ddd;
+    }
+    .article h3 {
+      font-size: 1.1rem;
+      line-height: 1.3;
+      margin-bottom: 5px;
+    }
+    .article a { color: #222; text-decoration: none; }
+    .article a:hover { text-decoration: underline; }
+    .article .date {
+      font-size: 0.8rem;
+      color: #888;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>The Micepad Chronicle</h1>
+    <p>All the event news that's fit to print</p>
+  </header>
+  <div class="container">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+
+    <div class="headline">
+      <h2><a href="{{ sorted_posts[0].url | relative_url }}">{{ sorted_posts[0].title }}</a></h2>
+      <span class="date">{{ sorted_posts[0].date | date: "%B %d, %Y" }}</span>
+    </div>
+
+    <div class="columns">
+      {% for post in sorted_posts offset:1 %}
+      <div class="article">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <span class="date">{{ post.date | date: "%b %d, %Y" }}</span>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</body>
+</html>

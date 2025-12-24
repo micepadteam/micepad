@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Accordion</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, sans-serif; background: #f8f9fa; padding: 40px 20px; }
+    h1 { text-align: center; margin-bottom: 40px; color: #333; }
+    .container { max-width: 700px; margin: 0 auto; }
+    details { background: white; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+    summary { padding: 18px 20px; cursor: pointer; font-weight: 500; display: flex; justify-content: space-between; align-items: center; }
+    summary::-webkit-details-marker { display: none; }
+    summary::after { content: "+"; font-size: 1.5rem; color: #999; }
+    details[open] summary::after { content: "-"; }
+    details[open] summary { border-bottom: 1px solid #eee; }
+    .content { padding: 20px; color: #666; }
+    .content a { color: #667eea; text-decoration: none; }
+    .date { font-size: 0.85rem; color: #999; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Blog Posts</h1>
+  <div class="container">
+    
+    
+    <details>
+      <summary>How to Say Goodbye to Boring Meetings Once and For All</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/tips-and-solutions-to-avoid-boring-meetings/">Read full article &rarr;</a></p>
+        <p class="date">Published: September 07, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>The Essential Guide to Crafting an Effective Event Marketing Strategy</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-marketing/">Read full article &rarr;</a></p>
+        <p class="date">Published: September 07, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>The Future of Events: Are Event Apps Worth Your Budget?</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-app-investment/">Read full article &rarr;</a></p>
+        <p class="date">Published: September 07, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>The Must-Have 2024 Conference Planning Checklist (With Free Template!)</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/conference-planning-checklist/">Read full article &rarr;</a></p>
+        <p class="date">Published: September 07, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>10 Essential Steps to Host a Productive Business Meeting</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/business-meeting/">Read full article &rarr;</a></p>
+        <p class="date">Published: September 07, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Ultimate Guide to Planning Unforgettable MICE Events in Singapore</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/https-micepad-co-blog-mice-event-in-singapore/">Read full article &rarr;</a></p>
+        <p class="date">Published: September 07, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Best 15 Free & Paid Event Check-In Apps with Interactive Features</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-check-in-apps-recommendations/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 30, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Set Up On-Site Event Check-In: Challenges, Tips, & Best Practices</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-check-in/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 29, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>The Ultimate Guide to Mobile Event Apps & Conferences</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/mobile-event-apps-and-conferences/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 29, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Complete Guide to Improve Your Online Event Registration Process</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/online-event-registration/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 22, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Setting Up Event Registration: 9 Applicable Steps</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-registration/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 22, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>The Complete Guide to Event Sponsorship: Type & Plan to Attract Them</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-sponsorship/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 16, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Top 7 Ways to Find Event Sponsors and How to Get Them (2024)</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/how-to-get-event-sponsorship/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 15, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Top 16 Event Planning Challenges and How to Address Them All</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-planning-challenges-and-solutions/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 15, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Complete Guide to Become a Successful Event Manager in 2024</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-manager/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 15, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Complete Guide to Virtual Event Sponsorship: Packages & Ideas</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/virtual-events-sponsorship/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 15, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>How to Network Effectively: 15 Tips to Stand Out Like A Pro</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/networking-at-event-tips/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 14, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Corporate Event Registration Guide: Common Challenges and Solutions</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/corporate-event-registration/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 02, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>15 Best Event Registration Software Recommendations to Try in 2024</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-registration-software-recommendation/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 02, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Effective Event Email Marketing to Boost Sales</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-email-marketing/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 01, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Guide to Event ROI in 2024: How to Measure and Improve it Using Event Apps</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-roi/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 01, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>7 Top Tips To Calculate and Maximize Event ROI</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/how-to-maximize-event-roi/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 24, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Top 15 Proven Event Engagement Strategies To Win Your Audience</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-engagement-strategies/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 24, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>15 Essential Event App Features in 2024</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-app-features/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 24, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>7 New Event Statistics To Incorporate Event Apps in 2024</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-statistics/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 17, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>7 Reasons Why Your Business Should Use Event Management Software</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/what-is-event-management-software/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 16, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Comprehensive Guide To Implement Event Technology Trends</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/what-is-event-technology-trends/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 16, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>7 Event Registration Tips to Boost Your Attendee Conversion</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-registration-tips/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 11, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>10 Event Planning Trends You Must Know in 2024</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-planning-trends/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 11, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>7 Proven Ways To Increase Your Event Engagement</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/increase-event-engagement/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 08, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>6 Ideas To Create Networking Opportunities For Your 2024 Event</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-networking-opportunities-ideas/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 08, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>5 Reasons Why Event Planners are Shifting to Event Management Softwares</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-management-software-for-event-planners/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 08, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>9 Ways An Event App Can Help You Reduce Event Costs</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/how-event-app-can-reduce-event-costs/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 08, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Top 5 Reasons Event Check-In Softwares are a Game Changer</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-check-in-software-benefits/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 04, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>10 Benefits of Going Digital for Your Next Event</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/digital-event-and-its-benefits/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 04, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>10 Most Awaited Event Technology Trends in 2024</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-technology-trends/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 02, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>7 Ways To Maximize Event App for High Audience Engagement</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/enhances-audience-engagement-with-event-app/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 02, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>11 Best Mobile Event Apps for Effortless Event Planning in 2024</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/mobile-event-apps-recommendation/">Read full article &rarr;</a></p>
+        <p class="date">Published: May 02, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Redefining Event Planning in Singapore Via Micepad’s Self-Service Mobile Event App</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/redefining-event-planning-in-singapore-via-micepads-self-service-mobile-event-app/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 16, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Mobile Event Apps: Complete Guide & Top 5 Recommendations</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/mobile-event-app-how-it-enhances-attendee-experience-plus-the-best-mobile-event-app-in-2024/">Read full article &rarr;</a></p>
+        <p class="date">Published: March 20, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Mobile Event Apps: Complete Guide & Top 5 Recommendations</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/complete-guide-to-mobile-event-app/">Read full article &rarr;</a></p>
+        <p class="date">Published: March 20, 2024</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>3 New Micepad Features To Power Up Your Virtual Events Management</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/3-new-features-to-power-up-your-virtual-events/">Read full article &rarr;</a></p>
+        <p class="date">Published: September 21, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Virtual Events: Updated Roadmap</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/virtual-events-updated-roadmap/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 30, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Turning an In-Person Event Into a Compelling Live Streaming Virtual Experience</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/turning-an-in-person-event-into-a-compelling-live-streaming-virtual-experience/">Read full article &rarr;</a></p>
+        <p class="date">Published: May 26, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Virtual Events: Roadmap Revealed</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/virtual-events-roadmap-revealed/">Read full article &rarr;</a></p>
+        <p class="date">Published: May 11, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Live Streaming And Its Advantages</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/live-streaming-and-its-advantages/">Read full article &rarr;</a></p>
+        <p class="date">Published: May 06, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Essentials Of Running A Successful Virtual AGM</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/essentials-of-running-a-successful-virtual-agm/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 28, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Covid-19 And AGMs</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/covid-19-and-agms/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 28, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Pivot Your F2F Event Into A Virtual Event</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/pivot-your-f2f-event-into-a-virtual-event/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 07, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Live Streaming Integration For All Your Virtual Event Needs</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/live-streaming-integration-for-all-your-virtual-event-needs/">Read full article &rarr;</a></p>
+        <p class="date">Published: March 26, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>5 Benefits That Make Online Event Check-In Software Worth All The Hype</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/5-benefits-that-make-online-event-check-in-software-worth-all-the-hype/">Read full article &rarr;</a></p>
+        <p class="date">Published: February 28, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>7 Event Planning Trends To Shape The Coming Decade</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/7-event-planning-trends-to-shape-the-coming-decade/">Read full article &rarr;</a></p>
+        <p class="date">Published: February 15, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Event Apps: How the stats and figures underline their important to event sucess</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-apps-how-the-stats-and-figures-underline-their-important-to-event-sucess/">Read full article &rarr;</a></p>
+        <p class="date">Published: January 17, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>7 Event Registration Tips to Boost Your Attendee Conversion</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/7-event-registration-tips-to-boost-your-attendee-conversion/">Read full article &rarr;</a></p>
+        <p class="date">Published: January 10, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>5 Reasons Why Savvy Event Planners Are Using Online Event Management Software</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/5-reasons-why-savvy-event-planners-are-using-online-event-management-software/">Read full article &rarr;</a></p>
+        <p class="date">Published: January 03, 2020</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Micepad December Updates 2019</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/micepad-december-updates-2019/">Read full article &rarr;</a></p>
+        <p class="date">Published: December 06, 2019</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Event Digitization: What It Is, Current Prospects, And Outlook For The Future</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-digitization-what-it-is-current-prospects-and-outlook-for-the-future/">Read full article &rarr;</a></p>
+        <p class="date">Published: November 22, 2019</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Eventbrite + Micepad: Event Ticketing Made Smoother</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/eventbrite-micepad-event-ticketing-made-smoother/">Read full article &rarr;</a></p>
+        <p class="date">Published: October 22, 2019</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Event Apps, Are They Worth Your Budget?</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-apps-are-they-worth-your-budget/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 30, 2019</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>5 Ways An Event App Can Help You Reduce Event Costs</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/5-ways-an-event-app-can-help-you-reduce-event-costs/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 29, 2019</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Launching The New V.8 Admin Panel</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/launching-the-new-v-8-admin-panel/">Read full article &rarr;</a></p>
+        <p class="date">Published: March 28, 2019</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Announcing: New Website Launch!</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/announcing-new-website-launch/">Read full article &rarr;</a></p>
+        <p class="date">Published: March 12, 2019</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Your Business Meetings And Town Hall Event Checklist</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/your-business-meetings-and-town-hall-event-checklist/">Read full article &rarr;</a></p>
+        <p class="date">Published: March 07, 2019</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>2019 Kickoff Meeting in Kuala Lumpur</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/2019-kickoff-meeting-in-kuala-lumpur/">Read full article &rarr;</a></p>
+        <p class="date">Published: January 08, 2019</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Admin Panel Navigation Update</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/admin-panel-navigation-update/">Read full article &rarr;</a></p>
+        <p class="date">Published: December 26, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>How Live Polls and Q&A affect Audience Engagement</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/how-live-polls-and-qa-affect-audience-engagement/">Read full article &rarr;</a></p>
+        <p class="date">Published: November 11, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>QR Codes and Event Gamification</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/qr-codes-and-event-gamification/">Read full article &rarr;</a></p>
+        <p class="date">Published: November 06, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Personalisation in Event Apps: A Recipe for Event Efficiency</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/personalisation-in-event-apps-a-recipe-for-event-efficiency/">Read full article &rarr;</a></p>
+        <p class="date">Published: October 06, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>How Check-In Rates Influence Event Success: Can You Beat Micepad’s 4-second Record?</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/how-check-in-rates-influence-event-success-can-you-beat-micepads-4-second-record/">Read full article &rarr;</a></p>
+        <p class="date">Published: October 04, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Micepad: Supporting the MICE Industry with Holistic Event Technology</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/micepad-supporting-the-mice-industry-with-holistic-event-technology/">Read full article &rarr;</a></p>
+        <p class="date">Published: September 24, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Micepad on Todays’ Enterprise Tech Conferences Trends</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/micepad-on-todays-enterprise-tech-conferences-trends/">Read full article &rarr;</a></p>
+        <p class="date">Published: September 21, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Training and Workshops: Building a Meaningful Event</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/training-and-workshops-building-a-meaningful-event/">Read full article &rarr;</a></p>
+        <p class="date">Published: September 18, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Micepad’s Conference Planning Checklist</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/micepads-conference-planning-checklist/">Read full article &rarr;</a></p>
+        <p class="date">Published: September 10, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Overcoming Event Management’s Biggest Roadblocks</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/overcoming-event-managements-biggest-roadblocks/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 31, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>10x Tech: EventTech Trends to Look Forward to</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/10x-tech-eventtech-trends-to-look-forward-to/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 22, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>How an Event App Can Bring your Event to Success</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/how-an-event-app-can-bring-your-event-to-success/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 14, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>6 Hacks to Create Networking Opportunities for Your Event</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/6-hacks-to-create-networking-opportunities-for-your-event/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 09, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>The Future of Brand Promotion & Audience Engagement</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/the-future-of-brand-promotion-audience-engagement/">Read full article &rarr;</a></p>
+        <p class="date">Published: July 23, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>The Road to Event Success: Attendee Registration / RSVP</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/the-road-to-event-success-attendee-registration-rsvp/">Read full article &rarr;</a></p>
+        <p class="date">Published: May 23, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Interns @Micepad</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/interns-micepad/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 22, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Going Digital vs. Human Interaction</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/going-digital-vs-human-interaction/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 21, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Announcing Micepad’s Newest RSVP Feature</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/announcing-micepads-newest-rsvp-feature/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 21, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Uneventful: How to Prevent Your Event from Going Wrong</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/uneventful-how-to-prevent-your-event-from-going-wrong/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 19, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Let Everyday Be Dress Down Friday</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/let-everyday-be-dress-down-friday/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 18, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Tricks to Up Your Public Speaking Game</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/tricks-to-up-your-public-speaking-game/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 17, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Micepad: A Quick Peek into The Barefoot Office</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/micepad-a-quick-peek-into-the-barefoot-office/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 16, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>5 Ways to Increase Audience Engagement</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/5-ways-to-increase-audience-engagement/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 15, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Your Meeting Is Boring. Here’s How You Can Change It.</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/your-meeting-is-boring-heres-how-you-can-change-it/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 14, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Micepad Goes to Taiwan!</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/micepad-goes-to-taiwan/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 14, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Top 5 Worries of a Meeting Planner</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/top-5-worries-of-a-meeting-planner/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 13, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Event Master Series (Prelude)</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/event-master-series-prelude/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 13, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Creating A Unique Event App with DUH!</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/creating-a-unique-event-app-with-duh/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 12, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Micepad: Swipe Your Way to a Great Conference</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/micepad-swipe-your-way-to-a-great-conference/">Read full article &rarr;</a></p>
+        <p class="date">Published: April 10, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Announcing: New Synchronised Slides Function</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/announcing-new-synchronised-slides-function/">Read full article &rarr;</a></p>
+        <p class="date">Published: January 10, 2018</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>5 Reasons to Digitise Your Next Event</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/5-reasons-to-digitise-your-next-event/">Read full article &rarr;</a></p>
+        <p class="date">Published: November 10, 2017</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Introduction: 5 Sneaky Ways to Be Innovative</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/introduction-5-sneaky-ways-to-be-innovative/">Read full article &rarr;</a></p>
+        <p class="date">Published: October 10, 2017</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>How to Deal with Last Minute Changes?</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/how-to-deal-with-last-minute-changes/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 15, 2017</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>How To Make The Most Out Of Your Meeting In Singapore</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/how-to-make-the-most-out-of-your-meeting-in-singapore/">Read full article &rarr;</a></p>
+        <p class="date">Published: August 11, 2017</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>How Can Polls Improve your Meeting Experience</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/how-can-polls-improve-your-meeting-experience/">Read full article &rarr;</a></p>
+        <p class="date">Published: March 10, 2017</p>
+      </div>
+    </details>
+    
+    <details>
+      <summary>Engage your audience with Word Clouds!</summary>
+      <div class="content">
+        <p><a href="/micepad/docs/blog/engage-your-audience-with-word-clouds/">Read full article &rarr;</a></p>
+        <p class="date">Published: March 10, 2017</p>
+      </div>
+    </details>
+    
+  </div>
+</body>
+</html>

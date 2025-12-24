@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sidebar Layout Demo | Micepad Blog</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px 40px;
+    }
+    header a { color: white; text-decoration: none; font-size: 1.5rem; font-weight: bold; }
+    .container {
+      display: flex;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 30px;
+      gap: 40px;
+    }
+    main { flex: 7; }
+    aside {
+      flex: 3;
+      background: #f8f9fa;
+      padding: 20px;
+      border-radius: 8px;
+      height: fit-content;
+    }
+    aside h3 { margin-bottom: 15px; color: #2c3e50; }
+    aside ul { list-style: none; }
+    aside li { padding: 8px 0; border-bottom: 1px solid #eee; }
+    aside a { color: #3498db; text-decoration: none; }
+    footer {
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+    img { max-width: 100%; }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="/micepad/docs/">Micepad Blog</a>
+  </header>
+  <div class="container">
+    <main>
+      <h1 id="with-sidebar-layout">With Sidebar Layout</h1>
+
+<p>This layout has a <strong>70/30 split</strong> with content on the left and a sidebar on the right.</p>
+
+<p>Great for:</p>
+<ul>
+  <li>Blog posts with navigation</li>
+  <li>Documentation pages</li>
+  <li>Category archives</li>
+</ul>
+
+<p>The sidebar shows categories and recent posts automatically.</p>
+
+<h2 id="sample-content">Sample Content</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Responsive design</li>
+  <li>Auto-populated recent posts</li>
+  <li>Category navigation</li>
+  <li>Clean typography</li>
+</ul>
+
+    </main>
+    <aside>
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="#">Industry Insights</a></li>
+        <li><a href="#">Product Updates</a></li>
+        <li><a href="#">How-to Guides</a></li>
+        <li><a href="#">Company News</a></li>
+      </ul>
+      <h3 style="margin-top: 25px;">Recent Posts</h3>
+      <ul>
+        
+        <li><a href="/micepad/docs/blog/tips-and-solutions-to-avoid-boring-meetings/">How to Say Goodbye to Boring Meetings...</a></li>
+        
+        <li><a href="/micepad/docs/blog/https-micepad-co-blog-mice-event-in-singapore/">Ultimate Guide to Planning Unforgetta...</a></li>
+        
+        <li><a href="/micepad/docs/blog/event-marketing/">The Essential Guide to Crafting an Ef...</a></li>
+        
+        <li><a href="/micepad/docs/blog/event-app-investment/">The Future of Events: Are Event Apps ...</a></li>
+        
+        <li><a href="/micepad/docs/blog/conference-planning-checklist/">The Must-Have 2024 Conference Plannin...</a></li>
+        
+      </ul>
+    </aside>
+  </div>
+  <footer>&copy; 2025 Micepad</footer>
+</body>
+</html>
